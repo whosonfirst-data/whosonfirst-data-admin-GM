@@ -1,0 +1,79 @@
+{
+  "id": 421183479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.11667,13.53333,-14.11667,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":-14.11667,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413417,
+    "qs:gn_pop":1566,
+    "qs:name":"Gunjur Kuta",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Upper River",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1297375,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321458,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890413179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413417,
+        "gp:id":1321458,
+        "qs:id":1297375
+    },
+    "wof:country":"GM",
+    "wof:created":1459009371,
+    "wof:geomhash":"869738a1175e9013c83e78397bb9ab8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413179,
+            "locality_id":421183479,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":421183479,
+    "wof:lastmodified":1505340686,
+    "wof:name":"Gunjur Kuta",
+    "wof:parent_id":890413179,
+    "wof:placetype":"locality",
+    "wof:population":1566,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.11667,
+    13.53333,
+    -14.11667,
+    13.53333
+],
+  "geometry": {"coordinates":[-14.11667,13.53333],"type":"Point"}
+}

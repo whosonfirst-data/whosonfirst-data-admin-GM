@@ -1,0 +1,67 @@
+{
+  "id": 1242572179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.00972,13.58444,-16.00972,13.58444",
+    "geom:latitude":13.58444,
+    "geom:longitude":-16.00972,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wellingara",
+    "gn:country_code":"GM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411698,
+    "gn:latitude":13.58444,
+    "gn:longitude":-16.00972,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Wellingara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411698
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"5ea3eb54e6b91039cdd44bad53e56767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422473,
+            "locality_id":1242572179,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1242572179,
+    "wof:lastmodified":1537068514,
+    "wof:name":"Wellingara",
+    "wof:parent_id":890422473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.00972,
+    13.58444,
+    -16.00972,
+    13.58444
+],
+  "geometry": {"coordinates":[-16.00972,13.58444],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1108562621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000895,
+    "geom:area_square_m":10766267.59673,
+    "geom:bbox":"-16.6282336603,13.4335713683,-16.5746336603,13.4719713683",
+    "geom:latitude":13.45072,
+    "geom:longitude":-16.596561,
+    "iso:country":"GM",
+    "lbl:latitude":13.451173,
+    "lbl:longitude":-16.596967,
+    "meso:adm1_name":"Banjul",
+    "meso:gadm_admin":"Banjul",
+    "meso:gadm_hasc2":"GM.BJ.BJ",
+    "meso:gaul_admin":"Banjul",
+    "meso:mps_x":-16.596967,
+    "meso:mps_y":13.451173,
+    "meso:name_local":"Banjul",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":13.451173,
+    "mps:longitude":-16.596967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Banjul"
+    ],
+    "name:eng_x_variant":[
+        "Banjul"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-04-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2003-04-15",
+    "statoids:capital":"",
+    "statoids:country":"GM",
+    "statoids:hasc":"GM.BJ",
+    "statoids:name":"Banjul",
+    "statoids:population":"34828",
+    "statoids:statoid":"GM.BJ.BJ",
+    "statoids:timezone":"+0",
+    "statoids:type":"city council",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GM.BJ.BJ"
+    },
+    "wof:country":"GM",
+    "wof:created":1474051428,
+    "wof:geomhash":"31853e30c22f963385d1779aac25743d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":1108562621,
+            "region_id":85671517
+        }
+    ],
+    "wof:id":1108562621,
+    "wof:lastmodified":1536615190,
+    "wof:name":"Banjul",
+    "wof:parent_id":85671517,
+    "wof:placetype":"county",
+    "wof:placetype_local":"city council",
+    "wof:population":34828,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:shortcode":"BJ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.62823366026743,
+    13.43357136831214,
+    -16.5746336602674,
+    13.47197136831218
+],
+  "geometry": {"coordinates":[[[-16.62633366026743,13.47197136831218],[-16.58573366026736,13.45907136831215],[-16.57983366026742,13.45457136831214],[-16.5746336602674,13.44247136831214],[-16.57663366026742,13.43737136831214],[-16.58063366026735,13.43437136831216],[-16.5860336602674,13.43357136831214],[-16.5905336602674,13.43467136831212],[-16.59503366026741,13.4402713683121],[-16.60323366026741,13.43787136831212],[-16.6063336602674,13.4351713683121],[-16.60803366026737,13.43917136831212],[-16.60823366026739,13.44587136831217],[-16.61303366026736,13.4472713683121],[-16.61043366026743,13.45037136831218],[-16.61263366026738,13.4529713683121],[-16.6089336602674,13.45637136831213],[-16.60823366026739,13.45907136831215],[-16.6159336602674,13.46347136831215],[-16.62063366026735,13.46687136831218],[-16.62593366026738,13.46607136831215],[-16.62823366026743,13.4669713683121],[-16.62743366026741,13.46987136831215],[-16.62633366026743,13.47197136831218]]],"type":"Polygon"}
+}

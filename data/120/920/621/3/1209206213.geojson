@@ -1,0 +1,61 @@
+{
+  "id": 1209206213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.38833,13.33778,-16.38833,13.33778",
+    "geom:latitude":13.33778,
+    "geom:longitude":-16.38833,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sanchaba",
+    "gn:country_code":"GM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412187,
+    "gn:latitude":13.33778,
+    "gn:longitude":-16.38833,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Sanchaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412187
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"143ba48a4644a7656a43e8770c936a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632603,
+            "locality_id":1209206213
+        }
+    ],
+    "wof:id":1209206213,
+    "wof:lastmodified":1536294447,
+    "wof:name":"Sanchaba",
+    "wof:parent_id":85632603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.38833,
+    13.33778,
+    -16.38833,
+    13.33778
+],
+  "geometry": {"coordinates":[-16.38833,13.33778],"type":"Point"}
+}

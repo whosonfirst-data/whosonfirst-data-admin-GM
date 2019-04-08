@@ -1,0 +1,67 @@
+{
+  "id": 1360196061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.75,13.48333,-14.75,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":-14.75,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mban",
+    "gn:country_code":"GM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412574,
+    "gn:latitude":13.48333,
+    "gn:longitude":-14.75,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412574
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"2f51d7981e49e0ebbe4a7e11a95f1093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":1360196061,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1360196061,
+    "wof:lastmodified":1536786018,
+    "wof:name":"Mban",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.75,
+    13.48333,
+    -14.75,
+    13.48333
+],
+  "geometry": {"coordinates":[-14.75,13.48333],"type":"Point"}
+}

@@ -1,0 +1,273 @@
+{
+  "id": 421178335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.21373,13.30995,-14.21373,13.30995",
+    "geom:latitude":13.30995,
+    "geom:longitude":-14.21373,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0633 \u0633\u0627\u0646\u062a\u0627 \u0633\u0648"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0561\u057d\u057d\u0565 \u054d\u0561\u0576\u057f\u0561 \u054d\u0578\u0582"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u585e\u8056\u8607"
+    ],
+    "name:dan_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:deu_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:dut_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:eng_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:fin_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:fre_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:ger_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:glg_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e1 \u05e1\u05e0\u05d8\u05d4 \u05e1\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u057d\u057d\u0565 \u054d\u0561\u0576\u057f\u0561 \u054d\u0578\u0582"
+    ],
+    "name:ita_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30bb\u30fb\u30b5\u30f3\u30bf\u30fb\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc138\uc0b0\ud0c0\uc218"
+    ],
+    "name:ksh_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:lit_x_preferred":[
+        "Bas Santa Su"
+    ],
+    "name:nld_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:nob_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:pol_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:por_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:ron_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:rum_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u0441\u0435-\u0421\u0430\u043d\u0442\u0430-\u0421\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:swe_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:tur_x_preferred":[
+        "Basse Santa Su"
+    ],
+    "name:unk_x_variant":[
+        "Basse"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0633 \u0633\u0627\u0646\u062a\u0627 \u0633\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u585e\u8056\u8607"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"The Gambia",
+    "ne:ADM0_A3":"GMB",
+    "ne:ADM1NAME":"Upper River",
+    "ne:ADMIN1_COD":4,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":2413818,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Basse Santa Su",
+    "ne:GN_POP":14380,
+    "ne:GTOPO30":23.0,
+    "ne:ISO_A2":"GM",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":13.310001,
+    "ne:LONGITUDE":-14.222996,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Basse Santa Su",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Basse Santa Su",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":14380,
+    "ne:POP_MIN":14380,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Gambia, The",
+    "ne:SOV_A3":"GMB",
+    "ne:TIMEZONE":"Africa/Banjul",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":2413818,
+    "qs:gn_pop":14380,
+    "qs:name":"Basse Santa Su",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Upper River",
+    "qs:photos":134,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":134,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":279379,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321192,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":13.316667,
+    "wd:longitude":-14.216667,
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890429057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413818,
+        "gp:id":1321192,
+        "qs:id":279379,
+        "wd:id":"Q153498",
+        "wk:page":"Basse Santa Su"
+    },
+    "wof:country":"GM",
+    "wof:created":1459009178,
+    "wof:geomhash":"1346f2b9ddf633bbd9f57ce417c8784e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429057,
+            "locality_id":421178335,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":421178335,
+    "wof:lastmodified":1527717724,
+    "wof:name":"Basse Santa Su",
+    "wof:parent_id":890429057,
+    "wof:placetype":"locality",
+    "wof:population":14380,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.21373,
+    13.30995,
+    -14.21373,
+    13.30995
+],
+  "geometry": {"coordinates":[-14.21373,13.30995],"type":"Point"}
+}

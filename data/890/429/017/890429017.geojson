@@ -1,0 +1,68 @@
+{
+  "id": 890429017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.95,13.53333,-14.95,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":-14.95,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":440,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Sukur",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":766,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411882,
+        "gp:id":28752606,
+        "qs:id":91389,
+        "wk:page":"Sukur"
+    },
+    "wof:country":"GM",
+    "wof:created":1469051787,
+    "wof:geomhash":"5eb476cd838260af74686c0f127bc268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":890429017,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890429017,
+    "wof:lastmodified":1527792794,
+    "wof:name":"Sukur",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:population":440,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.95,
+    13.53333,
+    -14.95,
+    13.53333
+],
+  "geometry": {"coordinates":[-14.95,13.53333],"type":"Point"}
+}

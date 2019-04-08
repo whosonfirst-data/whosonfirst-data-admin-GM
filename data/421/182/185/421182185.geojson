@@ -1,0 +1,97 @@
+{
+  "id": 421182185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.76222,13.09472,-16.76222,13.09472",
+    "geom:latitude":13.09472,
+    "geom:longitude":-16.76222,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Kartong"
+    ],
+    "name:dut_x_preferred":[
+        "Kartung"
+    ],
+    "name:eng_x_preferred":[
+        "Kartung"
+    ],
+    "name:ger_x_preferred":[
+        "Kartong"
+    ],
+    "name:swe_x_preferred":[
+        "Kartong"
+    ],
+    "name:tur_x_preferred":[
+        "Kartong"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413061,
+    "qs:gn_pop":0,
+    "qs:name":"Kartung",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Western",
+    "qs:photos":218,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":218,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894028,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321713,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413061,
+        "gp:id":1321713,
+        "qs:id":894028,
+        "wd:id":"Q1734655",
+        "wk:page":"Kartung"
+    },
+    "wof:country":"GM",
+    "wof:created":1459009321,
+    "wof:geomhash":"4c1bb99c71db9a6c9abf585b9fcd4faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413347,
+            "locality_id":421182185,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":421182185,
+    "wof:lastmodified":1527726467,
+    "wof:name":"Kartung",
+    "wof:parent_id":890413347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.76222,
+    13.09472,
+    -16.76222,
+    13.09472
+],
+  "geometry": {"coordinates":[-16.76222,13.09472],"type":"Point"}
+}

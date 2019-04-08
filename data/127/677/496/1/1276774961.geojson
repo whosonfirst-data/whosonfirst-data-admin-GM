@@ -1,0 +1,71 @@
+{
+  "id": 1276774961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.31667,13.65,-15.31667,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":-15.31667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ja Koto",
+    "gn:country_code":"GM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413358,
+    "gn:latitude":13.65,
+    "gn:longitude":-15.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ja Koto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jakotto",
+        "Ja Koto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        1108562627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413358
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"64cb65c74ef8865643fb3e99004d764c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":1108562627,
+            "locality_id":1276774961,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1276774961,
+    "wof:lastmodified":1537623894,
+    "wof:name":"Ja Koto",
+    "wof:parent_id":1108562627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.31667,
+    13.65,
+    -15.31667,
+    13.65
+],
+  "geometry": {"coordinates":[-15.31667,13.65],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890429069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.86667,13.2,-15.86667,13.2",
+    "geom:latitude":13.2,
+    "geom:longitude":-15.86667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":288,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Chabai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890422705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413685,
+        "gp:id":1322556,
+        "qs:id":91420,
+        "wk:page":"Chabai"
+    },
+    "wof:country":"GM",
+    "wof:created":1469051791,
+    "wof:geomhash":"296c03c332b969ade96160e6101ed762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422705,
+            "locality_id":890429069,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":890429069,
+    "wof:lastmodified":1527792796,
+    "wof:name":"Chabai",
+    "wof:parent_id":890422705,
+    "wof:placetype":"locality",
+    "wof:population":288,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.86667,
+    13.2,
+    -15.86667,
+    13.2
+],
+  "geometry": {"coordinates":[-15.86667,13.2],"type":"Point"}
+}

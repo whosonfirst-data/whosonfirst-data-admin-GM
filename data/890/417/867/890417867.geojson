@@ -1,0 +1,87 @@
+{
+  "id": 890417867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.4,13.38333,-14.4,13.38333",
+    "geom:latitude":13.38333,
+    "geom:longitude":-14.4,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":3722,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u0430\u0431\u0443\u0433\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Diabugu"
+    ],
+    "name:eng_x_preferred":[
+        "Diabugu"
+    ],
+    "name:ger_x_preferred":[
+        "Diabugu"
+    ],
+    "name:swe_x_preferred":[
+        "Diabugu"
+    ],
+    "name:unk_x_variant":[
+        "Dirboko"
+    ],
+    "qs:name":"Diabugu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890429021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413580,
+        "gp:id":1321358,
+        "qs:id":1035524,
+        "wd:id":"Q269070",
+        "wk:page":"Diabugu"
+    },
+    "wof:country":"GM",
+    "wof:created":1469051224,
+    "wof:geomhash":"e442ce30cbb3a09e990b5e3cf3e0952a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429021,
+            "locality_id":890417867,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":890417867,
+    "wof:lastmodified":1527782122,
+    "wof:name":"Diabugu",
+    "wof:parent_id":890429021,
+    "wof:placetype":"locality",
+    "wof:population":3722,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.4,
+    13.38333,
+    -14.4,
+    13.38333
+],
+  "geometry": {"coordinates":[-14.4,13.38333],"type":"Point"}
+}

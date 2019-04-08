@@ -1,0 +1,66 @@
+{
+  "id": 890422635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.08333,13.75,-15.08333,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":-15.08333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":219,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ngeden",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412437,
+        "gp:id":1321200,
+        "qs:id":573912
+    },
+    "wof:country":"GM",
+    "wof:created":1469051456,
+    "wof:geomhash":"ffae92a2adfe9cb60168de169c64033e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422845,
+            "locality_id":890422635,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890422635,
+    "wof:lastmodified":1505343471,
+    "wof:name":"Ngeden",
+    "wof:parent_id":890422845,
+    "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.08333,
+    13.75,
+    -15.08333,
+    13.75
+],
+  "geometry": {"coordinates":[-15.08333,13.75],"type":"Point"}
+}

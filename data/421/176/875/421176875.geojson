@@ -1,0 +1,82 @@
+{
+  "id": 421176875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.31667,13.56667,-15.31667,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":-15.31667,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Dankunko"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413645,
+    "qs:gn_pop":1641,
+    "qs:name":"Dankunku",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Central River",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1089227,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321318,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413645,
+        "gp:id":1321318,
+        "qs:id":1089227
+    },
+    "wof:country":"GM",
+    "wof:created":1459009122,
+    "wof:geomhash":"9eb560977190642cb21abe6491677101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422629,
+            "locality_id":421176875,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":421176875,
+    "wof:lastmodified":1505340630,
+    "wof:name":"Dankunku",
+    "wof:parent_id":890422629,
+    "wof:placetype":"locality",
+    "wof:population":1641,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.31667,
+    13.56667,
+    -15.31667,
+    13.56667
+],
+  "geometry": {"coordinates":[-15.31667,13.56667],"type":"Point"}
+}

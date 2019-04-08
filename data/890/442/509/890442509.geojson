@@ -1,0 +1,66 @@
+{
+  "id": 890442509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.66667,13.46667,-15.66667,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":-15.66667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":267,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Jasobo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890413367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413261,
+        "gp:id":1321650,
+        "qs:id":573997
+    },
+    "wof:country":"GM",
+    "wof:created":1469052365,
+    "wof:geomhash":"acf2798f0b25e19497b002864a1ea7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413367,
+            "locality_id":890442509,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":890442509,
+    "wof:lastmodified":1505343588,
+    "wof:name":"Jasobo",
+    "wof:parent_id":890413367,
+    "wof:placetype":"locality",
+    "wof:population":267,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.66667,
+    13.46667,
+    -15.66667,
+    13.46667
+],
+  "geometry": {"coordinates":[-15.66667,13.46667],"type":"Point"}
+}

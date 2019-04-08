@@ -1,0 +1,66 @@
+{
+  "id": 890413291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.01944,13.5825,-16.01944,13.5825",
+    "geom:latitude":13.5825,
+    "geom:longitude":-16.01944,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":83,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Misira",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412516,
+        "gp:id":1416977,
+        "qs:id":573923
+    },
+    "wof:country":"GM",
+    "wof:created":1469050994,
+    "wof:geomhash":"e2430e8bf19e09bfd097fce9763bee09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422473,
+            "locality_id":890413291,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":890413291,
+    "wof:lastmodified":1505343413,
+    "wof:name":"Misira",
+    "wof:parent_id":890422473,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.01944,
+    13.5825,
+    -16.01944,
+    13.5825
+],
+  "geometry": {"coordinates":[-16.01944,13.5825],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242877215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.38333,13.4,-15.38333,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":-15.38333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Daru Fatiho",
+    "gn:country_code":"GM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413627,
+    "gn:latitude":13.4,
+    "gn:longitude":-15.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Daru Fatiho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890422679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413627
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"f18ca1e0e2add0a0cc4625f63a8b47e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422679,
+            "locality_id":1242877215,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":1242877215,
+    "wof:lastmodified":1536630517,
+    "wof:name":"Daru Fatiho",
+    "wof:parent_id":890422679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.38333,
+    13.4,
+    -15.38333,
+    13.4
+],
+  "geometry": {"coordinates":[-15.38333,13.4],"type":"Point"}
+}

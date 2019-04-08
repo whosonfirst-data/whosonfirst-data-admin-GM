@@ -1,0 +1,66 @@
+{
+  "id": 890428789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.83333,13.25,-15.83333,13.25",
+    "geom:latitude":13.25,
+    "geom:longitude":-15.83333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":296,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Brumen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890422705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413743,
+        "gp:id":1322556,
+        "qs:id":574060
+    },
+    "wof:country":"GM",
+    "wof:created":1469051771,
+    "wof:geomhash":"00f369324d14ff4a88d6903cd7a72d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422705,
+            "locality_id":890428789,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":890428789,
+    "wof:lastmodified":1505343507,
+    "wof:name":"Brumen",
+    "wof:parent_id":890422705,
+    "wof:placetype":"locality",
+    "wof:population":296,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.83333,
+    13.25,
+    -15.83333,
+    13.25
+],
+  "geometry": {"coordinates":[-15.83333,13.25],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209714621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.06694,13.23028,-16.06694,13.23028",
+    "geom:latitude":13.23028,
+    "geom:longitude":-16.06694,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Barrow Kunda",
+    "gn:country_code":"GM",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413823,
+    "gn:latitude":13.23028,
+    "gn:longitude":-16.06694,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Barrow Kunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890422703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413823
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"225e6c41b90999a47f09a48659429301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422703,
+            "locality_id":1209714621,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1209714621,
+    "wof:lastmodified":1536389143,
+    "wof:name":"Barrow Kunda",
+    "wof:parent_id":890422703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.06694,
+    13.23028,
+    -16.06694,
+    13.23028
+],
+  "geometry": {"coordinates":[-16.06694,13.23028],"type":"Point"}
+}

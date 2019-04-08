@@ -1,0 +1,71 @@
+{
+  "id": 1327026793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.58333,13.56667,-15.58333,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":-15.58333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kusassa",
+    "gn:country_code":"GM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412761,
+    "gn:latitude":13.56667,
+    "gn:longitude":-15.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kusassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunjung",
+        "Kusassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412761
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"e716fbb28bf390e99dfc438b7383a405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413201,
+            "locality_id":1327026793,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1327026793,
+    "wof:lastmodified":1537623886,
+    "wof:name":"Kusassa",
+    "wof:parent_id":890413201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.58333,
+    13.56667,
+    -15.58333,
+    13.56667
+],
+  "geometry": {"coordinates":[-15.58333,13.56667],"type":"Point"}
+}

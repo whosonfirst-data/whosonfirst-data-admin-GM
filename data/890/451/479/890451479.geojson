@@ -1,0 +1,66 @@
+{
+  "id": 890451479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.53333,13.55,-15.53333,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-15.53333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":114,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taiba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411837,
+        "gp:id":1321211,
+        "qs:id":91384
+    },
+    "wof:country":"GM",
+    "wof:created":1469052781,
+    "wof:geomhash":"eb57e936c2144b2aca451a90d0fc8277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413201,
+            "locality_id":890451479,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":890451479,
+    "wof:lastmodified":1505343640,
+    "wof:name":"Taiba",
+    "wof:parent_id":890413201,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.53333,
+    13.55,
+    -15.53333,
+    13.55
+],
+  "geometry": {"coordinates":[-15.53333,13.55],"type":"Point"}
+}

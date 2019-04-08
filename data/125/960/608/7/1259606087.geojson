@@ -1,0 +1,68 @@
+{
+  "id": 1259606087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.77111,13.38444,-16.77111,13.38444",
+    "geom:latitude":13.38444,
+    "geom:longitude":-16.77111,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ghana Town",
+    "gn:country_code":"GM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413436,
+    "gn:latitude":13.38444,
+    "gn:longitude":-16.77111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ghana Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413436,
+        "wk:page":"Ghana_Town"
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"99b478369bd76498b02cd9a31e5b997b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413349,
+            "locality_id":1259606087,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1259606087,
+    "wof:lastmodified":1537563070,
+    "wof:name":"Ghana Town",
+    "wof:parent_id":890413349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.77111,
+    13.38444,
+    -16.77111,
+    13.38444
+],
+  "geometry": {"coordinates":[-16.77111,13.38444],"type":"Point"}
+}

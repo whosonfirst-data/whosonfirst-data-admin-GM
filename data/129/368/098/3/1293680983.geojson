@@ -1,0 +1,72 @@
+{
+  "id": 1293680983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.38667,13.33444,-16.38667,13.33444",
+    "geom:latitude":13.33444,
+    "geom:longitude":-16.38667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Albadarr",
+    "gn:country_code":"GM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413985,
+    "gn:latitude":13.33444,
+    "gn:longitude":-16.38667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Albadarr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Albreda",
+        "Albadarr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413985,
+        "wk:page":"Albreda"
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"00dd98a8255793e09899e36f21e3669e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413199,
+            "locality_id":1293680983,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1293680983,
+    "wof:lastmodified":1537623904,
+    "wof:name":"Albadarr",
+    "wof:parent_id":890413199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.38667,
+    13.33444,
+    -16.38667,
+    13.33444
+],
+  "geometry": {"coordinates":[-16.38667,13.33444],"type":"Point"}
+}

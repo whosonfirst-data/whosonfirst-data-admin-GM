@@ -1,0 +1,70 @@
+{
+  "id": 1343553141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.62483,13.5276,-15.62483,13.5276",
+    "geom:latitude":13.5276,
+    "geom:longitude":-15.62483,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kerr Madi",
+    "gn:country_code":"GM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9172216,
+    "gn:latitude":13.5276,
+    "gn:longitude":-15.62483,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Kerr Madi",
+    "gn:population":51,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9172216
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"1254f8f7b973efc08e9f025db44bfdfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413201,
+            "locality_id":1343553141,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1343553141,
+    "wof:lastmodified":1536609862,
+    "wof:name":"Kerr Madi",
+    "wof:parent_id":890413201,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.62483,
+    13.5276,
+    -15.62483,
+    13.5276
+],
+  "geometry": {"coordinates":[-15.62483,13.5276],"type":"Point"}
+}

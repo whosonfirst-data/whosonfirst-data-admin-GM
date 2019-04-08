@@ -1,0 +1,67 @@
+{
+  "id": 1276448753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.81667,13.46667,-13.81667,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":-13.81667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kuryande",
+    "gn:country_code":"GM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2412765,
+    "gn:latitude":13.46667,
+    "gn:longitude":-13.81667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kuryande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412765
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"aa1d4accebbd9c2fb9128cff9c1a27da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691471,
+            "locality_id":1276448753,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1276448753,
+    "wof:lastmodified":1536621877,
+    "wof:name":"Kuryande",
+    "wof:parent_id":1108691471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.81667,
+    13.46667,
+    -13.81667,
+    13.46667
+],
+  "geometry": {"coordinates":[-13.81667,13.46667],"type":"Point"}
+}

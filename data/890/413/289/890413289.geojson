@@ -1,0 +1,66 @@
+{
+  "id": 890413289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.6,13.38333,-15.6,13.38333",
+    "geom:latitude":13.38333,
+    "geom:longitude":-15.6,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":71,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Munku Talla",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890422673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412493,
+        "gp:id":1321650,
+        "qs:id":573922
+    },
+    "wof:country":"GM",
+    "wof:created":1469050994,
+    "wof:geomhash":"2293118945328399fe2a2febb480c018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422673,
+            "locality_id":890413289,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":890413289,
+    "wof:lastmodified":1505343413,
+    "wof:name":"Munku Talla",
+    "wof:parent_id":890422673,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.6,
+    13.38333,
+    -15.6,
+    13.38333
+],
+  "geometry": {"coordinates":[-15.6,13.38333],"type":"Point"}
+}

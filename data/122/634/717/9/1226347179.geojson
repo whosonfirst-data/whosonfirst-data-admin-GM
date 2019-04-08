@@ -1,0 +1,72 @@
+{
+  "id": 1226347179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.66722,13.4075,-16.66722,13.4075",
+    "geom:latitude":13.4075,
+    "geom:longitude":-16.66722,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tabo Kotor",
+    "gn:cc2":"GM",
+    "gn:country_code":"GM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411840,
+    "gn:latitude":13.4075,
+    "gn:longitude":-16.66722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tabo Kotor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabokoto",
+        "Tabo Kotor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671517,
+        1108562623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411840
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"ad400ed716a853a81fa902e619f6e801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":1108562623,
+            "locality_id":1226347179,
+            "region_id":85671517
+        }
+    ],
+    "wof:id":1226347179,
+    "wof:lastmodified":1537623871,
+    "wof:name":"Tabo Kotor",
+    "wof:parent_id":1108562623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.66722,
+    13.4075,
+    -16.66722,
+    13.4075
+],
+  "geometry": {"coordinates":[-16.66722,13.4075],"type":"Point"}
+}

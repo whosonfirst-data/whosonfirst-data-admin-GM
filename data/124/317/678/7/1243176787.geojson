@@ -1,0 +1,67 @@
+{
+  "id": 1243176787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.57528,13.17,-16.57528,13.17",
+    "geom:latitude":13.17,
+    "geom:longitude":-16.57528,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Selete",
+    "gn:country_code":"GM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593158,
+    "gn:latitude":13.17,
+    "gn:longitude":-16.57528,
+    "gn:modification_date":"2000-06-29",
+    "gn:name":"Selete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593158
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"ef13b65648104b1dcc5c322d632e5684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413351,
+            "locality_id":1243176787,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1243176787,
+    "wof:lastmodified":1536697538,
+    "wof:name":"Selete",
+    "wof:parent_id":890413351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.57528,
+    13.17,
+    -16.57528,
+    13.17
+],
+  "geometry": {"coordinates":[-16.57528,13.17],"type":"Point"}
+}

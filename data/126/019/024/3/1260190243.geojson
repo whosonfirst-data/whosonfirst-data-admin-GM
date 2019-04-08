@@ -1,0 +1,71 @@
+{
+  "id": 1260190243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.55,13.61667,-14.55,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":-14.55,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sare Samba Ngai",
+    "gn:country_code":"GM",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412027,
+    "gn:latitude":13.61667,
+    "gn:longitude":-14.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sare Samba Ngai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinchu Ousman",
+        "Sare Samba Ngai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412027
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"20532946bc2dcb190b88df89e72ce220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422613,
+            "locality_id":1260190243,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1260190243,
+    "wof:lastmodified":1537623874,
+    "wof:name":"Sare Samba Ngai",
+    "wof:parent_id":890422613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.55,
+    13.61667,
+    -14.55,
+    13.61667
+],
+  "geometry": {"coordinates":[-14.55,13.61667],"type":"Point"}
+}

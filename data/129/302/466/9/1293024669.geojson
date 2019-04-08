@@ -1,0 +1,67 @@
+{
+  "id": 1293024669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.43333,13.51667,-14.43333,13.51667",
+    "geom:latitude":13.51667,
+    "geom:longitude":-14.43333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mamadi Sisi",
+    "gn:country_code":"GM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412635,
+    "gn:latitude":13.51667,
+    "gn:longitude":-14.43333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mamadi Sisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        1108691483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412635
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"7967c1c2380942b1c9fac6b00e5adae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691483,
+            "locality_id":1293024669,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1293024669,
+    "wof:lastmodified":1536957302,
+    "wof:name":"Mamadi Sisi",
+    "wof:parent_id":1108691483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.43333,
+    13.51667,
+    -14.43333,
+    13.51667
+],
+  "geometry": {"coordinates":[-14.43333,13.51667],"type":"Point"}
+}

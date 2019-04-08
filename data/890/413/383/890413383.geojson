@@ -1,0 +1,71 @@
+{
+  "id": 890413383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.01833,13.59194,-16.01833,13.59194",
+    "geom:latitude":13.59194,
+    "geom:longitude":-16.01833,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":136,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Daru",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:elevation":3.0,
+    "wd:latitude":"-9.083333333",
+    "wd:longitude":"143.2",
+    "wd:wordcount":214,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413629,
+        "gp:id":1416977,
+        "qs:id":574037,
+        "wk:page":"Daru"
+    },
+    "wof:country":"GM",
+    "wof:created":1469050998,
+    "wof:geomhash":"6993ef132368815207eb52f741f63ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422473,
+            "locality_id":890413383,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":890413383,
+    "wof:lastmodified":1527727170,
+    "wof:name":"Daru",
+    "wof:parent_id":890422473,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.01833,
+    13.59194,
+    -16.01833,
+    13.59194
+],
+  "geometry": {"coordinates":[-16.01833,13.59194],"type":"Point"}
+}

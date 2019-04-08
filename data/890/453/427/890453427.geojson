@@ -1,0 +1,69 @@
+{
+  "id": 890453427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.65,13.35,-14.65,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":-14.65,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":284,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Sara Debo"
+    ],
+    "qs:name":"Sare Debo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412110,
+        "gp:id":28752605,
+        "qs:id":573869
+    },
+    "wof:country":"GM",
+    "wof:created":1469052853,
+    "wof:geomhash":"23d60033d8a58c4be2fe28c589b3268a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":890453427,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890453427,
+    "wof:lastmodified":1505343651,
+    "wof:name":"Sare Debo",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:population":284,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.65,
+    13.35,
+    -14.65,
+    13.35
+],
+  "geometry": {"coordinates":[-14.65,13.35],"type":"Point"}
+}

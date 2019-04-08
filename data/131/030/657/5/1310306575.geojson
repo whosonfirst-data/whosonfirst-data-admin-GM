@@ -1,0 +1,67 @@
+{
+  "id": 1310306575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.86667,13.73333,-14.86667,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":-14.86667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jingory Mustapha",
+    "gn:country_code":"GM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413222,
+    "gn:latitude":13.73333,
+    "gn:longitude":-14.86667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Jingory Mustapha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413222
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"918ca186630fc535a5497679380aa7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422847,
+            "locality_id":1310306575,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1310306575,
+    "wof:lastmodified":1536706623,
+    "wof:name":"Jingory Mustapha",
+    "wof:parent_id":890422847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.86667,
+    13.73333,
+    -14.86667,
+    13.73333
+],
+  "geometry": {"coordinates":[-14.86667,13.73333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343674577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.13333,13.4,-16.13333,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":-16.13333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Macca",
+    "gn:country_code":"GM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412709,
+    "gn:latitude":13.4,
+    "gn:longitude":-16.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makka",
+        "Macca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890413365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412709
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"e4eaca4c1e1bf45c061bc956ebb5443d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413365,
+            "locality_id":1343674577,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":1343674577,
+    "wof:lastmodified":1537623885,
+    "wof:name":"Macca",
+    "wof:parent_id":890413365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.13332999999999,
+    13.4,
+    -16.13332999999999,
+    13.4
+],
+  "geometry": {"coordinates":[-16.13332999999999,13.4],"type":"Point"}
+}

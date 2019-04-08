@@ -1,0 +1,73 @@
+{
+  "id": 1242885909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.93333,13.53333,-14.93333,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":-14.93333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Brikama Ba",
+    "gn:country_code":"GM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413749,
+    "gn:latitude":13.53333,
+    "gn:longitude":-14.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Brikama Ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brikama",
+        "Brekana",
+        "Brikama Ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413749,
+        "wk:page":"Brikama_Ba"
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"e33d74766f1f0f7a146ba4efc5662b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":1242885909,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1242885909,
+    "wof:lastmodified":1537623900,
+    "wof:name":"Brikama Ba",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.93333,
+    13.53333,
+    -14.93333,
+    13.53333
+],
+  "geometry": {"coordinates":[-14.93333,13.53333],"type":"Point"}
+}

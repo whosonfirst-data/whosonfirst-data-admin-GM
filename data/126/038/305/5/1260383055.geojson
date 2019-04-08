@@ -1,0 +1,72 @@
+{
+  "id": 1260383055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.41667,13.51667,-15.41667,13.51667",
+    "geom:latitude":13.51667,
+    "geom:longitude":-15.41667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Taindaitor",
+    "gn:country_code":"GM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411830,
+    "gn:latitude":13.51667,
+    "gn:longitude":-15.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taindaitor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tendito",
+        "Tendaito",
+        "Taindaitor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411830
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"9716c259d28719dc2a678ed7c566271d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413201,
+            "locality_id":1260383055,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1260383055,
+    "wof:lastmodified":1537623871,
+    "wof:name":"Taindaitor",
+    "wof:parent_id":890413201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.41667,
+    13.51667,
+    -15.41667,
+    13.51667
+],
+  "geometry": {"coordinates":[-15.41667,13.51667],"type":"Point"}
+}

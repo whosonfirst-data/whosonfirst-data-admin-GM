@@ -1,0 +1,72 @@
+{
+  "id": 1259786453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.21667,13.43333,-15.21667,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":-15.21667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Joba",
+    "gn:country_code":"GM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413216,
+    "gn:latitude":13.43333,
+    "gn:longitude":-15.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Joba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaba",
+        "Sare N\u2019Joba",
+        "Joba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413216
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"a5956df8dd1c37fcb348d2e22b3ee951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691473,
+            "locality_id":1259786453,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1259786453,
+    "wof:lastmodified":1537623892,
+    "wof:name":"Joba",
+    "wof:parent_id":1108691473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.21667,
+    13.43333,
+    -15.21667,
+    13.43333
+],
+  "geometry": {"coordinates":[-15.21667,13.43333],"type":"Point"}
+}

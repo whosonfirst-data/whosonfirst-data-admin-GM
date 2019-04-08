@@ -1,0 +1,70 @@
+{
+  "id": 1276543627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.04854,13.58926,-16.04854,13.58926",
+    "geom:latitude":13.58926,
+    "geom:longitude":-16.04854,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Jebbel Satou",
+    "gn:country_code":"GM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9172226,
+    "gn:latitude":13.58926,
+    "gn:longitude":-16.04854,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Jebbel Satou",
+    "gn:population":39,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9172226
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"7070ff7629f35ea4a73f64a41f78ef2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422473,
+            "locality_id":1276543627,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1276543627,
+    "wof:lastmodified":1536993418,
+    "wof:name":"Jebbel Satou",
+    "wof:parent_id":890422473,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.04854,
+    13.58926,
+    -16.04854,
+    13.58926
+],
+  "geometry": {"coordinates":[-16.04854,13.58926],"type":"Point"}
+}

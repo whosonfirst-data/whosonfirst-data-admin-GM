@@ -1,0 +1,67 @@
+{
+  "id": 1259504835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.20889,13.57361,-16.20889,13.57361",
+    "geom:latitude":13.57361,
+    "geom:longitude":-16.20889,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Jissa",
+    "gn:country_code":"GM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413217,
+    "gn:latitude":13.57361,
+    "gn:longitude":-16.20889,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Jissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413217
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"0e03c4d132b9b4647f10132ae042b05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422649,
+            "locality_id":1259504835,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1259504835,
+    "wof:lastmodified":1536827219,
+    "wof:name":"Jissa",
+    "wof:parent_id":890422649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.20889,
+    13.57361,
+    -16.20889,
+    13.57361
+],
+  "geometry": {"coordinates":[-16.20889,13.57361],"type":"Point"}
+}

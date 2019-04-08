@@ -1,0 +1,67 @@
+{
+  "id": 1209814559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.09972,13.17611,-16.09972,13.17611",
+    "geom:latitude":13.17611,
+    "geom:longitude":-16.09972,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Baipal",
+    "gn:country_code":"GM",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413941,
+    "gn:latitude":13.17611,
+    "gn:longitude":-16.09972,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Baipal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890422703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413941
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"1b6fdb8b66daefcff0b4376cc4dbe4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422703,
+            "locality_id":1209814559,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1209814559,
+    "wof:lastmodified":1536384908,
+    "wof:name":"Baipal",
+    "wof:parent_id":890422703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.09972,
+    13.17611,
+    -16.09972,
+    13.17611
+],
+  "geometry": {"coordinates":[-16.09972,13.17611],"type":"Point"}
+}

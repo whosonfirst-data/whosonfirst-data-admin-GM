@@ -1,0 +1,71 @@
+{
+  "id": 1310000457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.93333,13.58333,-15.93333,13.58333",
+    "geom:latitude":13.58333,
+    "geom:longitude":-15.93333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nowleru",
+    "gn:country_code":"GM",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412352,
+    "gn:latitude":13.58333,
+    "gn:longitude":-15.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nowleru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ker Samba",
+        "Nowleru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890429071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412352
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"1f9aaa2020646218efe7601bd7a8b93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429071,
+            "locality_id":1310000457,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1310000457,
+    "wof:lastmodified":1537623879,
+    "wof:name":"Nowleru",
+    "wof:parent_id":890429071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.93333,
+    13.58333,
+    -15.93333,
+    13.58333
+],
+  "geometry": {"coordinates":[-15.93333,13.58333],"type":"Point"}
+}

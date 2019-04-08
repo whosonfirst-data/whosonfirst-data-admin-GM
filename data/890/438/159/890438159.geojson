@@ -1,0 +1,74 @@
+{
+  "id": 890438159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.08333,13.65,-15.08333,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":-15.08333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":297,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Hai-Rewan"
+    ],
+    "qs:name":"Kerewan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"13.5",
+    "wd:longitude":"-16.083333333",
+    "wd:wordcount":246,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412991,
+        "gp:id":1483207,
+        "qs:id":573971,
+        "wd:id":"Q1478583",
+        "wk:page":"Kerewan"
+    },
+    "wof:country":"GM",
+    "wof:created":1469052182,
+    "wof:geomhash":"c31521a786c643d8d4b2dbcde847b8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422631,
+            "locality_id":890438159,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890438159,
+    "wof:lastmodified":1527735419,
+    "wof:name":"Kerewan",
+    "wof:parent_id":890422631,
+    "wof:placetype":"locality",
+    "wof:population":297,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.08333,
+    13.65,
+    -15.08333,
+    13.65
+],
+  "geometry": {"coordinates":[-15.08333,13.65],"type":"Point"}
+}

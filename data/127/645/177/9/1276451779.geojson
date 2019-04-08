@@ -1,0 +1,67 @@
+{
+  "id": 1276451779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.71667,13.43333,-15.71667,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":-15.71667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jiroff Tenda",
+    "gn:country_code":"GM",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413220,
+    "gn:latitude":13.43333,
+    "gn:longitude":-15.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Jiroff Tenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890413369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413220
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"fa71f72b25f9f959b53213592aff96aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413369,
+            "locality_id":1276451779,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":1276451779,
+    "wof:lastmodified":1536617688,
+    "wof:name":"Jiroff Tenda",
+    "wof:parent_id":890413369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.71667,
+    13.43333,
+    -15.71667,
+    13.43333
+],
+  "geometry": {"coordinates":[-15.71667,13.43333],"type":"Point"}
+}

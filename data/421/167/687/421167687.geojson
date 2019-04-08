@@ -1,0 +1,82 @@
+{
+  "id": 421167687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.01667,13.5,-14.01667,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":-14.01667,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Sutuko"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2411863,
+    "qs:gn_pop":2693,
+    "qs:name":"Sutukoba",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Upper River",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":139997,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1322592,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890413179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411863,
+        "gp:id":1322592,
+        "qs:id":139997
+    },
+    "wof:country":"GM",
+    "wof:created":1459008740,
+    "wof:geomhash":"d96a5d4763f04598508d4186051d5933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413179,
+            "locality_id":421167687,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":421167687,
+    "wof:lastmodified":1505340587,
+    "wof:name":"Sutukoba",
+    "wof:parent_id":890413179,
+    "wof:placetype":"locality",
+    "wof:population":2693,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.01667,
+    13.5,
+    -14.01667,
+    13.5
+],
+  "geometry": {"coordinates":[-14.01667,13.5],"type":"Point"}
+}

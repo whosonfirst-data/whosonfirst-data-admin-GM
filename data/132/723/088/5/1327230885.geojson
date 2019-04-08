@@ -1,0 +1,67 @@
+{
+  "id": 1327230885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.77417,13.19333,-16.77417,13.19333",
+    "geom:latitude":13.19333,
+    "geom:longitude":-16.77417,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tabokoto",
+    "gn:country_code":"GM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411842,
+    "gn:latitude":13.19333,
+    "gn:longitude":-16.77417,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Tabokoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411842
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"2e9490dc0815a5148ae8ad908167d343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413347,
+            "locality_id":1327230885,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1327230885,
+    "wof:lastmodified":1536971391,
+    "wof:name":"Tabokoto",
+    "wof:parent_id":890413347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.77417,
+    13.19333,
+    -16.77417,
+    13.19333
+],
+  "geometry": {"coordinates":[-16.77417,13.19333],"type":"Point"}
+}

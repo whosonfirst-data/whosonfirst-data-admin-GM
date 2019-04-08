@@ -1,0 +1,67 @@
+{
+  "id": 1326921877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.4275,13.51861,-16.4275,13.51861",
+    "geom:latitude":13.51861,
+    "geom:longitude":-16.4275,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ker Wally",
+    "gn:country_code":"GM",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412898,
+    "gn:latitude":13.51861,
+    "gn:longitude":-16.4275,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Ker Wally",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412898
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"0f54fa94e16fc6412807fa28e28fb7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422471,
+            "locality_id":1326921877,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1326921877,
+    "wof:lastmodified":1536920377,
+    "wof:name":"Ker Wally",
+    "wof:parent_id":890422471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.4275,
+    13.51861,
+    -16.4275,
+    13.51861
+],
+  "geometry": {"coordinates":[-16.4275,13.51861],"type":"Point"}
+}

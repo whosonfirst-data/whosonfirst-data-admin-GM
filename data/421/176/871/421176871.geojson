@@ -1,0 +1,85 @@
+{
+  "id": 421176871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.83333,13.56667,-15.83333,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":-15.83333,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Mbour Petite-C\u00f4te FC"
+    ],
+    "name:spa_x_preferred":[
+        "Tour\u00e9 Kunda Footpro"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2412355,
+    "qs:gn_pop":1913,
+    "qs:name":"No Kunda",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"North Bank",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1089224,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1322216,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412355,
+        "gp:id":1322216,
+        "qs:id":1089224
+    },
+    "wof:country":"GM",
+    "wof:created":1459009122,
+    "wof:geomhash":"c0050c8b9309bd3f8cfa3a27365dce70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413201,
+            "locality_id":421176871,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":421176871,
+    "wof:lastmodified":1505340630,
+    "wof:name":"No Kunda",
+    "wof:parent_id":890413201,
+    "wof:placetype":"locality",
+    "wof:population":1913,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.83333,
+    13.56667,
+    -15.83333,
+    13.56667
+],
+  "geometry": {"coordinates":[-15.83333,13.56667],"type":"Point"}
+}

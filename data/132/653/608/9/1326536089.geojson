@@ -1,0 +1,71 @@
+{
+  "id": 1326536089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.46667,13.5,-14.46667,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":-14.46667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Demba Wanda",
+    "gn:country_code":"GM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413593,
+    "gn:latitude":13.5,
+    "gn:longitude":-14.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Demba Wanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Demba Waddu",
+        "Demba Wanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890429021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413593
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"c77942960b47d177f50244dab63bf27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429021,
+            "locality_id":1326536089,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":1326536089,
+    "wof:lastmodified":1537623898,
+    "wof:name":"Demba Wanda",
+    "wof:parent_id":890429021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.46667,
+    13.5,
+    -14.46667,
+    13.5
+],
+  "geometry": {"coordinates":[-14.46667,13.5],"type":"Point"}
+}

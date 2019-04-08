@@ -1,0 +1,66 @@
+{
+  "id": 890437099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.86667,13.48333,-13.86667,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":-13.86667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":3870,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Koina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890429041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412868,
+        "gp:id":1321240,
+        "qs:id":1035503
+    },
+    "wof:country":"GM",
+    "wof:created":1469052138,
+    "wof:geomhash":"7e9c27e46269972d6cc3abf0910d16a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429041,
+            "locality_id":890437099,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":890437099,
+    "wof:lastmodified":1505343557,
+    "wof:name":"Koina",
+    "wof:parent_id":890429041,
+    "wof:placetype":"locality",
+    "wof:population":3870,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.86667,
+    13.48333,
+    -13.86667,
+    13.48333
+],
+  "geometry": {"coordinates":[-13.86667,13.48333],"type":"Point"}
+}

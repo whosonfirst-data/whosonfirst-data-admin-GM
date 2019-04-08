@@ -1,0 +1,67 @@
+{
+  "id": 1343568773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.25,13.7,-15.25,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-15.25,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bantanto Ker Daburie",
+    "gn:country_code":"GM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413851,
+    "gn:latitude":13.7,
+    "gn:longitude":-15.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bantanto Ker Daburie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890413197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413851
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"830040184747681463151516d8af60f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413197,
+            "locality_id":1343568773,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1343568773,
+    "wof:lastmodified":1537084239,
+    "wof:name":"Bantanto Ker Daburie",
+    "wof:parent_id":890413197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.25,
+    13.7,
+    -15.25,
+    13.7
+],
+  "geometry": {"coordinates":[-15.25,13.7],"type":"Point"}
+}

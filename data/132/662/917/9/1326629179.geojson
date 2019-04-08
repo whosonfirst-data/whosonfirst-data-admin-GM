@@ -1,0 +1,67 @@
+{
+  "id": 1326629179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.62861,13.37694,-16.62861,13.37694",
+    "geom:latitude":13.37694,
+    "geom:longitude":-16.62861,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Daranka",
+    "gn:country_code":"GM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413639,
+    "gn:latitude":13.37694,
+    "gn:longitude":-16.62861,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Daranka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413639
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"d9ca6dc164d2cbc7f31b7a761d96cca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413349,
+            "locality_id":1326629179,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1326629179,
+    "wof:lastmodified":1536843183,
+    "wof:name":"Daranka",
+    "wof:parent_id":890413349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.62861,
+    13.37694,
+    -16.62861,
+    13.37694
+],
+  "geometry": {"coordinates":[-16.62861,13.37694],"type":"Point"}
+}

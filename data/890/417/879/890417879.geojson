@@ -1,0 +1,66 @@
+{
+  "id": 890417879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.93333,13.53333,-14.93333,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":-14.93333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":1092,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Brikama Nding",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413746,
+        "gp:id":28752606,
+        "qs:id":1035529
+    },
+    "wof:country":"GM",
+    "wof:created":1469051225,
+    "wof:geomhash":"e33d74766f1f0f7a146ba4efc5662b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":890417879,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890417879,
+    "wof:lastmodified":1505343441,
+    "wof:name":"Brikama Nding",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:population":1092,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.93333,
+    13.53333,
+    -14.93333,
+    13.53333
+],
+  "geometry": {"coordinates":[-14.93333,13.53333],"type":"Point"}
+}

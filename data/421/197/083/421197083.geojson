@@ -1,0 +1,91 @@
+{
+  "id": 421197083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.55,13.55,-14.55,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-14.55,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Bantango Koto"
+    ],
+    "name:eng_x_preferred":[
+        "Bantango Koto"
+    ],
+    "name:swe_x_preferred":[
+        "Bantango Koto"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413858,
+    "qs:gn_pop":293,
+    "qs:name":"Bantango Koto",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Central River",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1297366,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321166,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413858,
+        "gp:id":1321166,
+        "qs:id":1297366,
+        "wd:id":"Q4857190",
+        "wk:page":"Bantango Koto"
+    },
+    "wof:country":"GM",
+    "wof:created":1459009902,
+    "wof:geomhash":"0ccb488cb1197f8724a437860c9be234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422613,
+            "locality_id":421197083,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":421197083,
+    "wof:lastmodified":1527716400,
+    "wof:name":"Bantango Koto",
+    "wof:parent_id":890422613,
+    "wof:placetype":"locality",
+    "wof:population":293,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.55,
+    13.55,
+    -14.55,
+    13.55
+],
+  "geometry": {"coordinates":[-14.55,13.55],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277071419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.3825,13.46139,-16.3825,13.46139",
+    "geom:latitude":13.46139,
+    "geom:longitude":-16.3825,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Fass Omar Sahor",
+    "gn:country_code":"GM",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413494,
+    "gn:latitude":13.46139,
+    "gn:longitude":-16.3825,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fass Omar Sahor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fas Omar Sahor",
+        "Fass Omar Sahor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413494
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"a33a000147c3f6a05f7edf2164f6889d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422471,
+            "locality_id":1277071419,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1277071419,
+    "wof:lastmodified":1537623896,
+    "wof:name":"Fass Omar Sahor",
+    "wof:parent_id":890422471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.3825,
+    13.46139,
+    -16.3825,
+    13.46139
+],
+  "geometry": {"coordinates":[-16.3825,13.46139],"type":"Point"}
+}

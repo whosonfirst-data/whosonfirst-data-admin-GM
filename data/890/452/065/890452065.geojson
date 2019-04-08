@@ -1,0 +1,66 @@
+{
+  "id": 890452065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.88333,13.5,-14.88333,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":-14.88333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":221,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sinchu Dembel",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411941,
+        "gp:id":28752607,
+        "qs:id":573843
+    },
+    "wof:country":"GM",
+    "wof:created":1469052803,
+    "wof:geomhash":"12cc9d4e9560f476d10566447be13e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":890452065,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890452065,
+    "wof:lastmodified":1505343643,
+    "wof:name":"Sinchu Dembel",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:population":221,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.88333,
+    13.5,
+    -14.88333,
+    13.5
+],
+  "geometry": {"coordinates":[-14.88333,13.5],"type":"Point"}
+}

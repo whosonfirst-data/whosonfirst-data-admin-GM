@@ -1,0 +1,78 @@
+{
+  "id": 1126026627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.5,13.53333,-15.5,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":-15.5,
+    "gn:gn_country":"GM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":270,
+    "gn:population":270,
+    "iso:country":"GM",
+    "lbl:latitude":13.53333,
+    "lbl:longitude":-15.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GM",
+    "qs_pg:gn_country":"GM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2413817,
+    "qs_pg:gn_pop":270,
+    "qs_pg:name":"Bassik",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":574070,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413817,
+        "qs_pg:id":574070
+    },
+    "wof:country":"GM",
+    "wof:created":1497301181,
+    "wof:geomhash":"ded6c501fb7f928bd449dca196b2a020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413201,
+            "locality_id":1126026627,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1126026627,
+    "wof:lastmodified":1509407585,
+    "wof:name":"Bassik",
+    "wof:parent_id":890413201,
+    "wof:placetype":"locality",
+    "wof:population":270,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.5,
+    13.53333,
+    -15.5,
+    13.53333
+],
+  "geometry": {"coordinates":[-15.5,13.53333],"type":"Point"}
+}

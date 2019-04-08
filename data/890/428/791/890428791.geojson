@@ -1,0 +1,71 @@
+{
+  "id": 890428791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.93333,13.31667,-15.93333,13.31667",
+    "geom:latitude":13.31667,
+    "geom:longitude":-15.93333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":65,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Brikama",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:latitude":"13.266666666",
+    "wd:longitude":"-16.65",
+    "wd:wordcount":150,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890413365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413752,
+        "gp:id":28752623,
+        "qs:id":574061,
+        "wd:id":"Q916988",
+        "wk:page":"Brikama"
+    },
+    "wof:country":"GM",
+    "wof:created":1469051772,
+    "wof:geomhash":"0ebb729347e5e089353588d6f447fa69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413365,
+            "locality_id":890428791,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":890428791,
+    "wof:lastmodified":1527782115,
+    "wof:name":"Brikama",
+    "wof:parent_id":890413365,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.93333,
+    13.31667,
+    -15.93333,
+    13.31667
+],
+  "geometry": {"coordinates":[-15.93333,13.31667],"type":"Point"}
+}

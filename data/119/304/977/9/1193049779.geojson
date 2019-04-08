@@ -1,0 +1,67 @@
+{
+  "id": 1193049779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.67278,13.38972,-16.67278,13.38972",
+    "geom:latitude":13.38972,
+    "geom:longitude":-16.67278,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kunkujang",
+    "gn:country_code":"GM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412786,
+    "gn:latitude":13.38972,
+    "gn:longitude":-16.67278,
+    "gn:modification_date":"2000-09-22",
+    "gn:name":"Kunkujang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412786
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"bd46b752a51cc60e625b94aec8b5f756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413349,
+            "locality_id":1193049779,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1193049779,
+    "wof:lastmodified":1536366959,
+    "wof:name":"Kunkujang",
+    "wof:parent_id":890413349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.67278,
+    13.38972,
+    -16.67278,
+    13.38972
+],
+  "geometry": {"coordinates":[-16.67278,13.38972],"type":"Point"}
+}

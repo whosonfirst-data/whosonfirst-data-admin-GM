@@ -1,0 +1,67 @@
+{
+  "id": 1310102547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.95,13.58333,-15.95,13.58333",
+    "geom:latitude":13.58333,
+    "geom:longitude":-15.95,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Njohnen",
+    "gn:country_code":"GM",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412364,
+    "gn:latitude":13.58333,
+    "gn:longitude":-15.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Njohnen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890429071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412364
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"3bd5b0fa46a1b8b6b1415d119616fa67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429071,
+            "locality_id":1310102547,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1310102547,
+    "wof:lastmodified":1537000038,
+    "wof:name":"Njohnen",
+    "wof:parent_id":890429071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.95,
+    13.58333,
+    -15.95,
+    13.58333
+],
+  "geometry": {"coordinates":[-15.95,13.58333],"type":"Point"}
+}

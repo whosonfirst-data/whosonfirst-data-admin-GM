@@ -1,0 +1,66 @@
+{
+  "id": 890422691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.96667,13.76667,-14.96667,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-14.96667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":161,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Jalo Kunda Demba Sira",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413333,
+        "gp:id":1322225,
+        "qs:id":574007
+    },
+    "wof:country":"GM",
+    "wof:created":1469051459,
+    "wof:geomhash":"ad0a94eaf37d94ac2717203034b4dbf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422847,
+            "locality_id":890422691,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890422691,
+    "wof:lastmodified":1505343471,
+    "wof:name":"Jalo Kunda Demba Sira",
+    "wof:parent_id":890422847,
+    "wof:placetype":"locality",
+    "wof:population":161,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.96667,
+    13.76667,
+    -14.96667,
+    13.76667
+],
+  "geometry": {"coordinates":[-14.96667,13.76667],"type":"Point"}
+}

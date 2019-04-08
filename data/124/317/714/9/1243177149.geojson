@@ -1,0 +1,67 @@
+{
+  "id": 1243177149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.55222,13.27722,-16.55222,13.27722",
+    "geom:latitude":13.27722,
+    "geom:longitude":-16.55222,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pirang",
+    "gn:country_code":"GM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412265,
+    "gn:latitude":13.27722,
+    "gn:longitude":-16.55222,
+    "gn:modification_date":"2000-09-22",
+    "gn:name":"Pirang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412265
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"99be07f94756a6ef57f81e30832e0649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413351,
+            "locality_id":1243177149,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1243177149,
+    "wof:lastmodified":1536696990,
+    "wof:name":"Pirang",
+    "wof:parent_id":890413351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.55222,
+    13.27722,
+    -16.55222,
+    13.27722
+],
+  "geometry": {"coordinates":[-16.55222,13.27722],"type":"Point"}
+}

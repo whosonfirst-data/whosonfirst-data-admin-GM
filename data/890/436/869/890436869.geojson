@@ -1,0 +1,66 @@
+{
+  "id": 890436869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.30556,13.20583,-16.30556,13.20583",
+    "geom:latitude":13.20583,
+    "geom:longitude":-16.30556,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":2541,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Somita",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890422707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411903,
+        "gp:id":1321214,
+        "qs:id":1035483
+    },
+    "wof:country":"GM",
+    "wof:created":1469052130,
+    "wof:geomhash":"5958192e4278ce447935c4113bbad65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422707,
+            "locality_id":890436869,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":890436869,
+    "wof:lastmodified":1505343556,
+    "wof:name":"Somita",
+    "wof:parent_id":890422707,
+    "wof:placetype":"locality",
+    "wof:population":2541,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.30556,
+    13.20583,
+    -16.30556,
+    13.20583
+],
+  "geometry": {"coordinates":[-16.30556,13.20583],"type":"Point"}
+}

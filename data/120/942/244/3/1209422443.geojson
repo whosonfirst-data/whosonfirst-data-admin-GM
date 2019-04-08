@@ -1,0 +1,61 @@
+{
+  "id": 1209422443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.1,13.78333,-15.1,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":-15.1,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Torben",
+    "gn:country_code":"GM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411761,
+    "gn:latitude":13.78333,
+    "gn:longitude":-15.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Torben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411761
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"83be9c9276d8f09da62550699f2181a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632603,
+            "locality_id":1209422443
+        }
+    ],
+    "wof:id":1209422443,
+    "wof:lastmodified":1536287487,
+    "wof:name":"Torben",
+    "wof:parent_id":85632603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.1,
+    13.78333,
+    -15.1,
+    13.78333
+],
+  "geometry": {"coordinates":[-15.1,13.78333],"type":"Point"}
+}

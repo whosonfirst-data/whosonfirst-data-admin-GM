@@ -1,0 +1,66 @@
+{
+  "id": 890422627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.3,13.25,-16.3,13.25",
+    "geom:latitude":13.25,
+    "geom:longitude":-16.3,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":40,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Paima",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        1108562619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412322,
+        "gp:id":1322497,
+        "qs:id":573894
+    },
+    "wof:country":"GM",
+    "wof:created":1469051456,
+    "wof:geomhash":"0452dc10463a3b285d66eaa23c114685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":1108562619,
+            "locality_id":890422627,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":890422627,
+    "wof:lastmodified":1505343471,
+    "wof:name":"Paima",
+    "wof:parent_id":1108562619,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.3,
+    13.25,
+    -16.3,
+    13.25
+],
+  "geometry": {"coordinates":[-16.3,13.25],"type":"Point"}
+}

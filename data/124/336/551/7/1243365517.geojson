@@ -1,0 +1,67 @@
+{
+  "id": 1243365517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.3,13.7,-15.3,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-15.3,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ker Demba Gabu",
+    "gn:country_code":"GM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412998,
+    "gn:latitude":13.7,
+    "gn:longitude":-15.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ker Demba Gabu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412998
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"d2fb514c20e8ae16f8a9172a01058c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422469,
+            "locality_id":1243365517,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1243365517,
+    "wof:lastmodified":1536922955,
+    "wof:name":"Ker Demba Gabu",
+    "wof:parent_id":890422469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.3,
+    13.7,
+    -15.3,
+    13.7
+],
+  "geometry": {"coordinates":[-15.3,13.7],"type":"Point"}
+}

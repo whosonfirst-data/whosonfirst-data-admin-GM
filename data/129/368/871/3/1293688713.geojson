@@ -1,0 +1,73 @@
+{
+  "id": 1293688713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.31667,13.63333,-15.31667,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":-15.31667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jallow Koto",
+    "gn:country_code":"GM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413340,
+    "gn:latitude":13.63333,
+    "gn:longitude":-15.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jallow Koto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jallakotto",
+        "Jallo Koto",
+        "Same",
+        "Jallow Koto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        1108562627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413340
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"c3651347ec82b5491c248316fcbe4b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":1108562627,
+            "locality_id":1293688713,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1293688713,
+    "wof:lastmodified":1537623894,
+    "wof:name":"Jallow Koto",
+    "wof:parent_id":1108562627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.31667,
+    13.63333,
+    -15.31667,
+    13.63333
+],
+  "geometry": {"coordinates":[-15.31667,13.63333],"type":"Point"}
+}

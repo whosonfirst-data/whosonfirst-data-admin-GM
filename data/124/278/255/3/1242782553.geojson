@@ -1,0 +1,67 @@
+{
+  "id": 1242782553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.66556,13.24611,-16.66556,13.24611",
+    "geom:latitude":13.24611,
+    "geom:longitude":-16.66556,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kiti Manjago",
+    "gn:country_code":"GM",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412872,
+    "gn:latitude":13.24611,
+    "gn:longitude":-16.66556,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Kiti Manjago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412872
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"bc24acade38ce662a0f2021c9ba9749c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413355,
+            "locality_id":1242782553,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1242782553,
+    "wof:lastmodified":1536768882,
+    "wof:name":"Kiti Manjago",
+    "wof:parent_id":890413355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.66556,
+    13.24611,
+    -16.66556,
+    13.24611
+],
+  "geometry": {"coordinates":[-16.66556,13.24611],"type":"Point"}
+}

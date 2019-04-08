@@ -1,0 +1,72 @@
+{
+  "id": 1209736883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.07056,13.58639,-16.07056,13.58639",
+    "geom:latitude":13.58639,
+    "geom:longitude":-16.07056,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Panne Ba",
+    "gn:cc2":"GM",
+    "gn:country_code":"GM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412293,
+    "gn:latitude":13.58639,
+    "gn:longitude":-16.07056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Panne Ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panne",
+        "Panne Ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412293
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"1c00ea07f56c257e53b3ec08be71e9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422473,
+            "locality_id":1209736883,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1209736883,
+    "wof:lastmodified":1537623878,
+    "wof:name":"Panne Ba",
+    "wof:parent_id":890422473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.07056,
+    13.58639,
+    -16.07056,
+    13.58639
+],
+  "geometry": {"coordinates":[-16.07056,13.58639],"type":"Point"}
+}

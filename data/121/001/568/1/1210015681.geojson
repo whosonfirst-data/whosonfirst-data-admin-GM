@@ -1,0 +1,73 @@
+{
+  "id": 1210015681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.62139,13.285,-16.62139,13.285",
+    "geom:latitude":13.285,
+    "geom:longitude":-16.62139,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kaimbujae NDing",
+    "gn:cc2":"GM",
+    "gn:country_code":"GM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413147,
+    "gn:latitude":13.285,
+    "gn:longitude":-16.62139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kaimbujae NDing",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kembuje",
+        "New Kembuji",
+        "Kaimbujae NDing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413147
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"923c49366b148414ad80c60c4dfdf974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413355,
+            "locality_id":1210015681,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1210015681,
+    "wof:lastmodified":1537623891,
+    "wof:name":"Kaimbujae NDing",
+    "wof:parent_id":890413355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.62139,
+    13.285,
+    -16.62139,
+    13.285
+],
+  "geometry": {"coordinates":[-16.62139,13.285],"type":"Point"}
+}

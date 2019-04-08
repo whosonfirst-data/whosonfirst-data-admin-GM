@@ -1,0 +1,72 @@
+{
+  "id": 1276877621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.14694,13.20667,-16.14694,13.20667",
+    "geom:latitude":13.20667,
+    "geom:longitude":-16.14694,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Arangalain",
+    "gn:cc2":"GM",
+    "gn:country_code":"GM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413962,
+    "gn:latitude":13.20667,
+    "gn:longitude":-16.14694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Arangalain",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erangalain",
+        "Arangalain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        1108562619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413962
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"c4f306c9d69ce656d1c6d2ed92d6eeb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":1108562619,
+            "locality_id":1276877621,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1276877621,
+    "wof:lastmodified":1537623903,
+    "wof:name":"Arangalain",
+    "wof:parent_id":1108562619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.14694,
+    13.20667,
+    -16.14694,
+    13.20667
+],
+  "geometry": {"coordinates":[-16.14694,13.20667],"type":"Point"}
+}

@@ -1,0 +1,127 @@
+{
+  "id": 1108562623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006677,
+    "geom:area_square_m":80301242.281789,
+    "geom:bbox":"-16.7259618487,13.3920898438,-16.6063336603,13.4886713683",
+    "geom:latitude":13.441602,
+    "geom:longitude":-16.661014,
+    "iso:country":"GM",
+    "lbl:latitude":13.434443,
+    "lbl:longitude":-16.651952,
+    "meso:adm1_name":"Banjul",
+    "meso:gadm_admin":"Kanifing",
+    "meso:gadm_hasc2":"GM.BJ.KF",
+    "meso:gaul_admin":"Kombo Saint Mary",
+    "meso:mps_x":-16.651952,
+    "meso:mps_y":13.434443,
+    "meso:name_local":"Kanifing",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":13.434443,
+    "mps:longitude":-16.651952,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043d\u0438\u0444\u0438\u043d\u0433"
+    ],
+    "name:dut_x_preferred":[
+        "Kanifing District"
+    ],
+    "name:eng_x_preferred":[
+        "Kanifing"
+    ],
+    "name:eng_x_variant":[
+        "Kombo Saint Mary",
+        "Kanifing",
+        "Kanifing District"
+    ],
+    "name:fre_x_preferred":[
+        "Kanifing"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d8\u10e4\u10d8\u10dc\u10d2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Kanifing"
+    ],
+    "name:ita_x_preferred":[
+        "Kanifing"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30cb\u30d5\u30a3\u30f3\u30b0"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0430\u043d\u0438\u0444\u0438\u043d\u0433"
+    ],
+    "name:por_x_preferred":[
+        "Kanifing"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0438\u0444\u0438\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Kanifing"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0456\u0444\u0456\u043d\u0491"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-04-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2003-04-15",
+    "statoids:capital":"",
+    "statoids:country":"GM",
+    "statoids:hasc":"GM.BJ",
+    "statoids:name":"Kanifing",
+    "statoids:population":"322410",
+    "statoids:statoid":"GM.BJ.KF",
+    "statoids:timezone":"+0",
+    "statoids:type":"municipal council",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GM.BJ.KF",
+        "wd:id":"Q1762211"
+    },
+    "wof:country":"GM",
+    "wof:created":1474051429,
+    "wof:geomhash":"30420d6b8d8f1d8dffb82a415517756b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":1108562623,
+            "region_id":85671517
+        }
+    ],
+    "wof:id":1108562623,
+    "wof:lastmodified":1536615191,
+    "wof:name":"Kanifing",
+    "wof:parent_id":85671517,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipal council",
+    "wof:population":322410,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:shortcode":"KF",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.72596184866321,
+    13.39208984375,
+    -16.6063336602674,
+    13.48867136831212
+],
+  "geometry": {"coordinates":[[[-16.62633366026743,13.47197136831218],[-16.62743366026741,13.46987136831215],[-16.62823366026743,13.4669713683121],[-16.62593366026738,13.46607136831215],[-16.62063366026735,13.46687136831218],[-16.6159336602674,13.46347136831215],[-16.60823366026739,13.45907136831215],[-16.6089336602674,13.45637136831213],[-16.61263366026738,13.4529713683121],[-16.61043366026743,13.45037136831218],[-16.61303366026736,13.4472713683121],[-16.60823366026739,13.44587136831217],[-16.60803366026737,13.43917136831212],[-16.6063336602674,13.4351713683121],[-16.60993366026737,13.43157136831213],[-16.61283366026741,13.42657136831214],[-16.61153366026741,13.42227136831216],[-16.61152543840129,13.42224374284207],[-16.61462402343749,13.40948486328129],[-16.62359619140624,13.40527343750002],[-16.62701416015623,13.40008544921874],[-16.6295166015625,13.40069580078127],[-16.63348388671871,13.40069580078127],[-16.63702392578123,13.40411376953126],[-16.64129638671871,13.40270996093754],[-16.64349365234371,13.40087890625002],[-16.644775390625,13.39428710937501],[-16.65051269531251,13.39208984375],[-16.65289306640626,13.39471435546871],[-16.66259765624999,13.40069580078127],[-16.67419433593746,13.40948486328129],[-16.69012451171871,13.42010498046873],[-16.69732666015626,13.42529296875002],[-16.70092773437499,13.42828369140621],[-16.70788574218748,13.43591308593746],[-16.71588134765621,13.44268798828121],[-16.72596184866321,13.45841599888862],[-16.70463366026737,13.47167136831214],[-16.6896336602674,13.48597136831218],[-16.68503366026738,13.4885713683121],[-16.67983366026736,13.48867136831212],[-16.67533366026736,13.48597136831218],[-16.67093366026737,13.47597136831212],[-16.66703366026735,13.4707713683121],[-16.66233366026741,13.46827136831211],[-16.6381336602674,13.47177136831215],[-16.62633366026743,13.47197136831218]]],"type":"Polygon"}
+}

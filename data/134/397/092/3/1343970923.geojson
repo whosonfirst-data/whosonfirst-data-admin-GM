@@ -1,0 +1,71 @@
+{
+  "id": 1343970923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.41667,13.41667,-15.41667,13.41667",
+    "geom:latitude":13.41667,
+    "geom:longitude":-15.41667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jappeni",
+    "gn:country_code":"GM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413279,
+    "gn:latitude":13.41667,
+    "gn:longitude":-15.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jappeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jafini",
+        "Jappeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890422679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413279
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"f7dbc6b9a1ebcb100352ec1ef0bef966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422679,
+            "locality_id":1343970923,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":1343970923,
+    "wof:lastmodified":1537623893,
+    "wof:name":"Jappeni",
+    "wof:parent_id":890422679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.41667,
+    13.41667,
+    -15.41667,
+    13.41667
+],
+  "geometry": {"coordinates":[-15.41667,13.41667],"type":"Point"}
+}

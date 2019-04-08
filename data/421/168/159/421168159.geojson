@@ -1,0 +1,98 @@
+{
+  "id": 421168159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.85,13.4,-15.85,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":-15.85,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0442\u0435\u043b\u0438\u043d\u0433"
+    ],
+    "name:dut_x_preferred":[
+        "Batelling"
+    ],
+    "name:eng_x_preferred":[
+        "Batelling"
+    ],
+    "name:ger_x_preferred":[
+        "Batelling"
+    ],
+    "name:swe_x_preferred":[
+        "Batelling"
+    ],
+    "name:unk_x_variant":[
+        "Battelling"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413816,
+    "qs:gn_pop":347,
+    "qs:name":"Batelling",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Lower River",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":56,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1035540,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321196,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890413365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413816,
+        "gp:id":1321196,
+        "qs:id":1035540,
+        "wd:id":"Q810746"
+    },
+    "wof:country":"GM",
+    "wof:created":1459008756,
+    "wof:geomhash":"4aa003002870150e4c49e38c6bcb4327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413365,
+            "locality_id":421168159,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":421168159,
+    "wof:lastmodified":1514443849,
+    "wof:name":"Batelling",
+    "wof:parent_id":890413365,
+    "wof:placetype":"locality",
+    "wof:population":347,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.85,
+    13.4,
+    -15.85,
+    13.4
+],
+  "geometry": {"coordinates":[-15.85,13.4],"type":"Point"}
+}

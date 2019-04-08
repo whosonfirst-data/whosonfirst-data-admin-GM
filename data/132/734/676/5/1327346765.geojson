@@ -1,0 +1,67 @@
+{
+  "id": 1327346765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.15222,13.35861,-16.15222,13.35861",
+    "geom:latitude":13.35861,
+    "geom:longitude":-16.15222,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Manar",
+    "gn:country_code":"GM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412631,
+    "gn:latitude":13.35861,
+    "gn:longitude":-16.15222,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Manar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890413365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412631
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"03ac31312a6deb4b76c4f71575f0c169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413365,
+            "locality_id":1327346765,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":1327346765,
+    "wof:lastmodified":1536804281,
+    "wof:name":"Manar",
+    "wof:parent_id":890413365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.15222,
+    13.35861,
+    -16.15222,
+    13.35861
+],
+  "geometry": {"coordinates":[-16.15222,13.35861],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276224295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.31667,13.38833,-16.31667,13.38833",
+    "geom:latitude":13.38833,
+    "geom:longitude":-16.31667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sami Koto",
+    "gn:country_code":"GM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412196,
+    "gn:latitude":13.38833,
+    "gn:longitude":-16.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sami Koto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sami",
+        "Sami Koto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412196
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"576ee979c4faef1270c9cb4edae655a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413199,
+            "locality_id":1276224295,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1276224295,
+    "wof:lastmodified":1537623876,
+    "wof:name":"Sami Koto",
+    "wof:parent_id":890413199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.31667,
+    13.38833,
+    -16.31667,
+    13.38833
+],
+  "geometry": {"coordinates":[-16.31667,13.38833],"type":"Point"}
+}

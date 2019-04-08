@@ -1,0 +1,63 @@
+{
+  "id": 1243271589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.2,13.65,-15.2,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":-15.2,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pakala",
+    "gn:country_code":"GM",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412319,
+    "gn:latitude":13.65,
+    "gn:longitude":-15.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pakala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412319
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"b00f0b604b53a776d64dbf16b3e72e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243271589,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243271589,
+    "wof:lastmodified":1537055129,
+    "wof:name":"Pakala",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.2,
+    13.65,
+    -15.2,
+    13.65
+],
+  "geometry": {"coordinates":[-15.2,13.65],"type":"Point"}
+}

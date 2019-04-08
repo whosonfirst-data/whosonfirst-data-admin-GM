@@ -1,0 +1,71 @@
+{
+  "id": 1193016313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.13333,13.41667,-14.13333,13.41667",
+    "geom:latitude":13.41667,
+    "geom:longitude":-14.13333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Limbambulu",
+    "gn:country_code":"GM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412725,
+    "gn:latitude":13.41667,
+    "gn:longitude":-14.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Limbambulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yamadu",
+        "Limbambulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890413179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412725
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"c333f7557cfcd6de178ccd871a95da2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413179,
+            "locality_id":1193016313,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":1193016313,
+    "wof:lastmodified":1537623885,
+    "wof:name":"Limbambulu",
+    "wof:parent_id":890413179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.13333,
+    13.41667,
+    -14.13333,
+    13.41667
+],
+  "geometry": {"coordinates":[-14.13333,13.41667],"type":"Point"}
+}

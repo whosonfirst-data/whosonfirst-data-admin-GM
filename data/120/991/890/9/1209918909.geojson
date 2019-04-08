@@ -1,0 +1,67 @@
+{
+  "id": 1209918909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.52639,13.24722,-16.52639,13.24722",
+    "geom:latitude":13.24722,
+    "geom:longitude":-16.52639,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Faraba Banta",
+    "gn:country_code":"GM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413520,
+    "gn:latitude":13.24722,
+    "gn:longitude":-16.52639,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Faraba Banta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413520
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"1db2d5997adf2d53ad2314c31ae36515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413351,
+            "locality_id":1209918909,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1209918909,
+    "wof:lastmodified":1536370692,
+    "wof:name":"Faraba Banta",
+    "wof:parent_id":890413351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.52639,
+    13.24722,
+    -16.52639,
+    13.24722
+],
+  "geometry": {"coordinates":[-16.52639,13.24722],"type":"Point"}
+}

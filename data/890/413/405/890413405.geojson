@@ -1,0 +1,70 @@
+{
+  "id": 890413405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.66667,13.58333,-14.66667,13.58333",
+    "geom:latitude":13.58333,
+    "geom:longitude":-14.66667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":496,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Changai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"33.47083333",
+    "wd:longitude":"48.275",
+    "wd:wordcount":129,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413674,
+        "gp:id":1321345,
+        "qs:id":574049,
+        "wk:page":"Changai"
+    },
+    "wof:country":"GM",
+    "wof:created":1469050999,
+    "wof:geomhash":"e0771ebc0415c1a02eaa39c408d8d43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422613,
+            "locality_id":890413405,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890413405,
+    "wof:lastmodified":1527727172,
+    "wof:name":"Changai",
+    "wof:parent_id":890422613,
+    "wof:placetype":"locality",
+    "wof:population":496,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.66667,
+    13.58333,
+    -14.66667,
+    13.58333
+],
+  "geometry": {"coordinates":[-14.66667,13.58333],"type":"Point"}
+}

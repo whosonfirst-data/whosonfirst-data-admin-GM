@@ -1,0 +1,67 @@
+{
+  "id": 1344264635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.23333,13.55,-15.23333,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-15.23333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tamba Nani",
+    "gn:country_code":"GM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411814,
+    "gn:latitude":13.55,
+    "gn:longitude":-15.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tamba Nani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411814
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"785ead48af3e2226b7730990fae6c504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422629,
+            "locality_id":1344264635,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1344264635,
+    "wof:lastmodified":1537074975,
+    "wof:name":"Tamba Nani",
+    "wof:parent_id":890422629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.23333,
+    13.55,
+    -15.23333,
+    13.55
+],
+  "geometry": {"coordinates":[-15.23333,13.55],"type":"Point"}
+}

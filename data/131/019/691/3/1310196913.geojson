@@ -1,0 +1,72 @@
+{
+  "id": 1310196913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.16,13.57944,-16.16,13.57944",
+    "geom:latitude":13.57944,
+    "geom:longitude":-16.16,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ker Marjow",
+    "gn:cc2":"GM",
+    "gn:country_code":"GM",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412947,
+    "gn:latitude":13.57944,
+    "gn:longitude":-16.16,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ker Marjow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ker Majojo",
+        "Ker Marjow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412947
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"44f0c300bad192c0685497f06758d1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422649,
+            "locality_id":1310196913,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1310196913,
+    "wof:lastmodified":1537623888,
+    "wof:name":"Ker Marjow",
+    "wof:parent_id":890422649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.16,
+    13.57944,
+    -16.16,
+    13.57944
+],
+  "geometry": {"coordinates":[-16.16,13.57944],"type":"Point"}
+}

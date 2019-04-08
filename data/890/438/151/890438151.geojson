@@ -1,0 +1,66 @@
+{
+  "id": 890438151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.08333,13.51667,-14.08333,13.51667",
+    "geom:latitude":13.51667,
+    "geom:longitude":-14.08333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":33,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sare Geda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890413179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412098,
+        "gp:id":1321458,
+        "qs:id":573867
+    },
+    "wof:country":"GM",
+    "wof:created":1469052182,
+    "wof:geomhash":"1feabc3fe15655dc65e872e2868bfb40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413179,
+            "locality_id":890438151,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":890438151,
+    "wof:lastmodified":1505343563,
+    "wof:name":"Sare Geda",
+    "wof:parent_id":890413179,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.08333,
+    13.51667,
+    -14.08333,
+    13.51667
+],
+  "geometry": {"coordinates":[-14.08333,13.51667],"type":"Point"}
+}

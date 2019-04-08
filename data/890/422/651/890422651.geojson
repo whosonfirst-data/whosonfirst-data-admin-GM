@@ -1,0 +1,66 @@
+{
+  "id": 890422651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.16667,13.61667,-15.16667,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":-15.16667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":378,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Jockul",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413214,
+        "gp:id":28752614,
+        "qs:id":573987
+    },
+    "wof:country":"GM",
+    "wof:created":1469051458,
+    "wof:geomhash":"a4dc0acd02bdd5c5577388a5d59a8b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422631,
+            "locality_id":890422651,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890422651,
+    "wof:lastmodified":1505343471,
+    "wof:name":"Jockul",
+    "wof:parent_id":890422631,
+    "wof:placetype":"locality",
+    "wof:population":378,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.16667,
+    13.61667,
+    -15.16667,
+    13.61667
+],
+  "geometry": {"coordinates":[-15.16667,13.61667],"type":"Point"}
+}

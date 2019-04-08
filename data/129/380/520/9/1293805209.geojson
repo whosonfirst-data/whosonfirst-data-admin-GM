@@ -1,0 +1,67 @@
+{
+  "id": 1293805209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.86667,13.56667,-15.86667,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":-15.86667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Minti Kunda",
+    "gn:country_code":"GM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412525,
+    "gn:latitude":13.56667,
+    "gn:longitude":-15.86667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Minti Kunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890429071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412525
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"9e4424b31d84c2c8243af25d88012517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429071,
+            "locality_id":1293805209,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1293805209,
+    "wof:lastmodified":1536825241,
+    "wof:name":"Minti Kunda",
+    "wof:parent_id":890429071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.86667,
+    13.56667,
+    -15.86667,
+    13.56667
+],
+  "geometry": {"coordinates":[-15.86667,13.56667],"type":"Point"}
+}

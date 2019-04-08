@@ -1,0 +1,73 @@
+{
+  "id": 890436697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.91667,13.61667,-14.91667,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":-14.91667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":1364,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Sukutta"
+    ],
+    "qs:name":"Sukuta",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:latitude":"13.41444444",
+    "wd:longitude":"-16.70722222",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411877,
+        "gp:id":1321919,
+        "qs:id":1035481,
+        "wk:page":"Sukuta"
+    },
+    "wof:country":"GM",
+    "wof:created":1469052121,
+    "wof:geomhash":"ffd5f20746243b3ebf80473d77a6c685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422847,
+            "locality_id":890436697,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890436697,
+    "wof:lastmodified":1527735405,
+    "wof:name":"Sukuta",
+    "wof:parent_id":890422847,
+    "wof:placetype":"locality",
+    "wof:population":1364,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.91667,
+    13.61667,
+    -14.91667,
+    13.61667
+],
+  "geometry": {"coordinates":[-14.91667,13.61667],"type":"Point"}
+}

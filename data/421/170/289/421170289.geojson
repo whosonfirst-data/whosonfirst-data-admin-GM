@@ -1,0 +1,79 @@
+{
+  "id": 421170289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.58333,13.55,-15.58333,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-15.58333,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413797,
+    "qs:gn_pop":168,
+    "qs:name":"Beretto",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"North Bank",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "qs:qs_id":1297368,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321211,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413797,
+        "gp:id":1321211,
+        "qs:id":1297368
+    },
+    "wof:country":"GM",
+    "wof:created":1459008847,
+    "wof:geomhash":"c5d6caea88f48e7f18f329369f0fa912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413201,
+            "locality_id":421170289,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":421170289,
+    "wof:lastmodified":1505340599,
+    "wof:name":"Beretto",
+    "wof:parent_id":890413201,
+    "wof:placetype":"locality",
+    "wof:population":168,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.58333,
+    13.55,
+    -15.58333,
+    13.55
+],
+  "geometry": {"coordinates":[-15.58333,13.55],"type":"Point"}
+}

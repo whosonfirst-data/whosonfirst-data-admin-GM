@@ -1,0 +1,94 @@
+{
+  "id": 421195171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.08639,13.23528,-16.08639,13.23528",
+    "geom:latitude":13.23528,
+    "geom:longitude":-16.08639,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Bwiam"
+    ],
+    "name:dut_x_preferred":[
+        "Bwiam"
+    ],
+    "name:eng_x_preferred":[
+        "Bwiam"
+    ],
+    "name:ger_x_preferred":[
+        "Bwiam"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d5\u05d9\u05d0\u05dd"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413691,
+    "qs:gn_pop":0,
+    "qs:name":"Bwiam",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Western",
+    "qs:photos":225,
+    "qs:photos_1k":46,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":225,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":279378,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321287,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890422703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413691,
+        "gp:id":1321287,
+        "qs:id":279378,
+        "wd:id":"Q1018433",
+        "wk:page":"Bwiam"
+    },
+    "wof:country":"GM",
+    "wof:created":1459009834,
+    "wof:geomhash":"1d3c10b131a109c3f8dbf9d78fdbbe3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422703,
+            "locality_id":421195171,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":421195171,
+    "wof:lastmodified":1527716126,
+    "wof:name":"Bwiam",
+    "wof:parent_id":890422703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.08639,
+    13.23528,
+    -16.08639,
+    13.23528
+],
+  "geometry": {"coordinates":[-16.08639,13.23528],"type":"Point"}
+}

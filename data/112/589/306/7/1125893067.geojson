@@ -1,0 +1,78 @@
+{
+  "id": 1125893067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.75,13.35,-15.75,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":-15.75,
+    "gn:gn_country":"GM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1746,
+    "gn:population":1746,
+    "iso:country":"GM",
+    "lbl:latitude":13.35,
+    "lbl:longitude":-15.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GM",
+    "qs_pg:gn_country":"GM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2412408,
+    "qs_pg:gn_pop":1746,
+    "qs_pg:name":"Nioro",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1035498,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676979,
+        1108691465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412408,
+        "qs_pg:id":1035498
+    },
+    "wof:country":"GM",
+    "wof:created":1497295413,
+    "wof:geomhash":"be92c703e499f9ad2f068d92fb6fc741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691465,
+            "locality_id":1125893067,
+            "region_id":85676979
+        }
+    ],
+    "wof:id":1125893067,
+    "wof:lastmodified":1509398917,
+    "wof:name":"Nioro",
+    "wof:parent_id":1108691465,
+    "wof:placetype":"locality",
+    "wof:population":1746,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.75,
+    13.35,
+    -15.75,
+    13.35
+],
+  "geometry": {"coordinates":[-15.75,13.35],"type":"Point"}
+}

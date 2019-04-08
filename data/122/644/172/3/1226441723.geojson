@@ -1,0 +1,67 @@
+{
+  "id": 1226441723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.55583,13.29028,-16.55583,13.29028",
+    "geom:latitude":13.29028,
+    "geom:longitude":-16.55583,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bonto",
+    "gn:country_code":"GM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413769,
+    "gn:latitude":13.29028,
+    "gn:longitude":-16.55583,
+    "gn:modification_date":"2000-09-22",
+    "gn:name":"Bonto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413769
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"e4a2c8de5999103e6001d53f21d9caee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413351,
+            "locality_id":1226441723,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1226441723,
+    "wof:lastmodified":1536651117,
+    "wof:name":"Bonto",
+    "wof:parent_id":890413351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.55583,
+    13.29028,
+    -16.55583,
+    13.29028
+],
+  "geometry": {"coordinates":[-16.55583,13.29028],"type":"Point"}
+}

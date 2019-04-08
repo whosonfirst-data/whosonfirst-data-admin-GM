@@ -1,0 +1,71 @@
+{
+  "id": 890429023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.35,13.36667,-14.35,13.36667",
+    "geom:latitude":13.36667,
+    "geom:longitude":-14.35,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":98,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Misera"
+    ],
+    "qs:name":"Missira",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":12,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890429021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412507,
+        "gp:id":1321358,
+        "qs:id":91398,
+        "wk:page":"Missira"
+    },
+    "wof:country":"GM",
+    "wof:created":1469051788,
+    "wof:geomhash":"88ee65d97dc3397be85c3e1b4f7ae17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429021,
+            "locality_id":890429023,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":890429023,
+    "wof:lastmodified":1527792788,
+    "wof:name":"Missira",
+    "wof:parent_id":890429021,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.35,
+    13.36667,
+    -14.35,
+    13.36667
+],
+  "geometry": {"coordinates":[-14.35,13.36667],"type":"Point"}
+}

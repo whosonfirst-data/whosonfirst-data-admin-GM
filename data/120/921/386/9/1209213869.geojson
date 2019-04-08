@@ -1,0 +1,61 @@
+{
+  "id": 1209213869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.15389,13.21778,-16.15389,13.21778",
+    "geom:latitude":13.21778,
+    "geom:longitude":-16.15389,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Karanai",
+    "gn:country_code":"GM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413076,
+    "gn:latitude":13.21778,
+    "gn:longitude":-16.15389,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Karanai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413076
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"996282dc3c63ccf3f17378b83e7ccabe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632603,
+            "locality_id":1209213869
+        }
+    ],
+    "wof:id":1209213869,
+    "wof:lastmodified":1536294199,
+    "wof:name":"Karanai",
+    "wof:parent_id":85632603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.15389,
+    13.21778,
+    -16.15389,
+    13.21778
+],
+  "geometry": {"coordinates":[-16.15389,13.21778],"type":"Point"}
+}

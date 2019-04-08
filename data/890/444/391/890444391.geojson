@@ -1,0 +1,88 @@
+{
+  "id": 890444391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.87884,13.69094,-14.87884,13.69094",
+    "geom:latitude":13.69094,
+    "geom:longitude":-14.87884,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":1380,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Wassu"
+    ],
+    "name:dut_x_preferred":[
+        "Wassu"
+    ],
+    "name:eng_x_preferred":[
+        "Wassu"
+    ],
+    "name:fin_x_preferred":[
+        "Wassu"
+    ],
+    "name:ger_x_preferred":[
+        "Wassu"
+    ],
+    "name:pol_x_preferred":[
+        "Wassu"
+    ],
+    "name:spa_x_preferred":[
+        "Wassu"
+    ],
+    "qs:name":"Wassu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411703,
+        "gp:id":1483213,
+        "qs:id":1035478,
+        "wd:id":"Q2552196"
+    },
+    "wof:country":"GM",
+    "wof:created":1469052467,
+    "wof:geomhash":"4c5238c18d0eacba9895e7abf12a32dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422847,
+            "locality_id":890444391,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890444391,
+    "wof:lastmodified":1514443869,
+    "wof:name":"Wassu",
+    "wof:parent_id":890422847,
+    "wof:placetype":"locality",
+    "wof:population":1380,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.87884,
+    13.69094,
+    -14.87884,
+    13.69094
+],
+  "geometry": {"coordinates":[-14.87884,13.69094],"type":"Point"}
+}

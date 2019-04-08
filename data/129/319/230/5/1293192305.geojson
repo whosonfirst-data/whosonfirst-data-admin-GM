@@ -1,0 +1,70 @@
+{
+  "id": 1293192305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.51394,13.5508,-15.51394,13.5508",
+    "geom:latitude":13.5508,
+    "geom:longitude":-15.51394,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mbanta Su",
+    "gn:country_code":"GM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9172211,
+    "gn:latitude":13.5508,
+    "gn:longitude":-15.51394,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Mbanta Su",
+    "gn:population":73,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9172211
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"e2b9cfdd53df0a42e3c9dc2f61f02412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413201,
+            "locality_id":1293192305,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1293192305,
+    "wof:lastmodified":1536715979,
+    "wof:name":"Mbanta Su",
+    "wof:parent_id":890413201,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.51394,
+    13.5508,
+    -15.51394,
+    13.5508
+],
+  "geometry": {"coordinates":[-15.51394,13.5508],"type":"Point"}
+}

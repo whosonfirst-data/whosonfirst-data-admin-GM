@@ -1,0 +1,81 @@
+{
+  "id": 1126026625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.63333,13.46667,-14.63333,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":-14.63333,
+    "gn:gn_country":"GM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":723,
+    "gn:population":723,
+    "iso:country":"GM",
+    "lbl:latitude":13.46667,
+    "lbl:longitude":-14.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Dobo"
+    ],
+    "qs_pg:aaroncc":"GM",
+    "qs_pg:gn_country":"GM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2413561,
+    "qs_pg:gn_pop":723,
+    "qs_pg:name":"Dobbo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":574027,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413561,
+        "qs_pg:id":574027
+    },
+    "wof:country":"GM",
+    "wof:created":1497301180,
+    "wof:geomhash":"5c7a0a0816309483469f689020ba1da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422613,
+            "locality_id":1126026625,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1126026625,
+    "wof:lastmodified":1509407585,
+    "wof:name":"Dobbo",
+    "wof:parent_id":890422613,
+    "wof:placetype":"locality",
+    "wof:population":723,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.63333,
+    13.46667,
+    -14.63333,
+    13.46667
+],
+  "geometry": {"coordinates":[-14.63333,13.46667],"type":"Point"}
+}

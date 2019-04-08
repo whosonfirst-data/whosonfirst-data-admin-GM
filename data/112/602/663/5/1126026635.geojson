@@ -1,0 +1,78 @@
+{
+  "id": 1126026635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.25,13.7,-15.25,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-15.25,
+    "gn:gn_country":"GM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":415,
+    "gn:population":415,
+    "iso:country":"GM",
+    "lbl:latitude":13.7,
+    "lbl:longitude":-15.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GM",
+    "qs_pg:gn_country":"GM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2413845,
+    "qs_pg:gn_pop":415,
+    "qs_pg:name":"Bantanto Musa Bah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":574073,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890413197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413845,
+        "qs_pg:id":574073
+    },
+    "wof:country":"GM",
+    "wof:created":1497301181,
+    "wof:geomhash":"830040184747681463151516d8af60f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413197,
+            "locality_id":1126026635,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1126026635,
+    "wof:lastmodified":1509407585,
+    "wof:name":"Bantanto Musa Bah",
+    "wof:parent_id":890413197,
+    "wof:placetype":"locality",
+    "wof:population":415,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.25,
+    13.7,
+    -15.25,
+    13.7
+],
+  "geometry": {"coordinates":[-15.25,13.7],"type":"Point"}
+}

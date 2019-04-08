@@ -1,0 +1,66 @@
+{
+  "id": 890417873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.98333,13.55,-15.98333,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-15.98333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":1045,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Daru Rilwan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890429071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413623,
+        "gp:id":1322189,
+        "qs:id":1035526
+    },
+    "wof:country":"GM",
+    "wof:created":1469051224,
+    "wof:geomhash":"80ffced9ad437512cb012b7321b5ecf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429071,
+            "locality_id":890417873,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":890417873,
+    "wof:lastmodified":1505343441,
+    "wof:name":"Daru Rilwan",
+    "wof:parent_id":890429071,
+    "wof:placetype":"locality",
+    "wof:population":1045,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.98333,
+    13.55,
+    -15.98333,
+    13.55
+],
+  "geometry": {"coordinates":[-15.98333,13.55],"type":"Point"}
+}

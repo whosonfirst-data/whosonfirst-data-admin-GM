@@ -1,0 +1,72 @@
+{
+  "id": 890438155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.7,13.45,-14.7,13.45",
+    "geom:latitude":13.45,
+    "geom:longitude":-14.7,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":92,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kewal"
+    ],
+    "qs:name":"Kewel",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":496,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412890,
+        "gp:id":1321158,
+        "qs:id":573970,
+        "wd:id":"Q6453728",
+        "wk:page":"K\u00e9wel"
+    },
+    "wof:country":"GM",
+    "wof:created":1469052182,
+    "wof:geomhash":"5604d7c57c7c9cb1d46ef10354abeb27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":890438155,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890438155,
+    "wof:lastmodified":1527735423,
+    "wof:name":"Kewel",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.7,
+    13.45,
+    -14.7,
+    13.45
+],
+  "geometry": {"coordinates":[-14.7,13.45],"type":"Point"}
+}

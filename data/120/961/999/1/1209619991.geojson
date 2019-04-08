@@ -1,0 +1,66 @@
+{
+  "id": 1209619991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.6975,13.18361,-16.6975,13.18361",
+    "geom:latitude":13.18361,
+    "geom:longitude":-16.6975,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sifoe",
+    "gn:country_code":"GM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411976,
+    "gn:latitude":13.18361,
+    "gn:longitude":-16.6975,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sifoe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sito",
+        "Sifa",
+        "Sifoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411976
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"8b5ed9262db4eff67d99ba3c1a2585a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632603,
+            "locality_id":1209619991
+        }
+    ],
+    "wof:id":1209619991,
+    "wof:lastmodified":1537623873,
+    "wof:name":"Sifoe",
+    "wof:parent_id":85632603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.6975,
+    13.18361,
+    -16.6975,
+    13.18361
+],
+  "geometry": {"coordinates":[-16.6975,13.18361],"type":"Point"}
+}

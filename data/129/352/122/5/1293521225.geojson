@@ -1,0 +1,67 @@
+{
+  "id": 1293521225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.29111,13.23972,-16.29111,13.23972",
+    "geom:latitude":13.23972,
+    "geom:longitude":-16.29111,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nyangit",
+    "gn:country_code":"GM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571706,
+    "gn:latitude":13.23972,
+    "gn:longitude":-16.29111,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Nyangit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        1108562619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571706
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"08ae2cbe31138777f8b9b898b4ee85b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":1108562619,
+            "locality_id":1293521225,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1293521225,
+    "wof:lastmodified":1536738382,
+    "wof:name":"Nyangit",
+    "wof:parent_id":1108562619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.29111,
+    13.23972,
+    -16.29111,
+    13.23972
+],
+  "geometry": {"coordinates":[-16.29111,13.23972],"type":"Point"}
+}

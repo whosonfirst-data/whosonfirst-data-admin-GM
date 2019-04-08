@@ -1,0 +1,71 @@
+{
+  "id": 1293413785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.95,13.31667,-13.95,13.31667",
+    "geom:latitude":13.31667,
+    "geom:longitude":-13.95,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gambissar",
+    "gn:country_code":"GM",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413450,
+    "gn:latitude":13.31667,
+    "gn:longitude":-13.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gambissar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gembissara",
+        "Gambissar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413450
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"89a991e69b41c65627dee18e9a65cc22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691471,
+            "locality_id":1293413785,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1293413785,
+    "wof:lastmodified":1537623895,
+    "wof:name":"Gambissar",
+    "wof:parent_id":1108691471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.95,
+    13.31667,
+    -13.95,
+    13.31667
+],
+  "geometry": {"coordinates":[-13.95,13.31667],"type":"Point"}
+}

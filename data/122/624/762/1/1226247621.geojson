@@ -1,0 +1,74 @@
+{
+  "id": 1226247621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.59361,13.28111,-16.59361,13.28111",
+    "geom:latitude":13.28111,
+    "geom:longitude":-16.59361,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mandinaba",
+    "gn:cc2":"GM",
+    "gn:country_code":"GM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412628,
+    "gn:latitude":13.28111,
+    "gn:longitude":-16.59361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mandinaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandina Bah",
+        "Mandina Ba",
+        "Maindina Ba",
+        "Mandinaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412628
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"cebf377697452918133631d31a4ece52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413355,
+            "locality_id":1226247621,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1226247621,
+    "wof:lastmodified":1537623884,
+    "wof:name":"Mandinaba",
+    "wof:parent_id":890413355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.59361,
+    13.28111,
+    -16.59361,
+    13.28111
+],
+  "geometry": {"coordinates":[-16.59361,13.28111],"type":"Point"}
+}

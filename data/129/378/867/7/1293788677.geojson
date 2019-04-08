@@ -1,0 +1,67 @@
+{
+  "id": 1293788677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.73132,13.41433,-16.73132,13.41433",
+    "geom:latitude":13.41433,
+    "geom:longitude":-16.73132,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kerr Serign",
+    "gn:country_code":"GM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7282416,
+    "gn:latitude":13.41433,
+    "gn:longitude":-16.73132,
+    "gn:modification_date":"2010-03-21",
+    "gn:name":"Kerr Serign",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7282416
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"2693847c8a9a865d838a9760c4379ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413349,
+            "locality_id":1293788677,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1293788677,
+    "wof:lastmodified":1536848796,
+    "wof:name":"Kerr Serign",
+    "wof:parent_id":890413349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.73132,
+    13.41433,
+    -16.73132,
+    13.41433
+],
+  "geometry": {"coordinates":[-16.73132,13.41433],"type":"Point"}
+}

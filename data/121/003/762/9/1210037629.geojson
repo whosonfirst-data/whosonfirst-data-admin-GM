@@ -1,0 +1,71 @@
+{
+  "id": 1210037629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.46639,13.52361,-16.46639,13.52361",
+    "geom:latitude":13.52361,
+    "geom:longitude":-16.46639,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"M'Bollet N'Ding",
+    "gn:country_code":"GM",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412562,
+    "gn:latitude":13.52361,
+    "gn:longitude":-16.46639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u2019Bollet N\u2019Ding",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharm",
+        "M\u2019Bollet N\u2019Ding"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412562
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"86fafbda4c18ccce452f011d4d72b679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422471,
+            "locality_id":1210037629,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1210037629,
+    "wof:lastmodified":1537623883,
+    "wof:name":"M'Bollet N'Ding",
+    "wof:parent_id":890422471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.46639,
+    13.52361,
+    -16.46639,
+    13.52361
+],
+  "geometry": {"coordinates":[-16.46639,13.52361],"type":"Point"}
+}

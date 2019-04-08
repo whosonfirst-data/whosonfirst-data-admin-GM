@@ -1,0 +1,72 @@
+{
+  "id": 1259871139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.51694,13.49417,-16.51694,13.49417",
+    "geom:latitude":13.49417,
+    "geom:longitude":-16.51694,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mayamba",
+    "gn:cc2":"GM",
+    "gn:country_code":"GM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412590,
+    "gn:latitude":13.49417,
+    "gn:longitude":-16.51694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mayamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myamba",
+        "Mayamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412590
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"07fa7d6da8a8bdce879b85e257dc86d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422471,
+            "locality_id":1259871139,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1259871139,
+    "wof:lastmodified":1537623883,
+    "wof:name":"Mayamba",
+    "wof:parent_id":890422471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.51694,
+    13.49417,
+    -16.51694,
+    13.49417
+],
+  "geometry": {"coordinates":[-16.51694,13.49417],"type":"Point"}
+}

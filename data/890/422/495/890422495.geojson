@@ -1,0 +1,69 @@
+{
+  "id": 890422495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.7,13.58333,-15.7,13.58333",
+    "geom:latitude":13.58333,
+    "geom:longitude":-15.7,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":792,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Banta Killi"
+    ],
+    "qs:name":"Bantang Killing",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413861,
+        "gp:id":1321474,
+        "qs:id":574077
+    },
+    "wof:country":"GM",
+    "wof:created":1469051448,
+    "wof:geomhash":"823b9415d1a2fb0402557d45b91fdc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413201,
+            "locality_id":890422495,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":890422495,
+    "wof:lastmodified":1505343470,
+    "wof:name":"Bantang Killing",
+    "wof:parent_id":890413201,
+    "wof:placetype":"locality",
+    "wof:population":792,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.7,
+    13.58333,
+    -15.7,
+    13.58333
+],
+  "geometry": {"coordinates":[-15.7,13.58333],"type":"Point"}
+}

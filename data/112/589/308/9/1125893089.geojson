@@ -1,0 +1,81 @@
+{
+  "id": 1125893089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.75,13.5,-15.75,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":-15.75,
+    "gn:gn_country":"GM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1741,
+    "gn:population":1741,
+    "iso:country":"GM",
+    "lbl:latitude":13.5,
+    "lbl:longitude":-15.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kashan"
+    ],
+    "qs_pg:aaroncc":"GM",
+    "qs_pg:gn_country":"GM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2413041,
+    "qs_pg:gn_pop":1741,
+    "qs_pg:name":"Katchang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1035505,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413041,
+        "qs_pg:id":1035505
+    },
+    "wof:country":"GM",
+    "wof:created":1497295413,
+    "wof:geomhash":"f1c3c22355eec226da83b87eef23e4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413201,
+            "locality_id":1125893089,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1125893089,
+    "wof:lastmodified":1509398918,
+    "wof:name":"Katchang",
+    "wof:parent_id":890413201,
+    "wof:placetype":"locality",
+    "wof:population":1741,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.75,
+    13.5,
+    -15.75,
+    13.5
+],
+  "geometry": {"coordinates":[-15.75,13.5],"type":"Point"}
+}

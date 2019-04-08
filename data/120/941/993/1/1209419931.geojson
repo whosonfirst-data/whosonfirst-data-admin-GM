@@ -1,0 +1,61 @@
+{
+  "id": 1209419931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.20806,13.20861,-16.20806,13.20861",
+    "geom:latitude":13.20861,
+    "geom:longitude":-16.20806,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mahnyinah",
+    "gn:country_code":"GM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412659,
+    "gn:latitude":13.20861,
+    "gn:longitude":-16.20806,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Mahnyinah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412659
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"0dc166dff23d784aa5023800203e4c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632603,
+            "locality_id":1209419931
+        }
+    ],
+    "wof:id":1209419931,
+    "wof:lastmodified":1536287565,
+    "wof:name":"Mahnyinah",
+    "wof:parent_id":85632603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.20806,
+    13.20861,
+    -16.20806,
+    13.20861
+],
+  "geometry": {"coordinates":[-16.20806,13.20861],"type":"Point"}
+}

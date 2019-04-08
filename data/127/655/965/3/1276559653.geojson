@@ -1,0 +1,67 @@
+{
+  "id": 1276559653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.63333,13.35,-14.63333,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":-14.63333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"N'Joren",
+    "gn:country_code":"GM",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412359,
+    "gn:latitude":13.35,
+    "gn:longitude":-14.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"N\u2019Joren",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412359
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"8a4c162a0b2cca96107dfc77b5559a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":1276559653,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1276559653,
+    "wof:lastmodified":1536972385,
+    "wof:name":"N'Joren",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.63333,
+    13.35,
+    -14.63333,
+    13.35
+],
+  "geometry": {"coordinates":[-14.63333,13.35],"type":"Point"}
+}

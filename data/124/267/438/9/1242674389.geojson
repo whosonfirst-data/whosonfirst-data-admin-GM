@@ -1,0 +1,67 @@
+{
+  "id": 1242674389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.93333,13.53333,-15.93333,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":-15.93333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Karantaba",
+    "gn:country_code":"GM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413071,
+    "gn:latitude":13.53333,
+    "gn:longitude":-15.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Karantaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890429071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413071
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"46a7413bc77687117968857b4ef5d9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429071,
+            "locality_id":1242674389,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1242674389,
+    "wof:lastmodified":1536925113,
+    "wof:name":"Karantaba",
+    "wof:parent_id":890429071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.93333,
+    13.53333,
+    -15.93333,
+    13.53333
+],
+  "geometry": {"coordinates":[-15.93333,13.53333],"type":"Point"}
+}

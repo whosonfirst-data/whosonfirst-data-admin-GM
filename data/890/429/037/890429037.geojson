@@ -1,0 +1,69 @@
+{
+  "id": 890429037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.81667,13.68333,-14.81667,13.68333",
+    "geom:latitude":13.68333,
+    "geom:longitude":-14.81667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":147,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kattaba"
+    ],
+    "qs:name":"Kataba Omar Ndow",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413047,
+        "gp:id":1321919,
+        "qs:id":91405
+    },
+    "wof:country":"GM",
+    "wof:created":1469051789,
+    "wof:geomhash":"1beb8412387ce72c6e95b2b6fdcc9886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422847,
+            "locality_id":890429037,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890429037,
+    "wof:lastmodified":1505343509,
+    "wof:name":"Kataba Omar Ndow",
+    "wof:parent_id":890422847,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.81667,
+    13.68333,
+    -14.81667,
+    13.68333
+],
+  "geometry": {"coordinates":[-14.81667,13.68333],"type":"Point"}
+}

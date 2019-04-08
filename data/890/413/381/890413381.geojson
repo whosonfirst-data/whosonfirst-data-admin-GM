@@ -1,0 +1,66 @@
+{
+  "id": 890413381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.13222,13.59361,-16.13222,13.59361",
+    "geom:latitude":13.59361,
+    "geom:longitude":-16.13222,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":245,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Daru Lohen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007,
+        421187969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413625,
+        "gp:id":1416977,
+        "qs:id":574036
+    },
+    "wof:country":"GM",
+    "wof:created":1469050998,
+    "wof:geomhash":"519075ac0389191b36a21cffd9efdf5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187969,
+            "locality_id":890413381,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":890413381,
+    "wof:lastmodified":1505343414,
+    "wof:name":"Daru Lohen",
+    "wof:parent_id":421187969,
+    "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.13222,
+    13.59361,
+    -16.13222,
+    13.59361
+],
+  "geometry": {"coordinates":[-16.13222,13.59361],"type":"Point"}
+}

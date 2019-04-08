@@ -1,0 +1,66 @@
+{
+  "id": 890413307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.91667,13.51667,-14.91667,13.51667",
+    "geom:latitude":13.51667,
+    "geom:longitude":-14.91667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":709,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mara Magai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412600,
+        "gp:id":28752608,
+        "qs:id":573930
+    },
+    "wof:country":"GM",
+    "wof:created":1469050995,
+    "wof:geomhash":"1512d732d2db82f264278563c90df6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":890413307,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890413307,
+    "wof:lastmodified":1505343413,
+    "wof:name":"Mara Magai",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:population":709,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.91667,
+    13.51667,
+    -14.91667,
+    13.51667
+],
+  "geometry": {"coordinates":[-14.91667,13.51667],"type":"Point"}
+}

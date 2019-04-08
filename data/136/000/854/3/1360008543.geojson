@@ -1,0 +1,67 @@
+{
+  "id": 1360008543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.57806,13.28056,-16.57806,13.28056",
+    "geom:latitude":13.28056,
+    "geom:longitude":-16.57806,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kuloro",
+    "gn:country_code":"GM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412811,
+    "gn:latitude":13.28056,
+    "gn:longitude":-16.57806,
+    "gn:modification_date":"2000-09-22",
+    "gn:name":"Kuloro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412811
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"e8aab8a3f2a1f9c66346ac02f8a03de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413351,
+            "locality_id":1360008543,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1360008543,
+    "wof:lastmodified":1537053768,
+    "wof:name":"Kuloro",
+    "wof:parent_id":890413351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.57806,
+    13.28056,
+    -16.57806,
+    13.28056
+],
+  "geometry": {"coordinates":[-16.57806,13.28056],"type":"Point"}
+}

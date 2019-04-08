@@ -1,0 +1,67 @@
+{
+  "id": 1226134311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.28972,13.59278,-16.28972,13.59278",
+    "geom:latitude":13.59278,
+    "geom:longitude":-16.28972,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ker Ganyado",
+    "gn:country_code":"GM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412984,
+    "gn:latitude":13.59278,
+    "gn:longitude":-16.28972,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Ker Ganyado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677007,
+        421187969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412984
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"769132c5a9b162d1469519b6bf0ea4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187969,
+            "locality_id":1226134311,
+            "region_id":85677007
+        }
+    ],
+    "wof:id":1226134311,
+    "wof:lastmodified":1537091013,
+    "wof:name":"Ker Ganyado",
+    "wof:parent_id":421187969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.28972000000001,
+    13.59278,
+    -16.28972000000001,
+    13.59278
+],
+  "geometry": {"coordinates":[-16.28972000000001,13.59278],"type":"Point"}
+}

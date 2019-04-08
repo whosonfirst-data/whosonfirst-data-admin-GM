@@ -1,0 +1,79 @@
+{
+  "id": 421171969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.6175,13.33111,-16.6175,13.33111",
+    "geom:latitude":13.33111,
+    "geom:longitude":-16.6175,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Gallo-ya"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413453,
+    "qs:gn_pop":0,
+    "qs:name":"Galoya",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"North Bank",
+    "qs:photos":28,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":28,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1288325,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":28752613,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413453,
+        "gp:id":28752613,
+        "qs:id":1288325
+    },
+    "wof:country":"GM",
+    "wof:created":1459008914,
+    "wof:geomhash":"cdabd6ddd125f615ec79d895c6a1b9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413349,
+            "locality_id":421171969,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":421171969,
+    "wof:lastmodified":1501263039,
+    "wof:name":"Galoya",
+    "wof:parent_id":890413349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.6175,
+    13.33111,
+    -16.6175,
+    13.33111
+],
+  "geometry": {"coordinates":[-16.6175,13.33111],"type":"Point"}
+}

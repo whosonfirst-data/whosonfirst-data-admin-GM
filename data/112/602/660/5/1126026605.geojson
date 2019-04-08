@@ -1,0 +1,94 @@
+{
+  "id": 1126026605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.28333,13.38333,-15.28333,13.38333",
+    "geom:latitude":13.38333,
+    "geom:longitude":-15.28333,
+    "gn:gn_country":"GM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":629,
+    "gn:population":629,
+    "iso:country":"GM",
+    "lbl:latitude":13.38333,
+    "lbl:longitude":-15.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dongoro Ba"
+    ],
+    "name:eng_x_preferred":[
+        "Dongoro Ba"
+    ],
+    "name:ger_x_preferred":[
+        "Dongoro Ba"
+    ],
+    "name:swe_x_preferred":[
+        "Dongoro Ba"
+    ],
+    "name:unk_x_variant":[
+        "Dongoro"
+    ],
+    "qs_pg:aaroncc":"GM",
+    "qs_pg:gn_country":"GM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2413552,
+    "qs_pg:gn_pop":629,
+    "qs_pg:name":"Dongoro Ba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":574025,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890422675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413552,
+        "qs_pg:id":574025,
+        "wd:id":"Q1241427"
+    },
+    "wof:country":"GM",
+    "wof:created":1497301179,
+    "wof:geomhash":"7fa623132ae376e6f82345659ad7bb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422675,
+            "locality_id":1126026605,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":1126026605,
+    "wof:lastmodified":1514443854,
+    "wof:name":"Dongoro Ba",
+    "wof:parent_id":890422675,
+    "wof:placetype":"locality",
+    "wof:population":629,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.28333,
+    13.38333,
+    -15.28333,
+    13.38333
+],
+  "geometry": {"coordinates":[-15.28333,13.38333],"type":"Point"}
+}

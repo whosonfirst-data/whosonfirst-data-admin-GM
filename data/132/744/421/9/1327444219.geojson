@@ -1,0 +1,73 @@
+{
+  "id": 1327444219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.17944,13.3225,-16.17944,13.3225",
+    "geom:latitude":13.3225,
+    "geom:longitude":-16.17944,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tarburung Kotor",
+    "gn:cc2":"GM",
+    "gn:country_code":"GM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411796,
+    "gn:latitude":13.3225,
+    "gn:longitude":-16.17944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tarburung Kotor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taburo Koto",
+        "Taba Woro",
+        "Tarburung Kotor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890413365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411796
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"b83427517c7ec18dcab814d5142c1e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413365,
+            "locality_id":1327444219,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":1327444219,
+    "wof:lastmodified":1537623871,
+    "wof:name":"Tarburung Kotor",
+    "wof:parent_id":890413365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.17944,
+    13.3225,
+    -16.17944,
+    13.3225
+],
+  "geometry": {"coordinates":[-16.17944,13.3225],"type":"Point"}
+}

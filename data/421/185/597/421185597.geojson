@@ -1,0 +1,235 @@
+{
+  "id": 421185597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.55,13.46667,-15.55,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":-15.55,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u0544\u0561\u0576\u057d\u0561 \u053f\u0578\u0576\u056f\u0578"
+    ],
+    "name:chi_x_preferred":[
+        "\u66fc\u85a9\u5b54\u79d1"
+    ],
+    "name:deu_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:dut_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:eng_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:fre_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:ger_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:glg_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:hun_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:ita_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30b5\u30fb\u30b3\u30f3\u30b3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9cc\uc0ac\ucf69\ucf54"
+    ],
+    "name:kur_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:lit_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:pol_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:por_x_preferred":[
+        "Mansakonko"
+    ],
+    "name:rum_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:swe_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:tur_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u0633\u0627 \u06a9\u0648\u0646\u06a9\u0648"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"The Gambia",
+    "ne:ADM0_A3":"GMB",
+    "ne:ADM1NAME":"Lower River",
+    "ne:ADMIN1_COD":2,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":2412605,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Mansa Konko",
+    "ne:GN_POP":0,
+    "ne:GTOPO30":2.0,
+    "ne:ISO_A2":"GM",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":13.377312,
+    "ne:LONGITUDE":-15.678566,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Mansa Konko",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Mansa Konko",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":18672,
+    "ne:POP_MIN":18672,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Gambia, The",
+    "ne:SOV_A3":"GMB",
+    "ne:TIMEZONE":"Africa/Banjul",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":2412605,
+    "qs:gn_pop":1978,
+    "qs:name":"Mansa Konko",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Lower River",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1035492,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1322028,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890422673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412605,
+        "gp:id":1322028,
+        "qs:id":1035492,
+        "wd:id":"Q972281",
+        "wk:page":"Mansa Konko"
+    },
+    "wof:country":"GM",
+    "wof:created":1459009448,
+    "wof:geomhash":"ecad4a7a45b6f21338d26757069c3608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422673,
+            "locality_id":421185597,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":421185597,
+    "wof:lastmodified":1527726507,
+    "wof:name":"Mansa Konko",
+    "wof:parent_id":890422673,
+    "wof:placetype":"locality",
+    "wof:population":1978,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.55,
+    13.46667,
+    -15.55,
+    13.46667
+],
+  "geometry": {"coordinates":[-15.55,13.46667],"type":"Point"}
+}

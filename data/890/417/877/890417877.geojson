@@ -1,0 +1,68 @@
+{
+  "id": 890417877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.28333,13.55,-16.28333,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-16.28333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":1249,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Chilla",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413660,
+        "gp:id":1322117,
+        "qs:id":1035528,
+        "wk:page":"Chilla"
+    },
+    "wof:country":"GM",
+    "wof:created":1469051224,
+    "wof:geomhash":"608f23129f65f1d7a652348a5f6b13e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422649,
+            "locality_id":890417877,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":890417877,
+    "wof:lastmodified":1527782124,
+    "wof:name":"Chilla",
+    "wof:parent_id":890422649,
+    "wof:placetype":"locality",
+    "wof:population":1249,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.28333,
+    13.55,
+    -16.28333,
+    13.55
+],
+  "geometry": {"coordinates":[-16.28333,13.55],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259695317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.28333,13.7,-15.28333,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-15.28333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Alhaji Abdoulie Liegh",
+    "gn:country_code":"GM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413984,
+    "gn:latitude":13.7,
+    "gn:longitude":-15.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Alhaji Abdoulie Liegh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890413197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413984
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"bfd90959ec23ed3ac4a5ac52cc07560c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413197,
+            "locality_id":1259695317,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1259695317,
+    "wof:lastmodified":1537047906,
+    "wof:name":"Alhaji Abdoulie Liegh",
+    "wof:parent_id":890413197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.28333,
+    13.7,
+    -15.28333,
+    13.7
+],
+  "geometry": {"coordinates":[-15.28333,13.7],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421172129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.65,13.58333,-14.65,13.58333",
+    "geom:latitude":13.58333,
+    "geom:longitude":-14.65,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Demba Kale"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413600,
+    "qs:gn_pop":166,
+    "qs:name":"Demba Kali",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Central River",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "qs:qs_id":1297372,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321345,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413600,
+        "gp:id":1321345,
+        "qs:id":1297372
+    },
+    "wof:country":"GM",
+    "wof:created":1459008921,
+    "wof:geomhash":"1af5fafe15ba410de8badddfd55079b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422613,
+            "locality_id":421172129,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":421172129,
+    "wof:lastmodified":1505340609,
+    "wof:name":"Demba Kali",
+    "wof:parent_id":890422613,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.65,
+    13.58333,
+    -14.65,
+    13.58333
+],
+  "geometry": {"coordinates":[-14.65,13.58333],"type":"Point"}
+}

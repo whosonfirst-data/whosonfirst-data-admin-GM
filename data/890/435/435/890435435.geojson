@@ -1,0 +1,68 @@
+{
+  "id": 890435435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.04917,13.51639,-16.04917,13.51639",
+    "geom:latitude":13.51639,
+    "geom:longitude":-16.04917,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":1974,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Saba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":2576,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412252,
+        "gp:id":28752617,
+        "qs:id":1035494,
+        "wk:page":"Saba"
+    },
+    "wof:country":"GM",
+    "wof:created":1469052067,
+    "wof:geomhash":"25c986feefd5e7e3dbaa34431ebb7c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422473,
+            "locality_id":890435435,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":890435435,
+    "wof:lastmodified":1527793052,
+    "wof:name":"Saba",
+    "wof:parent_id":890422473,
+    "wof:placetype":"locality",
+    "wof:population":1974,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.04917,
+    13.51639,
+    -16.04917,
+    13.51639
+],
+  "geometry": {"coordinates":[-16.04917,13.51639],"type":"Point"}
+}

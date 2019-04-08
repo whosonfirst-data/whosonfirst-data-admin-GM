@@ -1,0 +1,67 @@
+{
+  "id": 1309797835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.27028,13.46139,-16.27028,13.46139",
+    "geom:latitude":13.46139,
+    "geom:longitude":-16.27028,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Killa",
+    "gn:country_code":"GM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412880,
+    "gn:latitude":13.46139,
+    "gn:longitude":-16.27028,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Killa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412880
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"8c84fe1330d1e9e3256453ad548252a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413199,
+            "locality_id":1309797835,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1309797835,
+    "wof:lastmodified":1536943126,
+    "wof:name":"Killa",
+    "wof:parent_id":890413199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.27028,
+    13.46139,
+    -16.27028,
+    13.46139
+],
+  "geometry": {"coordinates":[-16.27028,13.46139],"type":"Point"}
+}

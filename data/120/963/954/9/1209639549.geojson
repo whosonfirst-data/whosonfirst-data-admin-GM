@@ -1,0 +1,61 @@
+{
+  "id": 1209639549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.43333,13.28333,-14.43333,13.28333",
+    "geom:latitude":13.28333,
+    "geom:longitude":-14.43333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Suma Kunda",
+    "gn:country_code":"GM",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411873,
+    "gn:latitude":13.28333,
+    "gn:longitude":-14.43333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Suma Kunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411873
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"f143580206e749d917b32a9e49116d77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632603,
+            "locality_id":1209639549
+        }
+    ],
+    "wof:id":1209639549,
+    "wof:lastmodified":1536280927,
+    "wof:name":"Suma Kunda",
+    "wof:parent_id":85632603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.433329999999998,
+    13.28333,
+    -14.433329999999998,
+    13.28333
+],
+  "geometry": {"coordinates":[-14.43333,13.28333],"type":"Point"}
+}

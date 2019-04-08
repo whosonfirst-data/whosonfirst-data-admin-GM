@@ -1,0 +1,109 @@
+{
+  "id": 421174671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.54556,13.48278,-16.54556,13.48278",
+    "geom:latitude":13.48278,
+    "geom:longitude":-16.54556,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Barra"
+    ],
+    "name:dut_x_preferred":[
+        "Barra"
+    ],
+    "name:eng_x_preferred":[
+        "Barra"
+    ],
+    "name:fre_x_preferred":[
+        "Barra"
+    ],
+    "name:ger_x_preferred":[
+        "Barra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c3\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub77c"
+    ],
+    "name:pol_x_preferred":[
+        "Barra"
+    ],
+    "name:swe_x_preferred":[
+        "Barra"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413827,
+    "qs:gn_pop":5323,
+    "qs:name":"Barra",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"North Bank",
+    "qs:photos":212,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":212,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":894033,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321187,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":261,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413827,
+        "gp:id":1321187,
+        "qs:id":894033,
+        "wd:id":"Q450062",
+        "wk:page":"Barra, Gambia"
+    },
+    "wof:country":"GM",
+    "wof:created":1459009040,
+    "wof:geomhash":"87aa2878b5924f6616ba526bb9aeac6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422471,
+            "locality_id":421174671,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":421174671,
+    "wof:lastmodified":1553816364,
+    "wof:name":"Barra",
+    "wof:parent_id":890422471,
+    "wof:placetype":"locality",
+    "wof:population":5323,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.54556,
+    13.48278,
+    -16.54556,
+    13.48278
+],
+  "geometry": {"coordinates":[-16.54556,13.48278],"type":"Point"}
+}

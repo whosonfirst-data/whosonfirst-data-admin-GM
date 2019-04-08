@@ -1,0 +1,67 @@
+{
+  "id": 1242785409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.31667,13.56667,-15.31667,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":-15.31667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dankunku Fula",
+    "gn:country_code":"GM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413643,
+    "gn:latitude":13.56667,
+    "gn:longitude":-15.31667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Dankunku Fula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413643
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"9eb560977190642cb21abe6491677101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422629,
+            "locality_id":1242785409,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1242785409,
+    "wof:lastmodified":1536764633,
+    "wof:name":"Dankunku Fula",
+    "wof:parent_id":890422629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.31667,
+    13.56667,
+    -15.31667,
+    13.56667
+],
+  "geometry": {"coordinates":[-15.31667,13.56667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242870943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.3475,13.42833,-16.3475,13.42833",
+    "geom:latitude":13.42833,
+    "geom:longitude":-16.3475,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Medina Dudu",
+    "gn:country_code":"GM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412550,
+    "gn:latitude":13.42833,
+    "gn:longitude":-16.3475,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Medina Dudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412550
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"00e87b8a2d1d970bee26433d387b1de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413199,
+            "locality_id":1242870943,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1242870943,
+    "wof:lastmodified":1536640287,
+    "wof:name":"Medina Dudu",
+    "wof:parent_id":890413199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.3475,
+    13.42833,
+    -16.3475,
+    13.42833
+],
+  "geometry": {"coordinates":[-16.3475,13.42833],"type":"Point"}
+}

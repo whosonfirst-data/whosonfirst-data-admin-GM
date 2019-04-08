@@ -1,0 +1,67 @@
+{
+  "id": 1259506353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.63333,13.25,-16.63333,13.25",
+    "geom:latitude":13.25,
+    "geom:longitude":-16.63333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sare Jutah",
+    "gn:country_code":"GM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412079,
+    "gn:latitude":13.25,
+    "gn:longitude":-16.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sare Jutah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412079
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"583332278da58400b7e8a17621fdf610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413355,
+            "locality_id":1259506353,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1259506353,
+    "wof:lastmodified":1536825022,
+    "wof:name":"Sare Jutah",
+    "wof:parent_id":890413355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.63332999999999,
+    13.25,
+    -16.63332999999999,
+    13.25
+],
+  "geometry": {"coordinates":[-16.63332999999999,13.25],"type":"Point"}
+}

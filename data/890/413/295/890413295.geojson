@@ -1,0 +1,66 @@
+{
+  "id": 890413295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.52333,13.49278,-16.52333,13.49278",
+    "geom:latitude":13.49278,
+    "geom:longitude":-16.52333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":764,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Medina Kanuma",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412547,
+        "gp:id":1321385,
+        "qs:id":573925
+    },
+    "wof:country":"GM",
+    "wof:created":1469050995,
+    "wof:geomhash":"b93b1e87fb67e884ac8d47bec398ce4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422471,
+            "locality_id":890413295,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":890413295,
+    "wof:lastmodified":1505343413,
+    "wof:name":"Medina Kanuma",
+    "wof:parent_id":890422471,
+    "wof:placetype":"locality",
+    "wof:population":764,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.52333,
+    13.49278,
+    -16.52333,
+    13.49278
+],
+  "geometry": {"coordinates":[-16.52333,13.49278],"type":"Point"}
+}

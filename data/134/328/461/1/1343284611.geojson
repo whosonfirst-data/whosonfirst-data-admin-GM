@@ -1,0 +1,67 @@
+{
+  "id": 1343284611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.22278,13.25806,-16.22278,13.25806",
+    "geom:latitude":13.25806,
+    "geom:longitude":-16.22278,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Buram",
+    "gn:country_code":"GM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413707,
+    "gn:latitude":13.25806,
+    "gn:longitude":-16.22278,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Buram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        1108562619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413707
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"3040785dff5246257cce7cbfe63a6bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":1108562619,
+            "locality_id":1343284611,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1343284611,
+    "wof:lastmodified":1536999343,
+    "wof:name":"Buram",
+    "wof:parent_id":1108562619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.22278,
+    13.25806,
+    -16.22278,
+    13.25806
+],
+  "geometry": {"coordinates":[-16.22278,13.25806],"type":"Point"}
+}

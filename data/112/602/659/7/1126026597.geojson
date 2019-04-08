@@ -1,0 +1,97 @@
+{
+  "id": 1126026597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.83333,13.35,-15.83333,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":-15.83333,
+    "gn:gn_country":"GM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":825,
+    "gn:population":825,
+    "iso:country":"GM",
+    "lbl:latitude":13.35,
+    "lbl:longitude":-15.83333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u0443\u043c\u0431\u0443\u0442\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Dumbuto"
+    ],
+    "name:eng_x_preferred":[
+        "Dumbuto"
+    ],
+    "name:ger_x_preferred":[
+        "Dumbutu"
+    ],
+    "name:swe_x_preferred":[
+        "Dumbutu"
+    ],
+    "name:unk_x_variant":[
+        "Saniang Kunda"
+    ],
+    "qs_pg:aaroncc":"GM",
+    "qs_pg:gn_country":"GM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2413544,
+    "qs_pg:gn_pop":825,
+    "qs_pg:name":"Dumbutu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":574023,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890413365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413544,
+        "qs_pg:id":574023,
+        "wd:id":"Q1264947"
+    },
+    "wof:country":"GM",
+    "wof:created":1497301179,
+    "wof:geomhash":"0e4ea7f9c95d46c2534327b1d1d935cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413365,
+            "locality_id":1126026597,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":1126026597,
+    "wof:lastmodified":1514443854,
+    "wof:name":"Dumbutu",
+    "wof:parent_id":890413365,
+    "wof:placetype":"locality",
+    "wof:population":825,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.83333,
+    13.35,
+    -15.83333,
+    13.35
+],
+  "geometry": {"coordinates":[-15.83333,13.35],"type":"Point"}
+}

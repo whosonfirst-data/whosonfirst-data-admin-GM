@@ -1,0 +1,71 @@
+{
+  "id": 1259494865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.25,13.75,-15.25,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":-15.25,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jaggle",
+    "gn:country_code":"GM",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413379,
+    "gn:latitude":13.75,
+    "gn:longitude":-15.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jaggle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaggli",
+        "Jaggle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890413197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413379
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"8e1308ceb22ba24006d867e0d3cb5e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413197,
+            "locality_id":1259494865,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1259494865,
+    "wof:lastmodified":1537623894,
+    "wof:name":"Jaggle",
+    "wof:parent_id":890413197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.25,
+    13.75,
+    -15.25,
+    13.75
+],
+  "geometry": {"coordinates":[-15.25,13.75],"type":"Point"}
+}

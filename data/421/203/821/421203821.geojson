@@ -1,0 +1,79 @@
+{
+  "id": 421203821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.11667,13.75,-15.11667,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":-15.11667,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413812,
+    "qs:gn_pop":427,
+    "qs:name":"Bati Jaha",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Central River",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1297367,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321200,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413812,
+        "gp:id":1321200,
+        "qs:id":1297367
+    },
+    "wof:country":"GM",
+    "wof:created":1459010165,
+    "wof:geomhash":"c077b2365e1558a7503ec24644ef417a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422845,
+            "locality_id":421203821,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":421203821,
+    "wof:lastmodified":1505340785,
+    "wof:name":"Bati Jaha",
+    "wof:parent_id":890422845,
+    "wof:placetype":"locality",
+    "wof:population":427,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.11667,
+    13.75,
+    -15.11667,
+    13.75
+],
+  "geometry": {"coordinates":[-15.11667,13.75],"type":"Point"}
+}

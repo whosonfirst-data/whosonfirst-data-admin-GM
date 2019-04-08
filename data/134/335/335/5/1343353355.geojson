@@ -1,0 +1,72 @@
+{
+  "id": 1343353355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.50556,13.54417,-16.50556,13.54417",
+    "geom:latitude":13.54417,
+    "geom:longitude":-16.50556,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"MBangkama",
+    "gn:cc2":"GM",
+    "gn:country_code":"GM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412572,
+    "gn:latitude":13.54417,
+    "gn:longitude":-16.50556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"MBangkama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u2019Bengkama",
+        "MBangkama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412572
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"5427925dbd9a3009e7d0727d883b7bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422471,
+            "locality_id":1343353355,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1343353355,
+    "wof:lastmodified":1537623883,
+    "wof:name":"MBangkama",
+    "wof:parent_id":890422471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.50556,
+    13.54417,
+    -16.50556,
+    13.54417
+],
+  "geometry": {"coordinates":[-16.50556,13.54417],"type":"Point"}
+}

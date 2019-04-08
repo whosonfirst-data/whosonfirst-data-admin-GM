@@ -1,0 +1,85 @@
+{
+  "id": 890413441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.1,13.33333,-14.1,13.33333",
+    "geom:latitude":13.33333,
+    "geom:longitude":-14.1,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":600,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0434\u0430\u0440\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Badarri"
+    ],
+    "name:eng_x_preferred":[
+        "Badarri"
+    ],
+    "name:fre_x_preferred":[
+        "Badarri"
+    ],
+    "name:ger_x_preferred":[
+        "Badarri"
+    ],
+    "name:swe_x_preferred":[
+        "Badari"
+    ],
+    "qs:name":"Badari",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890429057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413956,
+        "gp:id":1321908,
+        "qs:id":574090,
+        "wd:id":"Q798822"
+    },
+    "wof:country":"GM",
+    "wof:created":1469051000,
+    "wof:geomhash":"89e065f09e7e4794563bc6153bf7714d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429057,
+            "locality_id":890413441,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":890413441,
+    "wof:lastmodified":1553816391,
+    "wof:name":"Badari",
+    "wof:parent_id":890429057,
+    "wof:placetype":"locality",
+    "wof:population":600,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.1,
+    13.33333,
+    -14.1,
+    13.33333
+],
+  "geometry": {"coordinates":[-14.1,13.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293304333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.96667,13.75,-14.96667,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":-14.96667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jalo Kunda Malick N'Yang",
+    "gn:country_code":"GM",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413331,
+    "gn:latitude":13.75,
+    "gn:longitude":-14.96667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Jalo Kunda Malick N\u2019Yang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413331
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"56961e6535abb6d03b45248bbf1643a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422847,
+            "locality_id":1293304333,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1293304333,
+    "wof:lastmodified":1537048955,
+    "wof:name":"Jalo Kunda Malick N'Yang",
+    "wof:parent_id":890422847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.96667,
+    13.75,
+    -14.96667,
+    13.75
+],
+  "geometry": {"coordinates":[-14.96667,13.75],"type":"Point"}
+}

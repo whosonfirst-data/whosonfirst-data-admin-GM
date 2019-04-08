@@ -1,0 +1,67 @@
+{
+  "id": 1344256127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.76306,13.35333,-16.76306,13.35333",
+    "geom:latitude":13.35333,
+    "geom:longitude":-16.76306,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Madiana",
+    "gn:country_code":"GM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412705,
+    "gn:latitude":13.35333,
+    "gn:longitude":-16.76306,
+    "gn:modification_date":"2000-09-22",
+    "gn:name":"Madiana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412705
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"9c8ff4f841a18ee9a39c2110c573133c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413347,
+            "locality_id":1344256127,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1344256127,
+    "wof:lastmodified":1537087284,
+    "wof:name":"Madiana",
+    "wof:parent_id":890413347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.76306,
+    13.35333,
+    -16.76306,
+    13.35333
+],
+  "geometry": {"coordinates":[-16.76306,13.35333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293806501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.34611,13.17806,-16.34611,13.17806",
+    "geom:latitude":13.17806,
+    "geom:longitude":-16.34611,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kaur",
+    "gn:country_code":"GM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413035,
+    "gn:latitude":13.17806,
+    "gn:longitude":-16.34611,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Kaur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890422707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413035
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"1947105f5b51b35fe9a6b7822da8f60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422707,
+            "locality_id":1293806501,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1293806501,
+    "wof:lastmodified":1536823390,
+    "wof:name":"Kaur",
+    "wof:parent_id":890422707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.34611,
+    13.17806,
+    -16.34611,
+    13.17806
+],
+  "geometry": {"coordinates":[-16.34611,13.17806],"type":"Point"}
+}

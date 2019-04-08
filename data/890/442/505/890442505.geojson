@@ -1,0 +1,66 @@
+{
+  "id": 890442505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.81667,13.53333,-14.81667,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":-14.81667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":301,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Nema",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412457,
+        "gp:id":28752604,
+        "qs:id":573915
+    },
+    "wof:country":"GM",
+    "wof:created":1469052365,
+    "wof:geomhash":"634a70cd2e2069dd9564088bf48f0d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":890442505,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890442505,
+    "wof:lastmodified":1505343588,
+    "wof:name":"Nema",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:population":301,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.81667,
+    13.53333,
+    -14.81667,
+    13.53333
+],
+  "geometry": {"coordinates":[-14.81667,13.53333],"type":"Point"}
+}

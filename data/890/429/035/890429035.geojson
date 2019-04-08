@@ -1,0 +1,82 @@
+{
+  "id": 890429035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.28333,13.55,-15.28333,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-15.28333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":573,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u043c\u0438\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Katamina"
+    ],
+    "name:eng_x_preferred":[
+        "Katamina"
+    ],
+    "name:ger_x_preferred":[
+        "Katamina"
+    ],
+    "name:swe_x_preferred":[
+        "Katamina"
+    ],
+    "qs:name":"Katamina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413042,
+        "gp:id":1322273,
+        "qs:id":91404,
+        "wd:id":"Q1239358"
+    },
+    "wof:country":"GM",
+    "wof:created":1469051789,
+    "wof:geomhash":"0b75d5cc1e8db11c5e9c7e52cda6121f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422629,
+            "locality_id":890429035,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890429035,
+    "wof:lastmodified":1514443858,
+    "wof:name":"Katamina",
+    "wof:parent_id":890422629,
+    "wof:placetype":"locality",
+    "wof:population":573,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.28333,
+    13.55,
+    -15.28333,
+    13.55
+],
+  "geometry": {"coordinates":[-15.28333,13.55],"type":"Point"}
+}

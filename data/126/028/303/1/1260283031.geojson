@@ -1,0 +1,68 @@
+{
+  "id": 1260283031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.75833,13.18167,-16.75833,13.18167",
+    "geom:latitude":13.18167,
+    "geom:longitude":-16.75833,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gunjur",
+    "gn:country_code":"GM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413420,
+    "gn:latitude":13.18167,
+    "gn:longitude":-16.75833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gunjur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413420,
+        "wk:page":"Gunjur"
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"21b6971833fc4dbf0e4089028ece6bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413347,
+            "locality_id":1260283031,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1260283031,
+    "wof:lastmodified":1537563070,
+    "wof:name":"Gunjur",
+    "wof:parent_id":890413347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.75832999999999,
+    13.18167,
+    -16.75832999999999,
+    13.18167
+],
+  "geometry": {"coordinates":[-16.75832999999999,13.18167],"type":"Point"}
+}

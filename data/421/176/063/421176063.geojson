@@ -1,0 +1,75 @@
+{
+  "id": 421176063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.652183,13.392756,-16.652183,13.392756",
+    "geom:latitude":13.392756,
+    "geom:longitude":-16.652183,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sinchu Alagi",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Western",
+    "qs:photos":307,
+    "qs:photos_1k":62,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":307,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1330404,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":28752625,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28752625,
+        "qs:id":1330404
+    },
+    "wof:country":"GM",
+    "wof:created":1459009088,
+    "wof:geomhash":"71b5ce7692a8b0f6eb54db2eee38f7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413349,
+            "locality_id":421176063,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":421176063,
+    "wof:lastmodified":1499978145,
+    "wof:name":"Sinchu Alagi",
+    "wof:parent_id":890413349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.652183,
+    13.392756,
+    -16.652183,
+    13.392756
+],
+  "geometry": {"coordinates":[-16.652183,13.392756],"type":"Point"}
+}

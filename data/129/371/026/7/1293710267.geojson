@@ -1,0 +1,81 @@
+{
+  "id": 1293710267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.08879,13.4898,-16.08879,13.4898",
+    "geom:latitude":13.4898,
+    "geom:longitude":-16.08879,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kerewan",
+    "gn:country_code":"GM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2412992,
+    "gn:latitude":13.4898,
+    "gn:longitude":-16.08879,
+    "gn:modification_date":"2011-02-02",
+    "gn:name":"Kerewan",
+    "gn:population":2751,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kerewan"
+    ],
+    "name:eng_x_preferred":[
+        "Kerewan"
+    ],
+    "name:und_x_variant":[
+        "Kerevane",
+        "Kerewan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412992,
+        "wk:page":"Kerewan"
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"adb5f7fd36aec4ccfcbc70fd6d9682c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422473,
+            "locality_id":1293710267,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1293710267,
+    "wof:lastmodified":1537623888,
+    "wof:name":"Kerewan",
+    "wof:parent_id":890422473,
+    "wof:placetype":"locality",
+    "wof:population":2751,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.08879,
+    13.4898,
+    -16.08879,
+    13.4898
+],
+  "geometry": {"coordinates":[-16.08879,13.4898],"type":"Point"}
+}

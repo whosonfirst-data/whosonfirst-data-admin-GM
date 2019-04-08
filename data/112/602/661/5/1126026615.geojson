@@ -1,0 +1,78 @@
+{
+  "id": 1126026615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.96667,13.55,-15.96667,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-15.96667,
+    "gn:gn_country":"GM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":535,
+    "gn:population":535,
+    "iso:country":"GM",
+    "lbl:latitude":13.55,
+    "lbl:longitude":-15.96667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GM",
+    "qs_pg:gn_country":"GM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2413560,
+    "qs_pg:gn_pop":535,
+    "qs_pg:name":"Dobo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":574026,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890429071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413560,
+        "qs_pg:id":574026
+    },
+    "wof:country":"GM",
+    "wof:created":1497301180,
+    "wof:geomhash":"02cbf7a1b800837ee23e538ae9a4e993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429071,
+            "locality_id":1126026615,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1126026615,
+    "wof:lastmodified":1509407584,
+    "wof:name":"Dobo",
+    "wof:parent_id":890429071,
+    "wof:placetype":"locality",
+    "wof:population":535,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.96667,
+    13.55,
+    -15.96667,
+    13.55
+],
+  "geometry": {"coordinates":[-15.96667,13.55],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209129871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.85,13.38333,-13.85,13.38333",
+    "geom:latitude":13.38333,
+    "geom:longitude":-13.85,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Karsi Kunda",
+    "gn:country_code":"GM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413062,
+    "gn:latitude":13.38333,
+    "gn:longitude":-13.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Karsi Kunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413062
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"35dd8813d9134a06606e51882f83094c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632603,
+            "locality_id":1209129871
+        }
+    ],
+    "wof:id":1209129871,
+    "wof:lastmodified":1536296838,
+    "wof:name":"Karsi Kunda",
+    "wof:parent_id":85632603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.85,
+    13.38333,
+    -13.85,
+    13.38333
+],
+  "geometry": {"coordinates":[-13.85,13.38333],"type":"Point"}
+}

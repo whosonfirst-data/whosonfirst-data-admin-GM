@@ -1,0 +1,67 @@
+{
+  "id": 1360309579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.3,13.38333,-14.3,13.38333",
+    "geom:latitude":13.38333,
+    "geom:longitude":-14.3,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sumakunda Samba",
+    "gn:country_code":"GM",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411868,
+    "gn:latitude":13.38333,
+    "gn:longitude":-14.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sumakunda Samba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890429021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411868
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"f4fc2a4dcda83e837b3e0c0e2412cd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429021,
+            "locality_id":1360309579,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":1360309579,
+    "wof:lastmodified":1536619661,
+    "wof:name":"Sumakunda Samba",
+    "wof:parent_id":890429021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.3,
+    13.38333,
+    -14.3,
+    13.38333
+],
+  "geometry": {"coordinates":[-14.3,13.38333],"type":"Point"}
+}

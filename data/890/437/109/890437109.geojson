@@ -1,0 +1,79 @@
+{
+  "id": 890437109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.56667,13.48333,-15.56667,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":-15.56667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":1254,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Jenoi"
+    ],
+    "name:eng_x_preferred":[
+        "Jenoi"
+    ],
+    "name:ger_x_preferred":[
+        "Jenoi"
+    ],
+    "name:unk_x_variant":[
+        "Ginoi"
+    ],
+    "qs:name":"Jenoi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890422673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413246,
+        "gp:id":1322239,
+        "qs:id":1035510,
+        "wd:id":"Q110618"
+    },
+    "wof:country":"GM",
+    "wof:created":1469052138,
+    "wof:geomhash":"b420c054bdc1c769444e16340d89896f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422673,
+            "locality_id":890437109,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":890437109,
+    "wof:lastmodified":1514443857,
+    "wof:name":"Jenoi",
+    "wof:parent_id":890422673,
+    "wof:placetype":"locality",
+    "wof:population":1254,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.56667,
+    13.48333,
+    -15.56667,
+    13.48333
+],
+  "geometry": {"coordinates":[-15.56667,13.48333],"type":"Point"}
+}

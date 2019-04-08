@@ -1,0 +1,79 @@
+{
+  "id": 890437053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.91667,13.55,-14.91667,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-14.91667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":1959,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Saruja"
+    ],
+    "name:eng_x_preferred":[
+        "Saruja"
+    ],
+    "name:ger_x_preferred":[
+        "Saruja"
+    ],
+    "name:swe_x_preferred":[
+        "Saruja"
+    ],
+    "qs:name":"Saruja",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411999,
+        "gp:id":28752608,
+        "qs:id":1035485,
+        "wd:id":"Q1455939"
+    },
+    "wof:country":"GM",
+    "wof:created":1469052136,
+    "wof:geomhash":"8c7e29d95d023e701aa25ff1ae49ad4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":890437053,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890437053,
+    "wof:lastmodified":1514443866,
+    "wof:name":"Saruja",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:population":1959,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.91667,
+    13.55,
+    -14.91667,
+    13.55
+],
+  "geometry": {"coordinates":[-14.91667,13.55],"type":"Point"}
+}

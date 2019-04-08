@@ -1,0 +1,117 @@
+{
+  "id": 421176873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.43389,13.35222,-16.43389,13.35222",
+    "geom:latitude":13.35222,
+    "geom:longitude":-16.43389,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Lamin"
+    ],
+    "name:deu_x_preferred":[
+        "Lamin"
+    ],
+    "name:fra_x_preferred":[
+        "Lamine"
+    ],
+    "name:glg_x_preferred":[
+        "Lamina"
+    ],
+    "name:hun_x_preferred":[
+        "Lamin"
+    ],
+    "name:ita_x_preferred":[
+        "Lamina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30df\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Laminas"
+    ],
+    "name:pol_x_preferred":[
+        "Laminy"
+    ],
+    "name:por_x_preferred":[
+        "Lamina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u0438\u043d\u044b"
+    ],
+    "name:zho_x_preferred":[
+        "\u6838\u7ea4\u5c42\u86cb\u767d"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2412749,
+    "qs:gn_pop":24797,
+    "qs:name":"Lamin",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"North Bank",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1089226,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321942,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":328,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412749,
+        "gp:id":1321942,
+        "qs:id":1089226,
+        "wd:id":"Q424506"
+    },
+    "wof:country":"GM",
+    "wof:created":1459009122,
+    "wof:geomhash":"84d293400b661319b754ec1bddb07cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413199,
+            "locality_id":421176873,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":421176873,
+    "wof:lastmodified":1527726470,
+    "wof:name":"Lamin",
+    "wof:parent_id":890413199,
+    "wof:placetype":"locality",
+    "wof:population":24797,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.43389,
+    13.35222,
+    -16.43389,
+    13.35222
+],
+  "geometry": {"coordinates":[-16.43389,13.35222],"type":"Point"}
+}

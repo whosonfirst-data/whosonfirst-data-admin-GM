@@ -1,0 +1,78 @@
+{
+  "id": 1125769983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.03333,13.53333,-15.03333,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":-15.03333,
+    "gn:gn_country":"GM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":204,
+    "gn:population":204,
+    "iso:country":"GM",
+    "lbl:latitude":13.53333,
+    "lbl:longitude":-15.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GM",
+    "qs_pg:gn_country":"GM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2412071,
+    "qs_pg:gn_pop":204,
+    "qs_pg:name":"Sare Louba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":573862,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412071,
+        "qs_pg:id":573862
+    },
+    "wof:country":"GM",
+    "wof:created":1497290027,
+    "wof:geomhash":"02cfa083a2f70e7748721fd6522b50b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":1125769983,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1125769983,
+    "wof:lastmodified":1509390914,
+    "wof:name":"Sare Louba",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:population":204,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.03333,
+    13.53333,
+    -15.03333,
+    13.53333
+],
+  "geometry": {"coordinates":[-15.03333,13.53333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343963041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.68528,13.40361,-16.68528,13.40361",
+    "geom:latitude":13.40361,
+    "geom:longitude":-16.68528,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sareh Mowndeh",
+    "gn:cc2":"GM",
+    "gn:country_code":"GM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412090,
+    "gn:latitude":13.40361,
+    "gn:longitude":-16.68528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sareh Mowndeh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sareh",
+        "Nemakunku",
+        "Mauwhunda Kunda",
+        "Sareh Mowndeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412090
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"dab588a1694e545c41b7b9298834609f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413349,
+            "locality_id":1343963041,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1343963041,
+    "wof:lastmodified":1537623875,
+    "wof:name":"Sareh Mowndeh",
+    "wof:parent_id":890413349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.68528,
+    13.40361,
+    -16.68528,
+    13.40361
+],
+  "geometry": {"coordinates":[-16.68528,13.40361],"type":"Point"}
+}

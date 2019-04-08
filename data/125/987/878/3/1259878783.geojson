@@ -1,0 +1,67 @@
+{
+  "id": 1259878783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.13611,13.16583,-16.13611,13.16583",
+    "geom:latitude":13.16583,
+    "geom:longitude":-16.13611,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tambakunda",
+    "gn:country_code":"GM",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411817,
+    "gn:latitude":13.16583,
+    "gn:longitude":-16.13611,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Tambakunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677033,
+        421203235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411817
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"65c62fba4131c827382db5d4915361c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421203235,
+            "locality_id":1259878783,
+            "region_id":85677033
+        }
+    ],
+    "wof:id":1259878783,
+    "wof:lastmodified":1536786469,
+    "wof:name":"Tambakunda",
+    "wof:parent_id":421203235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.13611,
+    13.16583,
+    -16.13611,
+    13.16583
+],
+  "geometry": {"coordinates":[-16.13611,13.16583],"type":"Point"}
+}

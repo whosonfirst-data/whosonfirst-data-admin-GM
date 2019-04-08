@@ -1,0 +1,72 @@
+{
+  "id": 1276552303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.61667,13.3,-16.61667,13.3",
+    "geom:latitude":13.3,
+    "geom:longitude":-16.61667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kaimbujae",
+    "gn:country_code":"GM",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413148,
+    "gn:latitude":13.3,
+    "gn:longitude":-16.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kaimbujae",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Old Kembuji",
+        "Kambuji",
+        "Kaimbujae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413148
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"191cd1e211b992da522f29d0b4ba0eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413355,
+            "locality_id":1276552303,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1276552303,
+    "wof:lastmodified":1537623891,
+    "wof:name":"Kaimbujae",
+    "wof:parent_id":890413355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.61667000000001,
+    13.3,
+    -16.61667000000001,
+    13.3
+],
+  "geometry": {"coordinates":[-16.61667000000001,13.3],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327156955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.95,13.25,-15.95,13.25",
+    "geom:latitude":13.25,
+    "geom:longitude":-15.95,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kayabor",
+    "gn:country_code":"GM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413032,
+    "gn:latitude":13.25,
+    "gn:longitude":-15.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kayabor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaiyabor",
+        "Kayabor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890422709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413032
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"173eec462be451d62be215a52baf5c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422709,
+            "locality_id":1327156955,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1327156955,
+    "wof:lastmodified":1537623889,
+    "wof:name":"Kayabor",
+    "wof:parent_id":890422709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.95,
+    13.25,
+    -15.95,
+    13.25
+],
+  "geometry": {"coordinates":[-15.95,13.25],"type":"Point"}
+}

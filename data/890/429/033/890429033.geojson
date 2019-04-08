@@ -1,0 +1,66 @@
+{
+  "id": 890429033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.85,13.56667,-15.85,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":-15.85,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":370,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kekuta Kunda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413026,
+        "gp:id":1322216,
+        "qs:id":91403
+    },
+    "wof:country":"GM",
+    "wof:created":1469051789,
+    "wof:geomhash":"24f618ecca4f8276a4c9953a1a81a0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413201,
+            "locality_id":890429033,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":890429033,
+    "wof:lastmodified":1505343509,
+    "wof:name":"Kekuta Kunda",
+    "wof:parent_id":890413201,
+    "wof:placetype":"locality",
+    "wof:population":370,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.85,
+    13.56667,
+    -15.85,
+    13.56667
+],
+  "geometry": {"coordinates":[-15.85,13.56667],"type":"Point"}
+}

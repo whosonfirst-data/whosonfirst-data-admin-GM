@@ -1,0 +1,67 @@
+{
+  "id": 1243270221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.41667,13.25,-14.41667,13.25",
+    "geom:latitude":13.25,
+    "geom:longitude":-14.41667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sare Maunde",
+    "gn:country_code":"GM",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412060,
+    "gn:latitude":13.25,
+    "gn:longitude":-14.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sare Maunde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412060
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"812b3f0ab2bb2346cfe0b2ccfba7f11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691473,
+            "locality_id":1243270221,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1243270221,
+    "wof:lastmodified":1537057018,
+    "wof:name":"Sare Maunde",
+    "wof:parent_id":1108691473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.41667,
+    13.25,
+    -14.41667,
+    13.25
+],
+  "geometry": {"coordinates":[-14.41667,13.25],"type":"Point"}
+}

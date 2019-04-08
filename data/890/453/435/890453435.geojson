@@ -1,0 +1,66 @@
+{
+  "id": 890453435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.65,13.4,-15.65,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":-15.65,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":76,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sare Babu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890413367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412129,
+        "gp:id":1321650,
+        "qs:id":573874
+    },
+    "wof:country":"GM",
+    "wof:created":1469052853,
+    "wof:geomhash":"009cfaf86b1daa7bed54e573dd663d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413367,
+            "locality_id":890453435,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":890453435,
+    "wof:lastmodified":1505343651,
+    "wof:name":"Sare Babu",
+    "wof:parent_id":890413367,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.65,
+    13.4,
+    -15.65,
+    13.4
+],
+  "geometry": {"coordinates":[-15.65,13.4],"type":"Point"}
+}

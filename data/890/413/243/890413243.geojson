@@ -1,0 +1,66 @@
+{
+  "id": 890413243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.9,13.7,-14.9,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-14.9,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":91,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sinchu Jenun Touray",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411934,
+        "gp:id":1483213,
+        "qs:id":573841
+    },
+    "wof:country":"GM",
+    "wof:created":1469050993,
+    "wof:geomhash":"db58287d5bddc855c8e8a1545a018c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422847,
+            "locality_id":890413243,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890413243,
+    "wof:lastmodified":1505343413,
+    "wof:name":"Sinchu Jenun Touray",
+    "wof:parent_id":890422847,
+    "wof:placetype":"locality",
+    "wof:population":91,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.9,
+    13.7,
+    -14.9,
+    13.7
+],
+  "geometry": {"coordinates":[-14.9,13.7],"type":"Point"}
+}

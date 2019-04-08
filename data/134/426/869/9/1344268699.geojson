@@ -1,0 +1,67 @@
+{
+  "id": 1344268699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.05,13.8,-15.05,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":-15.05,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Medina Mannen",
+    "gn:country_code":"GM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412545,
+    "gn:latitude":13.8,
+    "gn:longitude":-15.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Medina Mannen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890413197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412545
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"906ae801f11211445979d8aac45780f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413197,
+            "locality_id":1344268699,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1344268699,
+    "wof:lastmodified":1537069195,
+    "wof:name":"Medina Mannen",
+    "wof:parent_id":890413197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.05,
+    13.8,
+    -15.05,
+    13.8
+],
+  "geometry": {"coordinates":[-15.05,13.8],"type":"Point"}
+}

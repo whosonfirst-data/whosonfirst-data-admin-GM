@@ -1,0 +1,69 @@
+{
+  "id": 890413273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.88333,13.25,-15.88333,13.25",
+    "geom:latitude":13.25,
+    "geom:longitude":-15.88333,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":815,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Nema Kunku",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890422705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412452,
+        "gp:id":28752623,
+        "qs:id":573914,
+        "wd:id":"Q492534",
+        "wk:page":"Nema Kunku"
+    },
+    "wof:country":"GM",
+    "wof:created":1469050994,
+    "wof:geomhash":"2a22977ac25a73d71c7735c43c034dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422705,
+            "locality_id":890413273,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":890413273,
+    "wof:lastmodified":1527727169,
+    "wof:name":"Nema Kunku",
+    "wof:parent_id":890422705,
+    "wof:placetype":"locality",
+    "wof:population":815,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.88333,
+    13.25,
+    -15.88333,
+    13.25
+],
+  "geometry": {"coordinates":[-15.88333,13.25],"type":"Point"}
+}

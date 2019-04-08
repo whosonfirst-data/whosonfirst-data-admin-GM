@@ -1,0 +1,71 @@
+{
+  "id": 1276881981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.26667,13.4,-15.26667,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":-15.26667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Willingara Ba",
+    "gn:country_code":"GM",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411677,
+    "gn:latitude":13.4,
+    "gn:longitude":-15.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Willingara Ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Willingara",
+        "Willingara Ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890422675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411677
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"8b5ab8a08ed4a0410f5d06f97e6d5ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422675,
+            "locality_id":1276881981,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":1276881981,
+    "wof:lastmodified":1537623869,
+    "wof:name":"Willingara Ba",
+    "wof:parent_id":890422675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.26667,
+    13.4,
+    -15.26667,
+    13.4
+],
+  "geometry": {"coordinates":[-15.26667,13.4],"type":"Point"}
+}

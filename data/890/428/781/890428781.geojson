@@ -1,0 +1,66 @@
+{
+  "id": 890428781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.71667,13.5,-14.71667,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":-14.71667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":19,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Bukari Kunda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413730,
+        "gp:id":1322735,
+        "qs:id":574056
+    },
+    "wof:country":"GM",
+    "wof:created":1469051771,
+    "wof:geomhash":"fadca22c8842b105d09c12b16624a0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":890428781,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890428781,
+    "wof:lastmodified":1505343507,
+    "wof:name":"Bukari Kunda",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.71667,
+    13.5,
+    -14.71667,
+    13.5
+],
+  "geometry": {"coordinates":[-14.71667,13.5],"type":"Point"}
+}

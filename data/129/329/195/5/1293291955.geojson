@@ -1,0 +1,68 @@
+{
+  "id": 1293291955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.41583,13.17667,-16.41583,13.17667",
+    "geom:latitude":13.17667,
+    "geom:longitude":-16.41583,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bulok",
+    "gn:country_code":"GM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413724,
+    "gn:latitude":13.17667,
+    "gn:longitude":-16.41583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bulok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890422707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413724,
+        "wk:page":"Bulok%2C_Gambia"
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"2c4760bbd2f5ef2ab9870b34b175c61c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422707,
+            "locality_id":1293291955,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1293291955,
+    "wof:lastmodified":1537563071,
+    "wof:name":"Bulok",
+    "wof:parent_id":890422707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.41583,
+    13.17667,
+    -16.41583,
+    13.17667
+],
+  "geometry": {"coordinates":[-16.41583,13.17667],"type":"Point"}
+}

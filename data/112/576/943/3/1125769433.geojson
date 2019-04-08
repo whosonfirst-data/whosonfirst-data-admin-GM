@@ -1,0 +1,81 @@
+{
+  "id": 1125769433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.95,13.33333,-15.95,13.33333",
+    "geom:latitude":13.33333,
+    "geom:longitude":-15.95,
+    "gn:gn_country":"GM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":456,
+    "gn:population":456,
+    "iso:country":"GM",
+    "lbl:latitude":13.33333,
+    "lbl:longitude":-15.95,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kanton Kunda"
+    ],
+    "qs_pg:aaroncc":"GM",
+    "qs_pg:gn_country":"GM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2413089,
+    "qs_pg:gn_pop":456,
+    "qs_pg:name":"Kantong Kunda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":573972,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890413365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413089,
+        "qs_pg:id":573972
+    },
+    "wof:country":"GM",
+    "wof:created":1497290009,
+    "wof:geomhash":"1783e99b80579cf9e6babd4b95ef9d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413365,
+            "locality_id":1125769433,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":1125769433,
+    "wof:lastmodified":1509390887,
+    "wof:name":"Kantong Kunda",
+    "wof:parent_id":890413365,
+    "wof:placetype":"locality",
+    "wof:population":456,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.95,
+    13.33333,
+    -15.95,
+    13.33333
+],
+  "geometry": {"coordinates":[-15.95,13.33333],"type":"Point"}
+}

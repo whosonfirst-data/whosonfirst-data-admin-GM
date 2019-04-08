@@ -1,0 +1,66 @@
+{
+  "id": 890445379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.07028,13.55111,-16.07028,13.55111",
+    "geom:latitude":13.55111,
+    "geom:longitude":-16.07028,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":17,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Njie Kundaring",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412374,
+        "gp:id":28752617,
+        "qs:id":573901
+    },
+    "wof:country":"GM",
+    "wof:created":1469052507,
+    "wof:geomhash":"d58b08747b497e9b8ba91ed797244bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422473,
+            "locality_id":890445379,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":890445379,
+    "wof:lastmodified":1505343604,
+    "wof:name":"Njie Kundaring",
+    "wof:parent_id":890422473,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.07028,
+    13.55111,
+    -16.07028,
+    13.55111
+],
+  "geometry": {"coordinates":[-16.07028,13.55111],"type":"Point"}
+}

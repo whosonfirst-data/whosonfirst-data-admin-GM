@@ -1,0 +1,65 @@
+{
+  "id": 1209106787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.0,13.36667,-14.0,13.36667",
+    "geom:latitude":13.36667,
+    "geom:longitude":-14.0,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tuba Kuta",
+    "gn:country_code":"GM",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411742,
+    "gn:latitude":13.36667,
+    "gn:longitude":-14.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tuba Kuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuba Kata",
+        "Tuba Kuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411742
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"7c6995f06bd5bb23b707d5cd8dbebe21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632603,
+            "locality_id":1209106787
+        }
+    ],
+    "wof:id":1209106787,
+    "wof:lastmodified":1537623870,
+    "wof:name":"Tuba Kuta",
+    "wof:parent_id":85632603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.0,
+    13.36667,
+    -14.0,
+    13.36667
+],
+  "geometry": {"coordinates":[-14.0,13.36667],"type":"Point"}
+}

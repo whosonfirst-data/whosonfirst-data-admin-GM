@@ -1,0 +1,72 @@
+{
+  "id": 1209916067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.28333,13.75,-15.28333,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":-15.28333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mbulgurk",
+    "gn:country_code":"GM",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412560,
+    "gn:latitude":13.75,
+    "gn:longitude":-15.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbulgurk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulgurk",
+        "Bulghurk",
+        "Mbulgurk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890413197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412560
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"c43bf9feb6c57a8cfc92f97566c6946d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413197,
+            "locality_id":1209916067,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1209916067,
+    "wof:lastmodified":1537623883,
+    "wof:name":"Mbulgurk",
+    "wof:parent_id":890413197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.28333,
+    13.75,
+    -15.28333,
+    13.75
+],
+  "geometry": {"coordinates":[-15.28333,13.75],"type":"Point"}
+}

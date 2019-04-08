@@ -1,0 +1,109 @@
+{
+  "id": 421168163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.65583,13.40417,-16.65583,13.40417",
+    "geom:latitude":13.40417,
+    "geom:longitude":-16.65583,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0410\u0431\u0443\u043a\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Abuko"
+    ],
+    "name:dut_x_preferred":[
+        "Abuko"
+    ],
+    "name:eng_x_preferred":[
+        "Abuko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648\u06a9\u0648"
+    ],
+    "name:fre_x_preferred":[
+        "Abuko"
+    ],
+    "name:ger_x_preferred":[
+        "Abuko"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0628\u0648\u06a9\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Abuko"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413990,
+    "qs:gn_pop":6572,
+    "qs:name":"Abuko",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Western",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1035545,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321061,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671517,
+        1108562623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413990,
+        "gp:id":1321061,
+        "qs:id":1035545,
+        "wd:id":"Q335811",
+        "wk:page":"Abuko"
+    },
+    "wof:country":"GM",
+    "wof:created":1459008756,
+    "wof:geomhash":"76474337a803a781f124386173cd2507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":1108562623,
+            "locality_id":421168163,
+            "region_id":85671517
+        }
+    ],
+    "wof:id":421168163,
+    "wof:lastmodified":1527716096,
+    "wof:name":"Abuko",
+    "wof:parent_id":1108562623,
+    "wof:placetype":"locality",
+    "wof:population":6572,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.65583,
+    13.40417,
+    -16.65583,
+    13.40417
+],
+  "geometry": {"coordinates":[-16.65583,13.40417],"type":"Point"}
+}

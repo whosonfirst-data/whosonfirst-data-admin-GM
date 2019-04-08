@@ -1,0 +1,78 @@
+{
+  "id": 1125962633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.65,13.41667,-14.65,13.41667",
+    "geom:latitude":13.41667,
+    "geom:longitude":-14.65,
+    "gn:gn_country":"GM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1201,
+    "gn:population":1201,
+    "iso:country":"GM",
+    "lbl:latitude":13.41667,
+    "lbl:longitude":-14.65,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GM",
+    "qs_pg:gn_country":"GM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2413856,
+    "qs_pg:gn_pop":1201,
+    "qs_pg:name":"Bantanto",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1035542,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413856,
+        "qs_pg:id":1035542
+    },
+    "wof:country":"GM",
+    "wof:created":1497297859,
+    "wof:geomhash":"674f789e20f1d38834ecf3cd950dc9a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":1125962633,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1125962633,
+    "wof:lastmodified":1509403404,
+    "wof:name":"Bantanto",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:population":1201,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.65,
+    13.41667,
+    -14.65,
+    13.41667
+],
+  "geometry": {"coordinates":[-14.65,13.41667],"type":"Point"}
+}

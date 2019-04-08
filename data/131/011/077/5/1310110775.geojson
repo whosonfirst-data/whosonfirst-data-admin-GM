@@ -1,0 +1,72 @@
+{
+  "id": 1310110775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.70917,13.22583,-16.70917,13.22583",
+    "geom:latitude":13.22583,
+    "geom:longitude":-16.70917,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nyofelleh Madina",
+    "gn:cc2":"GM",
+    "gn:country_code":"GM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412336,
+    "gn:latitude":13.22583,
+    "gn:longitude":-16.70917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyofelleh Madina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyofellah Madina",
+        "Nyofelleh Madina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412336
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"492ef3ba0e8d83aa31e08188f3368b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413355,
+            "locality_id":1310110775,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1310110775,
+    "wof:lastmodified":1537623879,
+    "wof:name":"Nyofelleh Madina",
+    "wof:parent_id":890413355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.70917,
+    13.22583,
+    -16.70917,
+    13.22583
+],
+  "geometry": {"coordinates":[-16.70917,13.22583],"type":"Point"}
+}

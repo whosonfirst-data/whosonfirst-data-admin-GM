@@ -1,0 +1,69 @@
+{
+  "id": 890413431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.61667,13.48333,-15.61667,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":-15.61667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":252,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Balingo"
+    ],
+    "qs:name":"Balingho",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413907,
+        "gp:id":1322239,
+        "qs:id":574085
+    },
+    "wof:country":"GM",
+    "wof:created":1469051000,
+    "wof:geomhash":"0f9a85aa143f870f4455f70c91761ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413201,
+            "locality_id":890413431,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":890413431,
+    "wof:lastmodified":1505343414,
+    "wof:name":"Balingho",
+    "wof:parent_id":890413201,
+    "wof:placetype":"locality",
+    "wof:population":252,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.61667,
+    13.48333,
+    -15.61667,
+    13.48333
+],
+  "geometry": {"coordinates":[-15.61667,13.48333],"type":"Point"}
+}

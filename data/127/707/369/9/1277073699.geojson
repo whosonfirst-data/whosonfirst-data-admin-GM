@@ -1,0 +1,67 @@
+{
+  "id": 1277073699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.76167,13.09083,-16.76167,13.09083",
+    "geom:latitude":13.09083,
+    "geom:longitude":-16.76167,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Folonko",
+    "gn:country_code":"GM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413482,
+    "gn:latitude":13.09083,
+    "gn:longitude":-16.76167,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Folonko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        890413347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413482
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"41d79b75144554d2cbcd493f1e6e36f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413347,
+            "locality_id":1277073699,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1277073699,
+    "wof:lastmodified":1536781178,
+    "wof:name":"Folonko",
+    "wof:parent_id":890413347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.76167,
+    13.09083,
+    -16.76167,
+    13.09083
+],
+  "geometry": {"coordinates":[-16.76167,13.09083],"type":"Point"}
+}

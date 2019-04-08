@@ -1,0 +1,66 @@
+{
+  "id": 890429045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.0225,13.56306,-16.0225,13.56306",
+    "geom:latitude":13.56306,
+    "geom:longitude":-16.0225,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":249,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Hamdalai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413406,
+        "gp:id":28752617,
+        "qs:id":91409
+    },
+    "wof:country":"GM",
+    "wof:created":1469051790,
+    "wof:geomhash":"587634ea02316d656f4063398dd105b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422473,
+            "locality_id":890429045,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":890429045,
+    "wof:lastmodified":1505343509,
+    "wof:name":"Hamdalai",
+    "wof:parent_id":890422473,
+    "wof:placetype":"locality",
+    "wof:population":249,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.0225,
+    13.56306,
+    -16.0225,
+    13.56306
+],
+  "geometry": {"coordinates":[-16.0225,13.56306],"type":"Point"}
+}

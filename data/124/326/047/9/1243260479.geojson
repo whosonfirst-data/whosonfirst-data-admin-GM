@@ -1,0 +1,67 @@
+{
+  "id": 1243260479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.40583,13.51917,-16.40583,13.51917",
+    "geom:latitude":13.51917,
+    "geom:longitude":-16.40583,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ker M'Bouguma",
+    "gn:country_code":"GM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412945,
+    "gn:latitude":13.51917,
+    "gn:longitude":-16.40583,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Ker M\u2019Bouguma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890422471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412945
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"9b78f988e2ac22a39942445a36c1d36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422471,
+            "locality_id":1243260479,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1243260479,
+    "wof:lastmodified":1537070601,
+    "wof:name":"Ker M'Bouguma",
+    "wof:parent_id":890422471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.40583,
+    13.51917,
+    -16.40583,
+    13.51917
+],
+  "geometry": {"coordinates":[-16.40583,13.51917],"type":"Point"}
+}

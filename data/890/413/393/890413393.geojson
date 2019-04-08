@@ -1,0 +1,68 @@
+{
+  "id": 890413393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.25,13.55,-15.25,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-15.25,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":187,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Choya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413656,
+        "gp:id":1322273,
+        "qs:id":574043,
+        "wk:page":"Choya"
+    },
+    "wof:country":"GM",
+    "wof:created":1469050998,
+    "wof:geomhash":"f4acca17b688045bdea0c3e541e09b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422629,
+            "locality_id":890413393,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890413393,
+    "wof:lastmodified":1527727171,
+    "wof:name":"Choya",
+    "wof:parent_id":890422629,
+    "wof:placetype":"locality",
+    "wof:population":187,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.25,
+    13.55,
+    -15.25,
+    13.55
+],
+  "geometry": {"coordinates":[-15.25,13.55],"type":"Point"}
+}

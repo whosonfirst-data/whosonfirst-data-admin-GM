@@ -1,0 +1,66 @@
+{
+  "id": 890413285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.36667,13.4,-15.36667,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":-15.36667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":159,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Naneko",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890422679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412483,
+        "gp:id":1321277,
+        "qs:id":573920
+    },
+    "wof:country":"GM",
+    "wof:created":1469050994,
+    "wof:geomhash":"48de0e1820bf4e20d6254b351f1d9cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422679,
+            "locality_id":890413285,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":890413285,
+    "wof:lastmodified":1505343413,
+    "wof:name":"Naneko",
+    "wof:parent_id":890422679,
+    "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.36667,
+    13.4,
+    -15.36667,
+    13.4
+],
+  "geometry": {"coordinates":[-15.36667,13.4],"type":"Point"}
+}

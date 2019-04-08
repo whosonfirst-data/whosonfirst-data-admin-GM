@@ -1,0 +1,65 @@
+{
+  "id": 1209246635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.9,13.16667,-15.9,13.16667",
+    "geom:latitude":13.16667,
+    "geom:longitude":-15.9,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Saniang Kunda",
+    "gn:country_code":"GM",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412168,
+    "gn:latitude":13.16667,
+    "gn:longitude":-15.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saniang Kunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanya Kunda",
+        "Saniang Kunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412168
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"b420ead80490a4ca023517a58b3a55d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632603,
+            "locality_id":1209246635
+        }
+    ],
+    "wof:id":1209246635,
+    "wof:lastmodified":1537623876,
+    "wof:name":"Saniang Kunda",
+    "wof:parent_id":85632603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.9,
+    13.16667,
+    -15.9,
+    13.16667
+],
+  "geometry": {"coordinates":[-15.9,13.16667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326754371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.48333,13.46667,-14.48333,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":-14.48333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Alimaka",
+    "gn:country_code":"GM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413980,
+    "gn:latitude":13.46667,
+    "gn:longitude":-14.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alimaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keralima",
+        "Alimaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890429021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413980
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"1047a6c407e0037ee6f9a541ebf1e517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429021,
+            "locality_id":1326754371,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":1326754371,
+    "wof:lastmodified":1537623903,
+    "wof:name":"Alimaka",
+    "wof:parent_id":890429021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.48333,
+    13.46667,
+    -14.48333,
+    13.46667
+],
+  "geometry": {"coordinates":[-14.48333,13.46667],"type":"Point"}
+}

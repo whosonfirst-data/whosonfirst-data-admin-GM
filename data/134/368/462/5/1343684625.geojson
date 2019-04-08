@@ -1,0 +1,71 @@
+{
+  "id": 1343684625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.26667,13.26667,-16.26667,13.26667",
+    "geom:latitude":13.26667,
+    "geom:longitude":-16.26667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bulangor",
+    "gn:country_code":"GM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2413729,
+    "gn:latitude":13.26667,
+    "gn:longitude":-16.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bulangor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Bulanjor",
+        "Bulangor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671525,
+        1108562619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413729
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"209ccb65d462b9bfb1d846a4a7d4edfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":1108562619,
+            "locality_id":1343684625,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":1343684625,
+    "wof:lastmodified":1537623899,
+    "wof:name":"Bulangor",
+    "wof:parent_id":1108562619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.26667,
+    13.26667,
+    -16.26667,
+    13.26667
+],
+  "geometry": {"coordinates":[-16.26667,13.26667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890429011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.66667,13.45,-14.66667,13.45",
+    "geom:latitude":13.45,
+    "geom:longitude":-14.66667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":787,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Sololo"
+    ],
+    "qs:name":"Sulolor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890429055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411876,
+        "gp:id":1321158,
+        "qs:id":91387
+    },
+    "wof:country":"GM",
+    "wof:created":1469051787,
+    "wof:geomhash":"5ec89ce1d84f42061792e208eedde52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890429055,
+            "locality_id":890429011,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890429011,
+    "wof:lastmodified":1505343509,
+    "wof:name":"Sulolor",
+    "wof:parent_id":890429055,
+    "wof:placetype":"locality",
+    "wof:population":787,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.66667,
+    13.45,
+    -14.66667,
+    13.45
+],
+  "geometry": {"coordinates":[-14.66667,13.45],"type":"Point"}
+}

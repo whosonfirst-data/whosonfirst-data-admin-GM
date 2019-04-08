@@ -1,0 +1,72 @@
+{
+  "id": 1225947503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.17944,13.32667,-16.17944,13.32667",
+    "geom:latitude":13.32667,
+    "geom:longitude":-16.17944,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Burrong",
+    "gn:cc2":"GM",
+    "gn:country_code":"GM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2413701,
+    "gn:latitude":13.32667,
+    "gn:longitude":-16.17944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Burrong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birong",
+        "Burrong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890413365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413701
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"0ece756cfc3daac8c65df514a75e6850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413365,
+            "locality_id":1225947503,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":1225947503,
+    "wof:lastmodified":1537623899,
+    "wof:name":"Burrong",
+    "wof:parent_id":890413365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.17944,
+    13.32667,
+    -16.17944,
+    13.32667
+],
+  "geometry": {"coordinates":[-16.17944,13.32667],"type":"Point"}
+}

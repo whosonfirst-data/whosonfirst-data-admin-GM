@@ -1,0 +1,67 @@
+{
+  "id": 1210028119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.18333,13.58333,-15.18333,13.58333",
+    "geom:latitude":13.58333,
+    "geom:longitude":-15.18333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sare Pateh",
+    "gn:country_code":"GM",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412036,
+    "gn:latitude":13.58333,
+    "gn:longitude":-15.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sare Pateh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890422631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412036
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"8e0b6200fa37d9a6e8c9b384a6c68964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890422631,
+            "locality_id":1210028119,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":1210028119,
+    "wof:lastmodified":1536389816,
+    "wof:name":"Sare Pateh",
+    "wof:parent_id":890422631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.18333,
+    13.58333,
+    -15.18333,
+    13.58333
+],
+  "geometry": {"coordinates":[-15.18333,13.58333],"type":"Point"}
+}

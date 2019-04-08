@@ -1,0 +1,66 @@
+{
+  "id": 890422503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.26667,13.7,-15.26667,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-15.26667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":212,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Bangherr",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671507,
+        890413197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413885,
+        "gp:id":28752602,
+        "qs:id":574080
+    },
+    "wof:country":"GM",
+    "wof:created":1469051449,
+    "wof:geomhash":"3957322999f0429eb7a448df8b6ea929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413197,
+            "locality_id":890422503,
+            "region_id":85671507
+        }
+    ],
+    "wof:id":890422503,
+    "wof:lastmodified":1505343470,
+    "wof:name":"Bangherr",
+    "wof:parent_id":890413197,
+    "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.26667,
+    13.7,
+    -15.26667,
+    13.7
+],
+  "geometry": {"coordinates":[-15.26667,13.7],"type":"Point"}
+}

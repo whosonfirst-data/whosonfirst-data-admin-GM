@@ -1,0 +1,71 @@
+{
+  "id": 1360076899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.46528,13.36611,-16.46528,13.36611",
+    "geom:latitude":13.36611,
+    "geom:longitude":-16.46528,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tuba Kolong",
+    "gn:country_code":"GM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411747,
+    "gn:latitude":13.36611,
+    "gn:longitude":-16.46528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tuba Kolong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tubakolon",
+        "Tuba Kolong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671529,
+        890413199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411747
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"70c5c7ef6162057799e786c6943c5433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413199,
+            "locality_id":1360076899,
+            "region_id":85671529
+        }
+    ],
+    "wof:id":1360076899,
+    "wof:lastmodified":1537623870,
+    "wof:name":"Tuba Kolong",
+    "wof:parent_id":890413199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.46528,
+    13.36611,
+    -16.46528,
+    13.36611
+],
+  "geometry": {"coordinates":[-16.46528,13.36611],"type":"Point"}
+}

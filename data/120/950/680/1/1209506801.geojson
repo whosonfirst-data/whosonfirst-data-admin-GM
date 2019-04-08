@@ -1,0 +1,61 @@
+{
+  "id": 1209506801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.26667,13.49944,-16.26667,13.49944",
+    "geom:latitude":13.49944,
+    "geom:longitude":-16.26667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ker Ousman Buso",
+    "gn:country_code":"GM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2412927,
+    "gn:latitude":13.49944,
+    "gn:longitude":-16.26667,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Ker Ousman Buso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Banjul",
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2412927
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"8912bc48118a39d71d79fdedcd48fa6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632603,
+            "locality_id":1209506801
+        }
+    ],
+    "wof:id":1209506801,
+    "wof:lastmodified":1536285009,
+    "wof:name":"Ker Ousman Buso",
+    "wof:parent_id":85632603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.26667,
+    13.49944,
+    -16.26667,
+    13.49944
+],
+  "geometry": {"coordinates":[-16.26667,13.49944],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 421183477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.93333,13.5,-13.93333,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":-13.93333,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0438\u0444\u0443"
+    ],
+    "name:deu_x_preferred":[
+        "Brifu"
+    ],
+    "name:dut_x_preferred":[
+        "Brifu"
+    ],
+    "name:eng_x_preferred":[
+        "Brifu"
+    ],
+    "name:ger_x_preferred":[
+        "Brifu"
+    ],
+    "name:swe_x_preferred":[
+        "Brifu"
+    ],
+    "qs:gn_country":"GM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2413755,
+    "qs:gn_pop":1292,
+    "qs:name":"Brifu",
+    "qs:name_adm0":"The Gambia",
+    "qs:name_adm1":"Upper River",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1297365,
+    "qs:woe_adm0":23424821,
+    "qs:woe_id":1321240,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671511,
+        890413179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413755,
+        "gp:id":1321240,
+        "qs:id":1297365,
+        "wd:id":"Q915266",
+        "wk:page":"Brifu"
+    },
+    "wof:country":"GM",
+    "wof:created":1459009371,
+    "wof:geomhash":"20bc407c1e38fb9dc2b98b3fc9d78caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413179,
+            "locality_id":421183477,
+            "region_id":85671511
+        }
+    ],
+    "wof:id":421183477,
+    "wof:lastmodified":1527716489,
+    "wof:name":"Brifu",
+    "wof:parent_id":890413179,
+    "wof:placetype":"locality",
+    "wof:population":1292,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.93333,
+    13.5,
+    -13.93333,
+    13.5
+],
+  "geometry": {"coordinates":[-13.93333,13.5],"type":"Point"}
+}

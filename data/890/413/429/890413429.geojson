@@ -1,0 +1,69 @@
+{
+  "id": 890413429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.76667,13.4,-15.76667,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":-15.76667,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
+    "gn:pop":381,
+    "iso:country":"GM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Bambaka"
+    ],
+    "qs:name":"Bambako",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632603,
+        85671521,
+        890413369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2413898,
+        "gp:id":28752612,
+        "qs:id":574084
+    },
+    "wof:country":"GM",
+    "wof:created":1469051000,
+    "wof:geomhash":"a448ce376ea398c736ed0348ff8c75aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413369,
+            "locality_id":890413429,
+            "region_id":85671521
+        }
+    ],
+    "wof:id":890413429,
+    "wof:lastmodified":1505343414,
+    "wof:name":"Bambako",
+    "wof:parent_id":890413369,
+    "wof:placetype":"locality",
+    "wof:population":381,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.76667,
+    13.4,
+    -15.76667,
+    13.4
+],
+  "geometry": {"coordinates":[-15.76667,13.4],"type":"Point"}
+}
