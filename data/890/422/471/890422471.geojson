@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":46280,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Lower Niumi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.516107,
     "lbl:longitude":-16.428959,
     "meso:adm1_name":"North Bank",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890422471,
-    "wof:lastmodified":1536617375,
+    "wof:lastmodified":1553717596,
     "wof:name":"Lower Niumi",
     "wof:parent_id":85671529,
     "wof:placetype":"county",

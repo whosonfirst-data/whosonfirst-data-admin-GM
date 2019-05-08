@@ -10,6 +10,12 @@
     "geom:latitude":13.441602,
     "geom:longitude":-16.661014,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Kanifing Municipal Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipal council"
+    ],
     "lbl:latitude":13.434443,
     "lbl:longitude":-16.651952,
     "meso:adm1_name":"Banjul",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1108562623,
-    "wof:lastmodified":1536615191,
+    "wof:lastmodified":1553718138,
     "wof:name":"Kanifing",
     "wof:parent_id":85671517,
     "wof:placetype":"county",

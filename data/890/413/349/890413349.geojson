@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":187065,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Kombo N. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.372418,
     "lbl:longitude":-16.695337,
     "meso:adm1_name":"Western",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890413349,
-    "wof:lastmodified":1536617369,
+    "wof:lastmodified":1555092027,
     "wof:name":"Kombo North",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

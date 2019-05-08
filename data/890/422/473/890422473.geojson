@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":15260,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Lower Baddibu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.504567,
     "lbl:longitude":-16.047774,
     "meso:adm1_name":"North Bank",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":890422473,
-    "wof:lastmodified":1536617375,
+    "wof:lastmodified":1553717596,
     "wof:name":"Lower Baddibu",
     "wof:parent_id":85671529,
     "wof:placetype":"county",

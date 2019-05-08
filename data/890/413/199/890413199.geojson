@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":25542,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Upper Niumi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.399911,
     "lbl:longitude":-16.349428,
     "meso:adm1_name":"North Bank",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890413199,
-    "wof:lastmodified":1536617369,
+    "wof:lastmodified":1553717590,
     "wof:name":"Upper Niumi",
     "wof:parent_id":85671529,
     "wof:placetype":"county",

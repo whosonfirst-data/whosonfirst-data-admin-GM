@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":100835,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Fulladu E. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.308023,
     "lbl:longitude":-14.15851,
     "meso:adm1_name":"Upper River",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":890429057,
-    "wof:lastmodified":1536617379,
+    "wof:lastmodified":1555092027,
     "wof:name":"Fulladu East",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":73965,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Fulladu W. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.469825,
     "lbl:longitude":-14.773374,
     "meso:adm1_name":"Central River",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":890429055,
-    "wof:lastmodified":1536617379,
+    "wof:lastmodified":1555092027,
     "wof:name":"Fulladu West",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

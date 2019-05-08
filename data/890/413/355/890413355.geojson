@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":89828,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Kombo C. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.247352,
     "lbl:longitude":-16.636432,
     "meso:adm1_name":"Western",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":890413355,
-    "wof:lastmodified":1536617369,
+    "wof:lastmodified":1555092027,
     "wof:name":"Kombo Central",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

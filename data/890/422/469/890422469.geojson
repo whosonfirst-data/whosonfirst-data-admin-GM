@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":13274,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Lower Saloum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.699781,
     "lbl:longitude":-15.390984,
     "meso:adm1_name":"Central River",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":890422469,
-    "wof:lastmodified":1536617375,
+    "wof:lastmodified":1553717596,
     "wof:name":"Lower Saloum",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

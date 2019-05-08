@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":12655,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Jarra E. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.455346,
     "lbl:longitude":-15.259453,
     "meso:adm1_name":"Lower River",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":890422675,
-    "wof:lastmodified":1536617376,
+    "wof:lastmodified":1555092027,
     "wof:name":"Jarra East",
     "wof:parent_id":85671521,
     "wof:placetype":"county",

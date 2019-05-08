@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":18406,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Jokadu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.532757,
     "lbl:longitude":-16.177148,
     "meso:adm1_name":"North Bank",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":890422649,
-    "wof:lastmodified":1536617376,
+    "wof:lastmodified":1553717596,
     "wof:name":"Jokadu",
     "wof:parent_id":85671529,
     "wof:placetype":"county",

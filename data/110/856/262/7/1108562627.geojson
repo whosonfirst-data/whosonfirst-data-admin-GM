@@ -10,6 +10,12 @@
     "geom:latitude":13.614835,
     "geom:longitude":-15.325616,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Niamina Dankunku District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.619694,
     "lbl:longitude":-15.326391,
     "meso:adm1_name":"Central River",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108562627,
-    "wof:lastmodified":1536615191,
+    "wof:lastmodified":1553718137,
     "wof:name":"Niamina Dankunku",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

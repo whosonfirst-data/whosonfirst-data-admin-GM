@@ -10,6 +10,12 @@
     "geom:latitude":13.235747,
     "geom:longitude":-16.224069,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Foni Bintang-Karenai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.213341,
     "lbl:longitude":-16.23688,
     "meso:adm1_name":"Western",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108562619,
-    "wof:lastmodified":1536615190,
+    "wof:lastmodified":1553718138,
     "wof:name":"Foni Bintang-Karenai",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

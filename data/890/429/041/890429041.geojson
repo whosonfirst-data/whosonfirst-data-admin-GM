@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025447,
-    "geom:area_square_m":306084835.575066,
+    "geom:area_square_m":306084835.575079,
     "geom:bbox":"-14.0335336603,13.3156562733,-13.7920525767,13.5108476883",
     "geom:latitude":13.402694,
     "geom:longitude":-13.894657,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":31079,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Kantora District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.361378,
     "lbl:longitude":-13.902883,
     "meso:adm1_name":"Upper River",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890429041,
-    "wof:lastmodified":1553816394,
+    "wof:lastmodified":1555037033,
     "wof:name":"Kantora",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

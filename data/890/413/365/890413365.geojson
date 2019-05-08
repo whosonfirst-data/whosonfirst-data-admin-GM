@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":14842,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Kiang W. District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.353395,
     "lbl:longitude":-16.009011,
     "meso:adm1_name":"Lower River",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":890413365,
-    "wof:lastmodified":1536617369,
+    "wof:lastmodified":1555092027,
     "wof:name":"Kiang West",
     "wof:parent_id":85671521,
     "wof:placetype":"county",

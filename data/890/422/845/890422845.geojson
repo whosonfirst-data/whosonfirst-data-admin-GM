@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":8503,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Nianija District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.730634,
     "lbl:longitude":-15.122328,
     "meso:adm1_name":"Central River",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":890422845,
-    "wof:lastmodified":1536617376,
+    "wof:lastmodified":1553717597,
     "wof:name":"Nianija",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

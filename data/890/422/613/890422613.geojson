@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":19605,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Sami District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.595226,
     "lbl:longitude":-14.646504,
     "meso:adm1_name":"Central River",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890422613,
-    "wof:lastmodified":1536617376,
+    "wof:lastmodified":1553717596,
     "wof:name":"Sami",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":19025,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Sandu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.408338,
     "lbl:longitude":-14.348092,
     "meso:adm1_name":"Upper River",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890429021,
-    "wof:lastmodified":1536617379,
+    "wof:lastmodified":1553717599,
     "wof:name":"Sandu",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

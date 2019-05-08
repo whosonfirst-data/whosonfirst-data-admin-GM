@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051825,
-    "geom:area_square_m":623194959.767361,
+    "geom:area_square_m":623194959.767353,
     "geom:bbox":"-14.2824336603,13.3147713683,-13.8604810123,13.5809395369",
     "geom:latitude":13.471953,
     "geom:longitude":-14.072468,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":37033,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Wuli District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.506109,
     "lbl:longitude":-14.075626,
     "meso:adm1_name":"Upper River",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890413179,
-    "wof:lastmodified":1553816391,
+    "wof:lastmodified":1555037043,
     "wof:name":"Wuli",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":13.45072,
     "geom:longitude":-16.596561,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Banjul"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":13.451173,
     "lbl:longitude":-16.596967,
     "meso:adm1_name":"Banjul",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108562621,
-    "wof:lastmodified":1536615190,
+    "wof:lastmodified":1555092027,
     "wof:name":"Banjul",
     "wof:parent_id":85671517,
     "wof:placetype":"county",

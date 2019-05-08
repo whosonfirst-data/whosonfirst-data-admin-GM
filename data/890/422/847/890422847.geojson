@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03844,
-    "geom:area_square_m":461833336.182072,
+    "geom:area_square_m":461833336.18208,
     "geom:bbox":"-15.0394336603,13.5414998369,-14.7252807617,13.8028988094",
     "geom:latitude":13.680995,
     "geom:longitude":-14.879117,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":22789,
     "iso:country":"GM",
+    "label:eng_x_preferred_longname":[
+        "Niani District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.649381,
     "lbl:longitude":-14.839858,
     "meso:adm1_name":"Central River",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890422847,
-    "wof:lastmodified":1553816393,
+    "wof:lastmodified":1555037036,
     "wof:name":"Niani",
     "wof:parent_id":85671507,
     "wof:placetype":"county",
