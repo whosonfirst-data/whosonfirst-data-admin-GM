@@ -16,16 +16,10 @@
     "name:deu_x_preferred":[
         "Barra"
     ],
-    "name:dut_x_preferred":[
-        "Barra"
-    ],
     "name:eng_x_preferred":[
         "Barra"
     ],
-    "name:fre_x_preferred":[
-        "Barra"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Barra"
     ],
     "name:jpn_x_preferred":[
@@ -33,6 +27,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\ub77c"
+    ],
+    "name:nld_x_preferred":[
+        "Barra"
     ],
     "name:pol_x_preferred":[
         "Barra"
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":421174671,
-    "wof:lastmodified":1553816364,
+    "wof:lastmodified":1561841656,
     "wof:name":"Barra",
     "wof:parent_id":890422471,
     "wof:placetype":"locality",

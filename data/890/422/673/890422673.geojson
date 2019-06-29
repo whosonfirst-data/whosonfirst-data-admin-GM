@@ -33,22 +33,22 @@
     "mps:longitude":-15.541388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0587\u0574\u057f\u0575\u0561\u0576 \u054b\u0561\u0580\u0580\u0561"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jarra West"
     ],
     "name:eng_x_preferred":[
         "Jarra West"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jarra West"
     ],
-    "name:ger_x_preferred":[
-        "Jarra West"
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0587\u0574\u057f\u0575\u0561\u0576 \u054b\u0561\u0580\u0580\u0561"
     ],
     "name:ita_x_preferred":[
+        "Jarra West"
+    ],
+    "name:nld_x_preferred":[
         "Jarra West"
     ],
     "name:por_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":890422673,
-    "wof:lastmodified":1555092027,
+    "wof:lastmodified":1561841658,
     "wof:name":"Jarra West",
     "wof:parent_id":85671521,
     "wof:placetype":"county",

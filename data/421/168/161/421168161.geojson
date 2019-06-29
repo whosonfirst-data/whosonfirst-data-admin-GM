@@ -16,13 +16,10 @@
     "name:deu_x_preferred":[
         "Baro Kunda"
     ],
-    "name:dut_x_preferred":[
-        "Baro Kunda"
-    ],
     "name:eng_x_preferred":[
         "Baro Kunda"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Baro Kunda"
     ],
     "name:swe_x_preferred":[
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":421168161,
-    "wof:lastmodified":1527716090,
+    "wof:lastmodified":1561841656,
     "wof:name":"Baro Kunda",
     "wof:parent_id":890422675,
     "wof:placetype":"locality",

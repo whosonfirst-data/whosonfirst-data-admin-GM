@@ -23,16 +23,10 @@
     "name:cat_x_preferred":[
         "Brikama"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u91cc\u5361\u99ac"
-    ],
     "name:dan_x_preferred":[
         "Brikama"
     ],
     "name:deu_x_preferred":[
-        "Brikama"
-    ],
-    "name:dut_x_preferred":[
         "Brikama"
     ],
     "name:eng_x_preferred":[
@@ -42,15 +36,6 @@
         "Brikama"
     ],
     "name:fra_x_preferred":[
-        "Brikama"
-    ],
-    "name:fre_x_preferred":[
-        "Brikama"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d8\u10d9\u10d0\u10db\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Brikama"
     ],
     "name:glg_x_preferred":[
@@ -64,6 +49,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30ea\u30ab\u30de"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d8\u10d9\u10d0\u10db\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ube0c\ub9ac\uce74\ub9c8"
@@ -87,9 +75,6 @@
         "Brikama"
     ],
     "name:ron_x_preferred":[
-        "Brikama"
-    ],
-    "name:rum_x_preferred":[
         "Brikama"
     ],
     "name:rus_x_preferred":[
@@ -258,7 +243,7 @@
         }
     ],
     "wof:id":421195925,
-    "wof:lastmodified":1527716121,
+    "wof:lastmodified":1561841656,
     "wof:name":"Brikama",
     "wof:parent_id":890413355,
     "wof:placetype":"locality",

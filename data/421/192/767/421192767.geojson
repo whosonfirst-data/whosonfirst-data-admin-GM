@@ -16,28 +16,16 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u0440\u0430\u0444\u0435\u043d\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u62c9\u82ac\u5c3c"
-    ],
     "name:dan_x_preferred":[
         "Farafenni"
     ],
     "name:deu_x_preferred":[
         "Farafenni"
     ],
-    "name:dut_x_preferred":[
-        "Farafenni"
-    ],
     "name:eng_x_preferred":[
         "Farafenni"
     ],
     "name:fra_x_preferred":[
-        "Farafenni"
-    ],
-    "name:fre_x_preferred":[
-        "Farafenni"
-    ],
-    "name:ger_x_preferred":[
         "Farafenni"
     ],
     "name:heb_x_preferred":[
@@ -58,6 +46,9 @@
     "name:lit_x_preferred":[
         "Farafenis"
     ],
+    "name:nld_x_preferred":[
+        "Farafenni"
+    ],
     "name:nob_x_preferred":[
         "Farafenni"
     ],
@@ -68,9 +59,6 @@
         "Farafenni"
     ],
     "name:ron_x_preferred":[
-        "Farafenni"
-    ],
-    "name:rum_x_preferred":[
         "Farafenni"
     ],
     "name:swe_x_preferred":[
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":421192767,
-    "wof:lastmodified":1527716112,
+    "wof:lastmodified":1561841656,
     "wof:name":"Farafenni",
     "wof:parent_id":890413201,
     "wof:placetype":"locality",

@@ -16,17 +16,14 @@
     "name:deu_x_preferred":[
         "Bwiam"
     ],
-    "name:dut_x_preferred":[
-        "Bwiam"
-    ],
     "name:eng_x_preferred":[
-        "Bwiam"
-    ],
-    "name:ger_x_preferred":[
         "Bwiam"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05d5\u05d9\u05d0\u05dd"
+    ],
+    "name:nld_x_preferred":[
+        "Bwiam"
     ],
     "qs:gn_country":"GM",
     "qs:gn_fcode":"PPL",
@@ -75,7 +72,7 @@
         }
     ],
     "wof:id":421195171,
-    "wof:lastmodified":1527716126,
+    "wof:lastmodified":1561841656,
     "wof:name":"Bwiam",
     "wof:parent_id":890422703,
     "wof:placetype":"locality",

@@ -33,8 +33,8 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0438\u0444\u0438\u043d\u0433"
     ],
-    "name:dut_x_preferred":[
-        "Kanifing District"
+    "name:deu_x_preferred":[
+        "Kanifing"
     ],
     "name:eng_x_preferred":[
         "Kanifing"
@@ -44,13 +44,7 @@
         "Kanifing",
         "Kanifing District"
     ],
-    "name:fre_x_preferred":[
-        "Kanifing"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10dc\u10d8\u10e4\u10d8\u10dc\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kanifing"
     ],
     "name:ita_x_preferred":[
@@ -59,8 +53,14 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30cb\u30d5\u30a3\u30f3\u30b0"
     ],
-    "name:mac_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d8\u10e4\u10d8\u10dc\u10d2\u10d8"
+    ],
+    "name:mkd_x_preferred":[
         "\u041a\u0430\u043d\u0438\u0444\u0438\u043d\u0433"
+    ],
+    "name:nld_x_preferred":[
+        "Kanifing District"
     ],
     "name:por_x_preferred":[
         "Kanifing"
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1108562623,
-    "wof:lastmodified":1553718138,
+    "wof:lastmodified":1561841655,
     "wof:name":"Kanifing",
     "wof:parent_id":85671517,
     "wof:placetype":"county",

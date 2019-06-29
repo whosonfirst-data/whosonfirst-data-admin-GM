@@ -30,9 +30,6 @@
     "name:ara_x_preferred":[
         "\u0634\u0639\u0628\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0639\u0644\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u0580\u056b\u0576 \u0563\u0565\u057f"
-    ],
     "name:bel_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u0420\u0430\u043a\u0430"
     ],
@@ -45,14 +42,14 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e\u0440\u0435\u0447\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0a\u6cb3\u5340"
-    ],
     "name:dan_x_preferred":[
         "Upper River Division"
     ],
-    "name:dut_x_preferred":[
-        "Upper River"
+    "name:deu_x_preferred":[
+        "Upper River Region"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u03a0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2"
     ],
     "name:eng_x_preferred":[
         "Upper River"
@@ -63,23 +60,20 @@
     "name:fin_x_preferred":[
         "Upper River Division"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Division de Upper River"
-    ],
-    "name:ger_x_preferred":[
-        "Upper River Region"
     ],
     "name:glg_x_preferred":[
         "Upper River"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03bd\u03c9 \u03a0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aaa\u0ab0 \u0ab0\u0abf\u0ab5\u0ab0 \u0aa1\u0abf\u0ab5\u0abf\u0a9c\u0aa8"
     ],
     "name:hin_x_preferred":[
         "\u090a\u092a\u0930\u0940 \u0928\u0926\u0940 \u092e\u0902\u0921\u0932"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u0580\u056b\u0576 \u0563\u0565\u057f"
     ],
     "name:ind_x_preferred":[
         "Upper River Division"
@@ -102,14 +96,17 @@
     "name:lit_x_preferred":[
         "Auk\u0161tutin\u0117s Up\u0117s padalinys"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u043e\u0440\u043d\u0430 \u0420\u0435\u043a\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u092a\u094d\u092a\u0930 \u0930\u093f\u0935\u094d\u0939\u0930 \u0921\u093f\u0935\u094d\u0939\u093f\u091c\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430 \u0420\u0435\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Upper River Division"
+    ],
+    "name:nld_x_preferred":[
+        "Upper River"
     ],
     "name:nob_x_preferred":[
         "Upper River"
@@ -120,7 +117,7 @@
     "name:por_x_preferred":[
         "Upper River"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Diviziunea Upper River"
     ],
     "name:rus_x_preferred":[
@@ -164,6 +161,9 @@
     ],
     "name:vie_x_preferred":[
         "Ph\u00e2n v\u00f9ng Th\u01b0\u1ee3ng ngu\u1ed3n S\u00f4ng"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6cb3\u5340"
     ],
     "ne:abbrev":"URR",
     "ne:adm0_a3":"GMB",
@@ -288,7 +288,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550383,
+    "wof:lastmodified":1561841653,
     "wof:name":"Upper River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

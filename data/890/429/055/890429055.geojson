@@ -33,26 +33,23 @@
     "mps:longitude":-14.773374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8299\u62c9\u675c\u897f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fulladu West"
     ],
     "name:eng_x_preferred":[
         "Fulladu West"
     ],
-    "name:fre_x_preferred":[
-        "Fulladu West"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Fulladu West"
     ],
     "name:ita_x_preferred":[
         "Fulladu West"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0417\u0430\u043f\u0430\u0434\u0435\u043d \u0424\u0443\u043b\u0430\u0434\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Fulladu West"
     ],
     "name:por_x_preferred":[
         "Fulladu West"
@@ -65,6 +62,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u0424\u0443\u043b\u043b\u0430\u0434\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u8299\u62c9\u675c\u897f"
     ],
     "qs:name":"Fulladu West",
     "qs:photos_9r":0,
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":890429055,
-    "wof:lastmodified":1555092027,
+    "wof:lastmodified":1561841660,
     "wof:name":"Fulladu West",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

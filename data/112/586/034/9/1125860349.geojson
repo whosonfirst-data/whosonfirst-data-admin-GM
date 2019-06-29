@@ -22,16 +22,16 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0430\u043d\u0434\u0438"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sankandi"
     ],
     "name:eng_x_preferred":[
         "Sankandi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sankandi"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Sankandi"
     ],
     "name:swe_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1125860349,
-    "wof:lastmodified":1514443866,
+    "wof:lastmodified":1561841661,
     "wof:name":"Sankandi",
     "wof:parent_id":890413365,
     "wof:placetype":"locality",
