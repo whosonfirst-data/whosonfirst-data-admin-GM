@@ -19,23 +19,17 @@
     "name:deu_x_preferred":[
         "Abuko"
     ],
-    "name:dut_x_preferred":[
-        "Abuko"
-    ],
     "name:eng_x_preferred":[
         "Abuko"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0628\u0648\u06a9\u0648"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Abuko"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Abuko"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0628\u0648\u06a9\u0648"
     ],
     "name:swe_x_preferred":[
         "Abuko"
@@ -88,7 +82,7 @@
         }
     ],
     "wof:id":421168163,
-    "wof:lastmodified":1527716096,
+    "wof:lastmodified":1561841656,
     "wof:name":"Abuko",
     "wof:parent_id":1108562623,
     "wof:placetype":"locality",

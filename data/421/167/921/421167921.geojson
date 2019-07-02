@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007878,
-    "geom:area_square_m":94740062.034384,
+    "geom:area_square_m":94740062.034383,
     "geom:bbox":"-16.7259618487,13.3920898438,-16.5691989825,13.4886713683",
     "geom:latitude":13.443305,
     "geom:longitude":-16.650771,
@@ -20,25 +20,16 @@
     "name:afr_x_preferred":[
         "Banjul"
     ],
-    "name:alb_x_preferred":[
-        "Banjul"
-    ],
     "name:amh_x_preferred":[
         "\u1263\u1295\u1301\u120d"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u062c\u0648\u0644"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0576\u057b\u0578\u0582\u056c"
-    ],
     "name:ast_x_preferred":[
         "Banjul"
     ],
     "name:aze_x_preferred":[
-        "Banjul"
-    ],
-    "name:baq_x_preferred":[
         "Banjul"
     ],
     "name:bel_x_preferred":[
@@ -65,11 +56,11 @@
     "name:cdo_x_preferred":[
         "Banjul"
     ],
+    "name:ces_x_preferred":[
+        "Banjul"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0430\u043d\u0436\u0443\u043b"
-    ],
-    "name:chi_x_preferred":[
-        "\u73ed\u7af9"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u0627\u0646\u062c\u0648\u0644"
@@ -77,16 +68,13 @@
     "name:cor_x_preferred":[
         "Banjul"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Banjul"
     ],
     "name:dan_x_preferred":[
         "Banjul"
     ],
     "name:deu_x_preferred":[
-        "Banjul"
-    ],
-    "name:dut_x_preferred":[
         "Banjul"
     ],
     "name:ell_x_preferred":[
@@ -107,6 +95,9 @@
     "name:est_x_preferred":[
         "Banjul"
     ],
+    "name:eus_x_preferred":[
+        "Banjul"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0646\u062c\u0648\u0644"
     ],
@@ -114,9 +105,6 @@
         "Banjul"
     ],
     "name:fra_x_preferred":[
-        "Banjul"
-    ],
-    "name:fre_x_preferred":[
         "Banjul"
     ],
     "name:frr_x_preferred":[
@@ -128,12 +116,6 @@
     "name:ful_x_preferred":[
         "Bannjulu"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10ef\u10e3\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Banjul"
-    ],
     "name:gla_x_preferred":[
         "Banjul"
     ],
@@ -142,9 +124,6 @@
     ],
     "name:glg_x_preferred":[
         "Banjul"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bd\u03b6\u03bf\u03cd\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aa8\u0acd\u0a9c\u0ac1\u0ab2"
@@ -173,9 +152,6 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u0576\u057b\u0578\u0582\u056c"
     ],
-    "name:ice_x_preferred":[
-        "Banjul"
-    ],
     "name:ido_x_preferred":[
         "Banjul"
     ],
@@ -183,6 +159,9 @@
         "Banjul"
     ],
     "name:ind_x_preferred":[
+        "Banjul"
+    ],
+    "name:isl_x_preferred":[
         "Banjul"
     ],
     "name:ita_x_preferred":[
@@ -239,23 +218,20 @@
     "name:ltz_x_preferred":[
         "Banjul"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u043d\u045f\u0443\u043b"
-    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d1e\u0d4d\u0d1c\u0d41\u0d7e"
     ],
     "name:mar_x_preferred":[
         "\u092c\u0902\u091c\u0941\u0932"
     ],
-    "name:may_x_preferred":[
-        "Banjul"
-    ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u043d\u045f\u0443\u043b"
     ],
     "name:mrj_x_preferred":[
         "\u0411\u0430\u043d\u0436\u0443\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Banjul"
     ],
     "name:mzn_x_preferred":[
         "\u0628\u0627\u0646\u062c\u0648\u0644"
@@ -296,9 +272,6 @@
     "name:pan_x_preferred":[
         "\u0a2c\u0a70\u0a1c\u0a41\u0a32"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0646\u062c\u0648\u0644"
-    ],
     "name:pms_x_preferred":[
         "Banjul"
     ],
@@ -311,7 +284,7 @@
     "name:por_x_preferred":[
         "Banjul"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Banjul"
     ],
     "name:rup_x_preferred":[
@@ -329,9 +302,6 @@
     "name:slk_x_preferred":[
         "Banjul"
     ],
-    "name:slo_x_preferred":[
-        "Banjul"
-    ],
     "name:slv_x_preferred":[
         "Banjul"
     ],
@@ -342,6 +312,9 @@
         "Banjul"
     ],
     "name:spa_x_preferred":[
+        "Banjul"
+    ],
+    "name:sqi_x_preferred":[
         "Banjul"
     ],
     "name:srp_x_preferred":[
@@ -367,9 +340,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e31\u0e19\u0e08\u0e39\u0e25"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f56\u0f71\u0f53\u0f0b\u0f47\u0f71\u0f74\u0f0b\u0f63\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Banjul"
@@ -402,9 +372,6 @@
         "Banjul"
     ],
     "name:war_x_preferred":[
-        "Banjul"
-    ],
-    "name:wel_x_preferred":[
         "Banjul"
     ],
     "name:wol_x_preferred":[
@@ -562,7 +529,7 @@
     },
     "wof:country":"GM",
     "wof:created":1459008747,
-    "wof:geomhash":"f3811efaf6c2b24fb62001f0d342cffc",
+    "wof:geomhash":"5d8979350cd82ce250775a40fd61cbfb",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -570,7 +537,7 @@
         }
     ],
     "wof:id":421167921,
-    "wof:lastmodified":1552519481,
+    "wof:lastmodified":1561841656,
     "wof:name":"Banjul",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -584,7 +551,7 @@
   "bbox": [
     -16.72596184866321,
     13.39208984375,
-    -16.569198982460858,
+    -16.56919898246086,
     13.48867136831212
 ],
   "geometry": {"coordinates":[[[-16.61152543840129,13.42224374284207],[-16.61462402343749,13.40948486328129],[-16.62359619140624,13.40527343750002],[-16.62701416015623,13.40008544921874],[-16.6295166015625,13.40069580078127],[-16.63348388671871,13.40069580078127],[-16.63702392578123,13.40411376953126],[-16.64129638671871,13.40270996093754],[-16.64349365234371,13.40087890625002],[-16.644775390625,13.39428710937501],[-16.65051269531251,13.39208984375],[-16.65289306640626,13.39471435546871],[-16.66259765624999,13.40069580078127],[-16.67419433593746,13.40948486328129],[-16.69012451171871,13.42010498046873],[-16.69732666015626,13.42529296875002],[-16.70092773437499,13.42828369140621],[-16.70788574218748,13.43591308593746],[-16.71588134765621,13.44268798828121],[-16.72596184866321,13.45841599888862],[-16.70463366026737,13.47167136831214],[-16.6896336602674,13.48597136831218],[-16.68503366026738,13.4885713683121],[-16.67983366026736,13.48867136831212],[-16.67533366026736,13.48597136831218],[-16.67093366026737,13.47597136831212],[-16.66703366026735,13.4707713683121],[-16.66233366026741,13.46827136831211],[-16.6381336602674,13.47177136831215],[-16.62633366026743,13.47197136831218],[-16.58307499081572,13.46469890090416],[-16.56919898246086,13.45639655866011],[-16.57088024457096,13.44520928767859],[-16.57663366026742,13.43737136831214],[-16.58063366026735,13.43437136831216],[-16.5860336602674,13.43357136831214],[-16.5905336602674,13.43467136831212],[-16.59503366026741,13.4402713683121],[-16.60323366026741,13.43787136831212],[-16.6063336602674,13.4351713683121],[-16.60993366026737,13.43157136831213],[-16.61283366026741,13.42657136831214],[-16.61153366026741,13.42227136831216],[-16.61152543840129,13.42224374284207]]],"type":"Polygon"}

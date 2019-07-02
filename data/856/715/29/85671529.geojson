@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0634\u0639\u0628\u0629 \u0627\u0644\u0636\u0641\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0561\u0583"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b \u0411\u0435\u0440\u0430\u0433"
     ],
@@ -44,14 +41,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0431\u0440\u0435\u0436\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u5cb8\u5340"
-    ],
     "name:dan_x_preferred":[
         "North Bank Division"
     ],
-    "name:dut_x_preferred":[
-        "North Bank"
+    "name:deu_x_preferred":[
+        "North Bank Region"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u038c\u03c7\u03b8\u03b7"
     ],
     "name:eng_x_preferred":[
         "North Bank"
@@ -63,23 +60,20 @@
     "name:fin_x_preferred":[
         "North Bank Division"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Division de North Bank"
-    ],
-    "name:ger_x_preferred":[
-        "North Bank Region"
     ],
     "name:glg_x_preferred":[
         "North Bank"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u038c\u03c7\u03b8\u03b7"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa5 \u0aac\u0ac7\u0a82\u0a95 \u0aa1\u0abf\u0ab5\u0abf\u0a9d\u0aa8"
     ],
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u092c\u0948\u0902\u0915 \u0921\u093f\u0935\u0940\u091c\u0928"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0561\u0583"
     ],
     "name:ind_x_preferred":[
         "Divisi North Bank"
@@ -102,14 +96,17 @@
     "name:lit_x_preferred":[
         "\u0160iaurinio Kranto padalinys"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0411\u0440\u0435\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u092c\u0901\u0915 \u0921\u093f\u0935\u094d\u0939\u093f\u091c\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0411\u0440\u0435\u0433"
+    ],
+    "name:msa_x_preferred":[
         "North Bank Division"
+    ],
+    "name:nld_x_preferred":[
+        "North Bank"
     ],
     "name:nob_x_preferred":[
         "North Bank"
@@ -120,7 +117,7 @@
     "name:por_x_preferred":[
         "North Bank"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Diviziunea North Bank"
     ],
     "name:rus_x_preferred":[
@@ -161,6 +158,9 @@
     ],
     "name:vie_x_preferred":[
         "Ph\u00e2n v\u00f9ng North Bank"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u5cb8\u5340"
     ],
     "ne:abbrev":"NBR",
     "ne:adm0_a3":"GMB",
@@ -285,7 +285,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550384,
+    "wof:lastmodified":1561841653,
     "wof:name":"North Bank",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

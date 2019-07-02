@@ -116,9 +116,6 @@
     "name:cym_x_variant":[
         "Y Gambia"
     ],
-    "name:cze_x_preferred":[
-        "Gambie"
-    ],
     "name:dan_x_preferred":[
         "Gambia"
     ],
@@ -455,9 +452,6 @@
     "name:ron_x_preferred":[
         "Gambia"
     ],
-    "name:rum_x_preferred":[
-        "Gambia"
-    ],
     "name:run_x_preferred":[
         "Gambiya"
     ],
@@ -780,7 +774,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1544059152,
+    "wof:lastmodified":1561841653,
     "wof:name":"Gambia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

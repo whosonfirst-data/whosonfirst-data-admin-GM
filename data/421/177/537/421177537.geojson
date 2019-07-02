@@ -19,28 +19,16 @@
     "name:cat_x_preferred":[
         "Janjanbureh"
     ],
-    "name:chi_x_preferred":[
-        "\u8a79\u6c5f\u5e03\u723e"
-    ],
     "name:dan_x_preferred":[
         "Janjanbureh"
     ],
     "name:deu_x_preferred":[
         "Janjanbureh"
     ],
-    "name:dut_x_preferred":[
-        "Janjanbureh"
-    ],
     "name:eng_x_preferred":[
         "Janjanbureh"
     ],
     "name:fra_x_preferred":[
-        "Janjanbureh"
-    ],
-    "name:fre_x_preferred":[
-        "Janjanbureh"
-    ],
-    "name:ger_x_preferred":[
         "Janjanbureh"
     ],
     "name:glg_x_preferred":[
@@ -74,9 +62,6 @@
         "Janjanbureh"
     ],
     "name:ron_x_preferred":[
-        "Janjanbureh"
-    ],
-    "name:rum_x_preferred":[
         "Janjanbureh"
     ],
     "name:rus_x_preferred":[
@@ -142,7 +127,7 @@
         }
     ],
     "wof:id":421177537,
-    "wof:lastmodified":1527716482,
+    "wof:lastmodified":1561841657,
     "wof:name":"Janjanbureh",
     "wof:parent_id":890422613,
     "wof:placetype":"locality",

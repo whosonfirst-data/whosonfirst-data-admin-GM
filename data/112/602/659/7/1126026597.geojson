@@ -22,14 +22,14 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u043c\u0431\u0443\u0442\u0443"
     ],
-    "name:dut_x_preferred":[
-        "Dumbuto"
+    "name:deu_x_preferred":[
+        "Dumbutu"
     ],
     "name:eng_x_preferred":[
         "Dumbuto"
     ],
-    "name:ger_x_preferred":[
-        "Dumbutu"
+    "name:nld_x_preferred":[
+        "Dumbuto"
     ],
     "name:swe_x_preferred":[
         "Dumbutu"
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1126026597,
-    "wof:lastmodified":1514443854,
+    "wof:lastmodified":1561841661,
     "wof:name":"Dumbutu",
     "wof:parent_id":890413365,
     "wof:placetype":"locality",

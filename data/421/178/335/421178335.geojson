@@ -17,19 +17,10 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633 \u0633\u0627\u0646\u062a\u0627 \u0633\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u057d\u057d\u0565 \u054d\u0561\u0576\u057f\u0561 \u054d\u0578\u0582"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u585e\u8056\u8607"
-    ],
     "name:dan_x_preferred":[
         "Basse Santa Su"
     ],
     "name:deu_x_preferred":[
-        "Basse Santa Su"
-    ],
-    "name:dut_x_preferred":[
         "Basse Santa Su"
     ],
     "name:eng_x_preferred":[
@@ -38,10 +29,7 @@
     "name:fin_x_preferred":[
         "Basse Santa Su"
     ],
-    "name:fre_x_preferred":[
-        "Basse Santa Su"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Basse Santa Su"
     ],
     "name:glg_x_preferred":[
@@ -84,9 +72,6 @@
         "Basse Santa Su"
     ],
     "name:ron_x_preferred":[
-        "Basse Santa Su"
-    ],
-    "name:rum_x_preferred":[
         "Basse Santa Su"
     ],
     "name:rus_x_preferred":[
@@ -252,7 +237,7 @@
         }
     ],
     "wof:id":421178335,
-    "wof:lastmodified":1527717724,
+    "wof:lastmodified":1561841657,
     "wof:name":"Basse Santa Su",
     "wof:parent_id":890429057,
     "wof:placetype":"locality",

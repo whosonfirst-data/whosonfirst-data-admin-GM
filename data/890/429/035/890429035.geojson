@@ -18,13 +18,13 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043c\u0438\u043d\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Katamina"
     ],
     "name:eng_x_preferred":[
         "Katamina"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Katamina"
     ],
     "name:swe_x_preferred":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":890429035,
-    "wof:lastmodified":1514443858,
+    "wof:lastmodified":1561841660,
     "wof:name":"Katamina",
     "wof:parent_id":890422629,
     "wof:placetype":"locality",

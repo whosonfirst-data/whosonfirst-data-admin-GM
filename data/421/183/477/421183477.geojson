@@ -19,13 +19,10 @@
     "name:deu_x_preferred":[
         "Brifu"
     ],
-    "name:dut_x_preferred":[
-        "Brifu"
-    ],
     "name:eng_x_preferred":[
         "Brifu"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Brifu"
     ],
     "name:swe_x_preferred":[
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":421183477,
-    "wof:lastmodified":1527716489,
+    "wof:lastmodified":1561841657,
     "wof:name":"Brifu",
     "wof:parent_id":890413179,
     "wof:placetype":"locality",

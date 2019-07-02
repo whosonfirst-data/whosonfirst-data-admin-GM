@@ -20,22 +20,13 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0441\u0430\u043d\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u73ed\u6851"
-    ],
     "name:deu_x_preferred":[
-        "Bansang"
-    ],
-    "name:dut_x_preferred":[
         "Bansang"
     ],
     "name:eng_x_preferred":[
         "Bansang"
     ],
-    "name:fre_x_preferred":[
-        "Bansang"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bansang"
     ],
     "name:ita_x_preferred":[
@@ -54,9 +45,6 @@
         "Bansang"
     ],
     "name:ron_x_preferred":[
-        "Bansang"
-    ],
-    "name:rum_x_preferred":[
         "Bansang"
     ],
     "name:swe_x_preferred":[
@@ -213,7 +201,7 @@
         }
     ],
     "wof:id":421193209,
-    "wof:lastmodified":1527716149,
+    "wof:lastmodified":1561841656,
     "wof:name":"Bansang",
     "wof:parent_id":890422613,
     "wof:placetype":"locality",

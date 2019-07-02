@@ -19,20 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bakadaji"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03ba\u03b1\u03bd\u03c4\u03b1\u03c4\u03b6\u03af"
     ],
     "name:eng_x_preferred":[
         "Bakadaji"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bakadaji"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Bakadaji"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03ba\u03b1\u03bd\u03c4\u03b1\u03c4\u03b6\u03af"
     ],
     "name:unk_x_variant":[
         "Bakadaji"
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1125893109,
-    "wof:lastmodified":1514443844,
+    "wof:lastmodified":1561841661,
     "wof:name":"Bakadagy",
     "wof:parent_id":890429057,
     "wof:placetype":"locality",
