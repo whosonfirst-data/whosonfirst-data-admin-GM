@@ -33,6 +33,12 @@
     "mps:longitude":-16.636432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Kombo Central"
+    ],
+    "name:ceb_x_preferred":[
+        "Kombo Central District"
+    ],
     "name:deu_x_preferred":[
         "Kombo Central"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:fra_x_preferred":[
         "Kombo Central"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d1\u05e2 \u05e7\u05d5\u05de\u05d1\u05d5"
     ],
     "name:ita_x_preferred":[
         "Kombo Central"
@@ -53,6 +62,9 @@
     ],
     "name:por_x_preferred":[
         "Kombo Central"
+    ],
+    "name:swe_x_preferred":[
+        "Kombo Central District"
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u041a\u043e\u043c\u0431\u043e"
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":890413355,
-    "wof:lastmodified":1561841659,
+    "wof:lastmodified":1563253300,
     "wof:name":"Kombo Central",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

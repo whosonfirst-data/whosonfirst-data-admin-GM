@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Gunjur"
+    ],
     "name:deu_x_preferred":[
         "Gunjur"
     ],
@@ -29,6 +32,9 @@
         "Gunjur"
     ],
     "name:spa_x_preferred":[
+        "Gunjur"
+    ],
+    "name:swe_x_preferred":[
         "Gunjur"
     ],
     "qs:gn_country":"GM",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421167689,
-    "wof:lastmodified":1561841656,
+    "wof:lastmodified":1563253263,
     "wof:name":"Gunjur",
     "wof:parent_id":890413347,
     "wof:placetype":"locality",

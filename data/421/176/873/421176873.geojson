@@ -16,14 +16,26 @@
     "name:ces_x_preferred":[
         "Lamin"
     ],
+    "name:ces_x_variant":[
+        "lamin"
+    ],
     "name:deu_x_preferred":[
         "Lamin"
+    ],
+    "name:eng_x_preferred":[
+        "lamin"
     ],
     "name:fra_x_preferred":[
         "Lamine"
     ],
+    "name:fra_x_variant":[
+        "lamine"
+    ],
     "name:glg_x_preferred":[
         "Lamina"
+    ],
+    "name:hrv_x_preferred":[
+        "Lamin"
     ],
     "name:hun_x_preferred":[
         "Lamin"
@@ -31,11 +43,17 @@
     "name:ita_x_preferred":[
         "Lamina"
     ],
+    "name:ita_x_variant":[
+        "lamina"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30df\u30f3"
     ],
     "name:lit_x_preferred":[
         "Laminas"
+    ],
+    "name:nld_x_preferred":[
+        "Lamine"
     ],
     "name:pol_x_preferred":[
         "Laminy"
@@ -43,8 +61,14 @@
     "name:por_x_preferred":[
         "Lamina"
     ],
+    "name:por_x_variant":[
+        "lamina"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u043c\u0438\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "lamina"
     ],
     "name:zho_x_preferred":[
         "\u6838\u7ea4\u5c42\u86cb\u767d"
@@ -96,7 +120,7 @@
         }
     ],
     "wof:id":421176873,
-    "wof:lastmodified":1527726470,
+    "wof:lastmodified":1563253276,
     "wof:name":"Lamin",
     "wof:parent_id":890413199,
     "wof:placetype":"locality",

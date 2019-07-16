@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u0440\u0430\u0444\u0435\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Farafenni"
+    ],
     "name:dan_x_preferred":[
         "Farafenni"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421192767,
-    "wof:lastmodified":1561841656,
+    "wof:lastmodified":1563253261,
     "wof:name":"Farafenni",
     "wof:parent_id":890413201,
     "wof:placetype":"locality",

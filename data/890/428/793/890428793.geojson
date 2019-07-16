@@ -15,6 +15,9 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Boro Modi Bane"
+    ],
     "name:deu_x_preferred":[
         "Boro Modi Bane"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890428793,
-    "wof:lastmodified":1561841660,
+    "wof:lastmodified":1563253336,
     "wof:name":"Boro Modi Bane",
     "wof:parent_id":890413179,
     "wof:placetype":"locality",

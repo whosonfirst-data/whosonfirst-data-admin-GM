@@ -15,6 +15,9 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bambali"
+    ],
     "name:deu_x_preferred":[
         "Bambali"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890425745,
-    "wof:lastmodified":1561841658,
+    "wof:lastmodified":1563253297,
     "wof:name":"Bambali",
     "wof:parent_id":890413201,
     "wof:placetype":"locality",

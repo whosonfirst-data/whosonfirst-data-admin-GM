@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0639\u0628\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0639\u0644\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0633\u0645 \u0623\u0639\u0644\u0649 \u0627\u0644\u0646\u0647\u0631"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u0420\u0430\u043a\u0430"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e\u0440\u0435\u0447\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Upper River Division"
     ],
     "name:dan_x_preferred":[
         "Upper River Division"
@@ -57,11 +63,17 @@
     "name:eng_x_variant":[
         "Upper River Division"
     ],
+    "name:epo_x_preferred":[
+        "Regiono Supra Rivero"
+    ],
     "name:fin_x_preferred":[
         "Upper River Division"
     ],
     "name:fra_x_preferred":[
         "Division de Upper River"
+    ],
+    "name:fra_x_variant":[
+        "Upper River"
     ],
     "name:glg_x_preferred":[
         "Upper River"
@@ -288,7 +300,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561841653,
+    "wof:lastmodified":1563253115,
     "wof:name":"Upper River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

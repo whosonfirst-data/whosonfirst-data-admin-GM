@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mansa Konko"
+    ],
     "name:deu_x_preferred":[
         "Mansa Konko"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:zho_x_preferred":[
         "\u66fc\u85a9\u5b54\u79d1"
+    ],
+    "name:zho_x_variant":[
+        "Galoya"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"The Gambia",
@@ -211,7 +217,7 @@
         }
     ],
     "wof:id":421185597,
-    "wof:lastmodified":1561841657,
+    "wof:lastmodified":1563253277,
     "wof:name":"Mansa Konko",
     "wof:parent_id":890422673,
     "wof:placetype":"locality",

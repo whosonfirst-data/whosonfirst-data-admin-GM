@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0438\u0430\u0444"
     ],
+    "name:ceb_x_preferred":[
+        "Kaiaf"
+    ],
     "name:deu_x_preferred":[
         "Kaiaf"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421202641,
-    "wof:lastmodified":1561841656,
+    "wof:lastmodified":1563253267,
     "wof:name":"Kaiaf",
     "wof:parent_id":890413367,
     "wof:placetype":"locality",

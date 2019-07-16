@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kerewan"
+    ],
     "name:deu_x_preferred":[
         "Kerewan"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:zho_x_preferred":[
         "\u51f1\u96f7\u842c"
+    ],
+    "name:zho_x_variant":[
+        "\u96f2\u675c\u59c6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"The Gambia",
@@ -202,7 +208,7 @@
         }
     ],
     "wof:id":421177715,
-    "wof:lastmodified":1561841657,
+    "wof:lastmodified":1563253273,
     "wof:name":"Kerewan",
     "wof:parent_id":890422473,
     "wof:placetype":"locality",

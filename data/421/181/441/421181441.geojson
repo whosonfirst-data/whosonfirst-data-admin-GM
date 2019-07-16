@@ -16,7 +16,16 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0627\u0648"
     ],
+    "name:bre_x_preferred":[
+        "Bakau"
+    ],
+    "name:ceb_x_preferred":[
+        "Bakau"
+    ],
     "name:ces_x_preferred":[
+        "Bakau"
+    ],
+    "name:cos_x_preferred":[
         "Bakau"
     ],
     "name:dan_x_preferred":[
@@ -34,7 +43,13 @@
     "name:fra_x_preferred":[
         "Bakau"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e7\u05d0\u05d5"
+    ],
     "name:hun_x_preferred":[
+        "Bakau"
+    ],
+    "name:ind_x_preferred":[
         "Bakau"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +62,9 @@
         "\ubc14\uce74\uc6b0"
     ],
     "name:lit_x_preferred":[
+        "Bakau"
+    ],
+    "name:nds_x_preferred":[
         "Bakau"
     ],
     "name:nld_x_preferred":[
@@ -74,6 +92,9 @@
         "Bakau"
     ],
     "name:swe_x_preferred":[
+        "Bakau"
+    ],
+    "name:tah_x_preferred":[
         "Bakau"
     ],
     "name:zho_x_preferred":[
@@ -129,7 +150,7 @@
         }
     ],
     "wof:id":421181441,
-    "wof:lastmodified":1561841657,
+    "wof:lastmodified":1563253270,
     "wof:name":"Bakau",
     "wof:parent_id":1108562623,
     "wof:placetype":"locality",

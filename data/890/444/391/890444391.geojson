@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Wassu"
     ],
+    "name:ceb_x_preferred":[
+        "Wassu"
+    ],
     "name:deu_x_preferred":[
         "Wassu"
     ],
@@ -34,6 +37,9 @@
         "Wassu"
     ],
     "name:spa_x_preferred":[
+        "Wassu"
+    ],
+    "name:swe_x_preferred":[
         "Wassu"
     ],
     "qs:name":"Wassu",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890444391,
-    "wof:lastmodified":1561841660,
+    "wof:lastmodified":1563253338,
     "wof:name":"Wassu",
     "wof:parent_id":890422847,
     "wof:placetype":"locality",

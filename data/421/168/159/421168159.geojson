@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0442\u0435\u043b\u0438\u043d\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Batelling"
+    ],
     "name:deu_x_preferred":[
         "Batelling"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421168159,
-    "wof:lastmodified":1561841656,
+    "wof:lastmodified":1563253260,
     "wof:name":"Batelling",
     "wof:parent_id":890413365,
     "wof:placetype":"locality",
