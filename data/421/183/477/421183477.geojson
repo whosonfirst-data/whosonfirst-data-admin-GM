@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0438\u0444\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Brifu"
+    ],
     "name:deu_x_preferred":[
         "Brifu"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421183477,
-    "wof:lastmodified":1561841657,
+    "wof:lastmodified":1563253274,
     "wof:name":"Brifu",
     "wof:parent_id":890413179,
     "wof:placetype":"locality",

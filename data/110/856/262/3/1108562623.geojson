@@ -33,6 +33,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0438\u0444\u0438\u043d\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Kanifing"
+    ],
     "name:deu_x_preferred":[
         "Kanifing"
     ],
@@ -41,7 +44,6 @@
     ],
     "name:eng_x_variant":[
         "Kombo Saint Mary",
-        "Kanifing",
         "Kanifing District"
     ],
     "name:fra_x_preferred":[
@@ -62,6 +64,9 @@
     "name:nld_x_preferred":[
         "Kanifing District"
     ],
+    "name:nob_x_preferred":[
+        "Kanifing"
+    ],
     "name:por_x_preferred":[
         "Kanifing"
     ],
@@ -73,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0456\u0444\u0456\u043d\u0491"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d8\u10e4\u10d8\u10dc\u10d2\u10d8"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +118,7 @@
         }
     ],
     "wof:id":1108562623,
-    "wof:lastmodified":1561841655,
+    "wof:lastmodified":1563253225,
     "wof:name":"Kanifing",
     "wof:parent_id":85671517,
     "wof:placetype":"county",

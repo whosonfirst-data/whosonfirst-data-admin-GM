@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043d\u0442\u0430\u0443\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Kuntaur"
+    ],
     "name:deu_x_preferred":[
         "Kuntaur"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421185607,
-    "wof:lastmodified":1561841657,
+    "wof:lastmodified":1563253277,
     "wof:name":"Kuntaur",
     "wof:parent_id":890422847,
     "wof:placetype":"locality",

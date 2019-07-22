@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u043c\u0431\u0443\u0442\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Dumbutu"
+    ],
     "name:deu_x_preferred":[
         "Dumbutu"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126026597,
-    "wof:lastmodified":1561841661,
+    "wof:lastmodified":1563253353,
     "wof:name":"Dumbutu",
     "wof:parent_id":890413365,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0434\u0430\u0440\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Badari"
+    ],
     "name:deu_x_preferred":[
         "Badarri"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890413441,
-    "wof:lastmodified":1561841659,
+    "wof:lastmodified":1563253302,
     "wof:name":"Badari",
     "wof:parent_id":890429057,
     "wof:placetype":"locality",

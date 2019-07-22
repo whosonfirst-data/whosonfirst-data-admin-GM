@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0438\u0430\u0431\u0443\u0433\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Diabugu"
+    ],
     "name:deu_x_preferred":[
         "Diabugu"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890417867,
-    "wof:lastmodified":1561841660,
+    "wof:lastmodified":1563253338,
     "wof:name":"Diabugu",
     "wof:parent_id":890429021,
     "wof:placetype":"locality",

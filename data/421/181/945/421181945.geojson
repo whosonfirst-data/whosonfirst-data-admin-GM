@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0415\u0441\u0430\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Essau"
+    ],
     "name:deu_x_preferred":[
         "Essau"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421181945,
-    "wof:lastmodified":1561841657,
+    "wof:lastmodified":1563253270,
     "wof:name":"Essau",
     "wof:parent_id":890422471,
     "wof:placetype":"locality",

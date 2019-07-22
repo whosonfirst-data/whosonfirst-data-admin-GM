@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0633\u0645 \u0627\u0644\u0633\u0627\u062d\u0644 \u0627\u0644\u063a\u0631\u0628\u064a"
     ],
+    "name:bar_x_preferred":[
+        "West Coast Region"
+    ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u0445\u043e\u0434\u043d\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Western Division"
     ],
     "name:dan_x_preferred":[
         "West Coast Division"
@@ -53,11 +59,20 @@
     "name:eng_x_preferred":[
         "Western"
     ],
+    "name:eng_x_variant":[
+        "West Coast Division"
+    ],
+    "name:epo_x_preferred":[
+        "Regiono Okcidenta Marbordo"
+    ],
     "name:fin_x_preferred":[
         "West Coast Division"
     ],
     "name:fra_x_preferred":[
         "Division de West Coast"
+    ],
+    "name:fra_x_variant":[
+        "West Coast"
     ],
     "name:glg_x_preferred":[
         "Western"
@@ -281,7 +296,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561841653,
+    "wof:lastmodified":1563253121,
     "wof:name":"West Coast",
     "wof:parent_id":85632603,
     "wof:placetype":"region",
