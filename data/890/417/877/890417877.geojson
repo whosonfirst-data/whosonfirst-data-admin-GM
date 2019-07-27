@@ -15,6 +15,21 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Chilla"
+    ],
+    "name:deu_x_preferred":[
+        "Chilla"
+    ],
+    "name:ita_x_preferred":[
+        "Chilla"
+    ],
+    "name:pol_x_preferred":[
+        "Chilla"
+    ],
+    "name:swe_x_preferred":[
+        "Chilla"
+    ],
     "qs:name":"Chilla",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":890417877,
-    "wof:lastmodified":1527782124,
+    "wof:lastmodified":1564216408,
     "wof:name":"Chilla",
     "wof:parent_id":890422649,
     "wof:placetype":"locality",

@@ -15,8 +15,32 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sukuta"
+    ],
+    "name:deu_x_preferred":[
+        "Sukuta"
+    ],
+    "name:hun_x_preferred":[
+        "Sukuta"
+    ],
+    "name:ita_x_preferred":[
+        "Sukuta"
+    ],
+    "name:pol_x_preferred":[
+        "Sukuta"
+    ],
+    "name:ron_x_preferred":[
+        "Sukuta"
+    ],
+    "name:swe_x_preferred":[
+        "Sukuta"
+    ],
     "name:unk_x_variant":[
         "Sukutta"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u5eab\u5854"
     ],
     "qs:name":"Sukuta",
     "qs:photos_9r":0,
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":890436697,
-    "wof:lastmodified":1527735405,
+    "wof:lastmodified":1564216396,
     "wof:name":"Sukuta",
     "wof:parent_id":890422847,
     "wof:placetype":"locality",

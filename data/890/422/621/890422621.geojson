@@ -15,6 +15,9 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:vie_x_preferred":[
+        "Pakan"
+    ],
     "qs:name":"Pakan",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890422621,
-    "wof:lastmodified":1527727159,
+    "wof:lastmodified":1564216364,
     "wof:name":"Pakan",
     "wof:parent_id":890422631,
     "wof:placetype":"locality",

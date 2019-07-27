@@ -25,6 +25,15 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baro Kunda"
+    ],
+    "name:deu_x_preferred":[
+        "Baro Kunda"
+    ],
+    "name:swe_x_preferred":[
+        "Baro Kunda"
+    ],
     "name:und_x_variant":[
         "Barrakunda",
         "Baro Kunda"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1344262879,
-    "wof:lastmodified":1537623901,
+    "wof:lastmodified":1564216207,
     "wof:name":"Baro Kunda",
     "wof:parent_id":890413179,
     "wof:placetype":"locality",

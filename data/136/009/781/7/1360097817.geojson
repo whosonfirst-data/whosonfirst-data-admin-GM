@@ -25,6 +25,9 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Genieri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1360097817,
-    "wof:lastmodified":1537563070,
+    "wof:lastmodified":1564216344,
     "wof:name":"Genieri",
     "wof:parent_id":890413367,
     "wof:placetype":"locality",

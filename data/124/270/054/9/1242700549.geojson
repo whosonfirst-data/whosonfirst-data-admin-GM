@@ -26,6 +26,12 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Busumbala"
+    ],
+    "name:deu_x_preferred":[
+        "Busumbala"
+    ],
     "name:und_x_variant":[
         "Busumbata",
         "Busumbala"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1242700549,
-    "wof:lastmodified":1537623899,
+    "wof:lastmodified":1564216440,
     "wof:name":"Busumbala",
     "wof:parent_id":890413349,
     "wof:placetype":"locality",

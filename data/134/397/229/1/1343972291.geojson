@@ -25,6 +25,15 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fajara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0434\u0436\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u062c\u0627\u0631\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1343972291,
-    "wof:lastmodified":1537563070,
+    "wof:lastmodified":1564216190,
     "wof:name":"Fajara",
     "wof:parent_id":1108562623,
     "wof:placetype":"locality",

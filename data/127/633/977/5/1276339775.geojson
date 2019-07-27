@@ -26,9 +26,21 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kalagi"
+    ],
+    "name:ita_x_preferred":[
+        "Kalagi"
+    ],
+    "name:ron_x_preferred":[
+        "Kalagi"
+    ],
     "name:und_x_variant":[
         "Kalaja",
         "Kalaji"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u5409"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276339775,
-    "wof:lastmodified":1537623891,
+    "wof:lastmodified":1564216251,
     "wof:name":"Kalagi",
     "wof:parent_id":890422705,
     "wof:placetype":"locality",

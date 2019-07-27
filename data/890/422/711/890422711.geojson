@@ -15,6 +15,15 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Fass"
+    ],
+    "name:deu_x_preferred":[
+        "Fass"
+    ],
+    "name:pol_x_preferred":[
+        "Fass"
+    ],
     "name:unk_x_variant":[
         "Fas"
     ],
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":890422711,
-    "wof:lastmodified":1527727165,
+    "wof:lastmodified":1564216376,
     "wof:name":"Fass",
     "wof:parent_id":890413197,
     "wof:placetype":"locality",

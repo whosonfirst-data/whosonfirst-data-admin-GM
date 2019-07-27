@@ -25,6 +25,15 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jago"
+    ],
+    "name:fra_x_preferred":[
+        "Jago"
+    ],
+    "name:swe_x_preferred":[
+        "Jago"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343852567,
-    "wof:lastmodified":1536678034,
+    "wof:lastmodified":1564216195,
     "wof:name":"Jago",
     "wof:parent_id":890422649,
     "wof:placetype":"locality",
