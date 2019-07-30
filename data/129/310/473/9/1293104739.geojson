@@ -25,6 +25,9 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chamoi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1293104739,
-    "wof:lastmodified":1537563070,
+    "wof:lastmodified":1564216241,
     "wof:name":"Chamoi",
     "wof:parent_id":890429057,
     "wof:placetype":"locality",

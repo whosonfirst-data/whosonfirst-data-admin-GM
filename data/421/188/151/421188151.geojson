@@ -19,6 +19,9 @@
     "name:fas_x_preferred":[
         "\u0642\u0644\u0639\u0647 \u0628\u0648\u0631\u0646\u06af"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u0648\u0631\u0646\u06af"
+    ],
     "name:unk_x_variant":[
         "Buraing"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421188151,
-    "wof:lastmodified":1527716275,
+    "wof:lastmodified":1564216358,
     "wof:name":"Bureng",
     "wof:parent_id":890422675,
     "wof:placetype":"locality",

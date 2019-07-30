@@ -25,6 +25,15 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Killy"
+    ],
+    "name:fra_x_preferred":[
+        "Killy"
+    ],
+    "name:nds_x_preferred":[
+        "Killy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1309711439,
-    "wof:lastmodified":1537064317,
+    "wof:lastmodified":1564216353,
     "wof:name":"Killy",
     "wof:parent_id":1108562619,
     "wof:placetype":"locality",

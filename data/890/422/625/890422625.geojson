@@ -15,6 +15,15 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pakala"
+    ],
+    "name:ind_x_preferred":[
+        "Pakala"
+    ],
+    "name:swe_x_preferred":[
+        "Pakala"
+    ],
     "name:unk_x_variant":[
         "Ker Biran"
     ],
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":890422625,
-    "wof:lastmodified":1527727163,
+    "wof:lastmodified":1564216370,
     "wof:name":"Pakala",
     "wof:parent_id":890422631,
     "wof:placetype":"locality",

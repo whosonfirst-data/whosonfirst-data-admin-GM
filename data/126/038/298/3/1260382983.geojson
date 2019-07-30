@@ -25,6 +25,15 @@
     "iso:country":"GM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fass"
+    ],
+    "name:deu_x_preferred":[
+        "Fass"
+    ],
+    "name:pol_x_preferred":[
+        "Fass"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1260382983,
-    "wof:lastmodified":1537072615,
+    "wof:lastmodified":1564216308,
     "wof:name":"Fass",
     "wof:parent_id":890422471,
     "wof:placetype":"locality",
