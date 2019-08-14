@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MC"
+    ],
     "lbl:latitude":13.630826,
     "lbl:longitude":-14.932049,
     "meso:name_local":"Central River",
@@ -289,16 +292,13 @@
         }
     ],
     "wof:id":85671507,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563253120,
+    "wof:lastmodified":1565712760,
     "wof:name":"Central River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

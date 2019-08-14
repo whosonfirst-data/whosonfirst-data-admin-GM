@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "independent city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BJ"
+    ],
     "lbl:latitude":13.435076,
     "lbl:longitude":-16.648235,
     "meso:name_local":"Banjul",
@@ -539,16 +542,13 @@
         }
     ],
     "wof:id":85671517,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563253119,
+    "wof:lastmodified":1565712760,
     "wof:name":"Banjul",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

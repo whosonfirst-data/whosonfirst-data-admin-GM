@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NB"
+    ],
     "lbl:latitude":13.516653,
     "lbl:longitude":-16.02402,
     "meso:name_local":"North Bank",
@@ -288,16 +291,13 @@
         }
     ],
     "wof:id":85671529,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563253116,
+    "wof:lastmodified":1565712759,
     "wof:name":"North Bank",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

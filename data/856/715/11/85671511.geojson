@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UR"
+    ],
     "lbl:latitude":13.419332,
     "lbl:longitude":-14.093368,
     "meso:name_local":"Upper River",
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85671511,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563253115,
+    "wof:lastmodified":1565712759,
     "wof:name":"Upper River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

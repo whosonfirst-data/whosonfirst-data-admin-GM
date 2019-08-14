@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LR"
+    ],
     "lbl:latitude":13.349829,
     "lbl:longitude":-15.881852,
     "meso:name_local":"Lower River",
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85671521,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563253119,
+    "wof:lastmodified":1565712760,
     "wof:name":"Lower River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",
