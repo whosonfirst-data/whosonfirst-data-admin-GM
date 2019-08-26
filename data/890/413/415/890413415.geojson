@@ -11,11 +11,15 @@
     "geom:longitude":-15.78333,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":148,
+    "gn:population":148,
     "iso:country":"GM",
+    "lbl:bbox":"-15.80333,13.56333,-15.76333,13.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Biram Kunda"
     ],
     "qs:name":"Birong Kunda",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413778,
         "gp:id":1321314,
-        "qs:id":574065
+        "qs_pg:id":574065
     },
     "wof:country":"GM",
     "wof:created":1469050999,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413415,
-    "wof:lastmodified":1505343414,
+    "wof:lastmodified":1566639019,
     "wof:name":"Birong Kunda",
     "wof:parent_id":890413201,
     "wof:placetype":"locality",

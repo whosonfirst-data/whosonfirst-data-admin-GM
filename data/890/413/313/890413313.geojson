@@ -11,10 +11,14 @@
     "geom:longitude":-15.31667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":400,
+    "gn:population":400,
     "iso:country":"GM",
+    "lbl:bbox":"-15.33667,13.63,-15.29667,13.67",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Madina Njugari",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2412671,
         "gp:id":1321594,
-        "qs:id":573933
+        "qs_pg:id":573933
     },
     "wof:country":"GM",
     "wof:created":1469050995,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890413313,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566639024,
     "wof:name":"Madina Njugari",
     "wof:parent_id":1108562627,
     "wof:placetype":"locality",

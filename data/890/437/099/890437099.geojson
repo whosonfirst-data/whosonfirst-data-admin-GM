@@ -11,10 +11,14 @@
     "geom:longitude":-13.86667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":3870,
+    "gn:population":3870,
     "iso:country":"GM",
+    "lbl:bbox":"-13.88667,13.46333,-13.84667,13.50333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Koina",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2412868,
         "gp:id":1321240,
-        "qs:id":1035503
+        "qs_pg:id":1035503
     },
     "wof:country":"GM",
     "wof:created":1469052138,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890437099,
-    "wof:lastmodified":1505343557,
+    "wof:lastmodified":1566639032,
     "wof:name":"Koina",
     "wof:parent_id":890429041,
     "wof:placetype":"locality",

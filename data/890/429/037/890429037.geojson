@@ -11,11 +11,15 @@
     "geom:longitude":-14.81667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":147,
+    "gn:population":147,
     "iso:country":"GM",
+    "lbl:bbox":"-14.83667,13.66333,-14.79667,13.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kattaba"
     ],
     "qs:name":"Kataba Omar Ndow",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413047,
         "gp:id":1321919,
-        "qs:id":91405
+        "qs_pg:id":91405
     },
     "wof:country":"GM",
     "wof:created":1469051789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890429037,
-    "wof:lastmodified":1505343509,
+    "wof:lastmodified":1566639043,
     "wof:name":"Kataba Omar Ndow",
     "wof:parent_id":890422847,
     "wof:placetype":"locality",

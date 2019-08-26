@@ -11,10 +11,14 @@
     "geom:longitude":-14.01667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":27,
+    "gn:population":27,
     "iso:country":"GM",
+    "lbl:bbox":"-14.03667,13.29667,-13.99667,13.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Tenkoli",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2411780,
         "gp:id":1321898,
-        "qs:id":573824
+        "qs_pg:id":573824
     },
     "wof:country":"GM",
     "wof:created":1469050992,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890413215,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566639027,
     "wof:name":"Tenkoli",
     "wof:parent_id":890429057,
     "wof:placetype":"locality",

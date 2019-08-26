@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-15.47,13.41333,-15.43,13.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632603
@@ -34,7 +38,7 @@
         "gn:id":2413733
     },
     "wof:country":"GM",
-    "wof:geomhash":"f0523aa36916a0b463a25d20b0bbe94c",
+    "wof:geomhash":"743e9cf5d191e3966fb2861d6570cd5e",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209518349,
-    "wof:lastmodified":1536284659,
+    "wof:lastmodified":1566638946,
     "wof:name":"Buiba Musa Njadoh",
     "wof:parent_id":85632603,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -15.45,
-    13.433329999999998,
+    13.43333,
     -15.45,
-    13.433329999999998
+    13.43333
 ],
   "geometry": {"coordinates":[-15.45,13.43333],"type":"Point"}
 }

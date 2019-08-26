@@ -11,8 +11,11 @@
     "geom:longitude":-14.76667,
     "gn:country":"GM",
     "gn:fcode":"PPLA",
-    "gn:pop":3584,
+    "gn:population":3584,
     "iso:country":"GM",
+    "lbl:bbox":"-14.78667,13.51333,-14.74667,13.55333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -82,7 +85,7 @@
     "name:tur_x_preferred":[
         "Janjanbureh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Old Fort George"
     ],
     "name:urd_x_preferred":[
@@ -202,12 +205,12 @@
     "wof:concordances":{
         "gn:id":2413437,
         "gp:id":1321444,
-        "qs:id":1035511,
+        "qs_pg:id":1035511,
         "wd:id":"Q1002786",
         "wk:page":"Georgetown"
     },
     "wof:concordances_alt":{
-        "qs:id":1115570
+        "qs_pg:id":1115570
     },
     "wof:country":"GM",
     "wof:created":1469052467,
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":890444395,
-    "wof:lastmodified":1563253340,
+    "wof:lastmodified":1566639041,
     "wof:name":"Georgetown",
     "wof:parent_id":890422613,
     "wof:placetype":"locality",

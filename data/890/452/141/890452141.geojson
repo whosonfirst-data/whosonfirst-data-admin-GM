@@ -11,11 +11,15 @@
     "geom:longitude":-14.5,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":125,
+    "gn:population":125,
     "iso:country":"GM",
+    "lbl:bbox":"-14.52,13.29667,-14.48,13.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Busure"
     ],
     "qs:name":"Busura",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413694,
         "gp:id":1322465,
-        "qs:id":574051
+        "qs_pg:id":574051
     },
     "wof:country":"GM",
     "wof:created":1469052806,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890452141,
-    "wof:lastmodified":1505343643,
+    "wof:lastmodified":1566639033,
     "wof:name":"Busura",
     "wof:parent_id":890429057,
     "wof:placetype":"locality",

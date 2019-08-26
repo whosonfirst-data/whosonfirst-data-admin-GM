@@ -11,11 +11,15 @@
     "geom:longitude":-16.06722,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":592,
+    "gn:population":592,
     "iso:country":"GM",
+    "lbl:bbox":"-16.08722,13.48722,-16.04722,13.52722",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kinti Kunda"
     ],
     "qs:name":"Kinteh Kunda",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2412877,
         "gp:id":28752617,
-        "qs:id":573966
+        "qs_pg:id":573966
     },
     "wof:country":"GM",
     "wof:created":1469050997,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413363,
-    "wof:lastmodified":1505343414,
+    "wof:lastmodified":1566639018,
     "wof:name":"Kinteh Kunda",
     "wof:parent_id":890422473,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":13.43333,
     "geom:longitude":-14.65,
     "iso:country":"GM",
+    "lbl:bbox":"-14.67,13.41333,-14.63,13.45333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -59,7 +62,7 @@
     "name:tur_x_preferred":[
         "Bansang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barsangsang"
     ],
     "name:zho_x_preferred":[
@@ -190,7 +193,7 @@
     "wof:concordances":{
         "gn:id":2413866,
         "gp:id":1321158,
-        "qs:id":780231,
+        "qs_pg:id":780231,
         "wd:id":"Q806951",
         "wk:page":"Bansang"
     },
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":421193209,
-    "wof:lastmodified":1563253263,
+    "wof:lastmodified":1566638999,
     "wof:name":"Bansang",
     "wof:parent_id":890422613,
     "wof:placetype":"locality",

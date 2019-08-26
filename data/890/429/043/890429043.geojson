@@ -11,10 +11,14 @@
     "geom:longitude":-14.86667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":236,
+    "gn:population":236,
     "iso:country":"GM",
+    "lbl:bbox":"-14.88667,13.76333,-14.84667,13.80333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Hamdalie",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2413402,
         "gp:id":1414253,
-        "qs:id":91408
+        "qs_pg:id":91408
     },
     "wof:country":"GM",
     "wof:created":1469051789,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890429043,
-    "wof:lastmodified":1505343509,
+    "wof:lastmodified":1566639044,
     "wof:name":"Hamdalie",
     "wof:parent_id":890422847,
     "wof:placetype":"locality",

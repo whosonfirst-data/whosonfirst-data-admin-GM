@@ -10,10 +10,14 @@
     "geom:latitude":13.5,
     "geom:longitude":-14.01667,
     "iso:country":"GM",
+    "lbl:bbox":"-14.03667,13.48,-13.99667,13.52",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sutuko"
     ],
     "qs:gn_country":"GM",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2411863,
         "gp:id":1322592,
-        "qs:id":139997
+        "qs_pg:id":139997
     },
     "wof:country":"GM",
     "wof:created":1459008740,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421167687,
-    "wof:lastmodified":1505340587,
+    "wof:lastmodified":1566638999,
     "wof:name":"Sutukoba",
     "wof:parent_id":890413179,
     "wof:placetype":"locality",

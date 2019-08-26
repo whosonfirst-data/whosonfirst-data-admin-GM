@@ -11,11 +11,15 @@
     "geom:longitude":-15.4,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":1476,
+    "gn:population":1476,
     "iso:country":"GM",
+    "lbl:bbox":"-15.42,13.39667,-15.38,13.43667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Sitafuma"
     ],
     "qs:name":"Wellingara Ba",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2411692,
         "gp:id":1321277,
-        "qs:id":1035477
+        "qs_pg:id":1035477
     },
     "wof:country":"GM",
     "wof:created":1469052467,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890444389,
-    "wof:lastmodified":1505343599,
+    "wof:lastmodified":1566639042,
     "wof:name":"Wellingara Ba",
     "wof:parent_id":890422679,
     "wof:placetype":"locality",

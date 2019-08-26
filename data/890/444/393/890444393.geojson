@@ -11,11 +11,15 @@
     "geom:longitude":-15.58333,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":1755,
+    "gn:population":1755,
     "iso:country":"GM",
+    "lbl:bbox":"-15.60333,13.41333,-15.56333,13.45333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tonitaba"
     ],
     "qs:name":"Toniataba",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2411765,
         "gp:id":1322564,
-        "qs:id":1035479
+        "qs_pg:id":1035479
     },
     "wof:country":"GM",
     "wof:created":1469052467,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890444393,
-    "wof:lastmodified":1505343599,
+    "wof:lastmodified":1566639042,
     "wof:name":"Toniataba",
     "wof:parent_id":890422673,
     "wof:placetype":"locality",

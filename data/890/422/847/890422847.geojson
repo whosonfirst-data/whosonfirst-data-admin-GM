@@ -11,7 +11,7 @@
     "geom:longitude":-14.879117,
     "gn:country":"GM",
     "gn:fcode":"ADM2",
-    "gn:pop":22789,
+    "gn:population":22789,
     "iso:country":"GM",
     "label:eng_x_preferred_longname":[
         "Niani District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.649381,
     "lbl:longitude":-14.839858,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Central River",
     "meso:gadm_admin":"Niani",
     "meso:gadm_hasc2":"GM.MC.NI",
@@ -33,6 +35,7 @@
     "mps:longitude":-14.839858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041d\u0438\u0430\u043d\u0438"
     ],
@@ -75,9 +78,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-04-15",
+    "src:population_date":"2003-04-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-04-15",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2412421,
         "hasc:id":"GM.MC.NI",
-        "qs:id":573907,
+        "qs_pg:id":573907,
         "wd:id":"Q1572266",
         "wk:page":"Niani"
     },
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":890422847,
-    "wof:lastmodified":1561841658,
+    "wof:lastmodified":1566639012,
     "wof:name":"Niani",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

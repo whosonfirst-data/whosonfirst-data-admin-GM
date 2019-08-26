@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.213341,
     "lbl:longitude":-16.23688,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Western",
     "meso:gadm_admin":"Foni Bintang Karanai",
     "meso:gadm_hasc2":"GM.WE.FO",
@@ -30,6 +32,7 @@
     "mps:longitude":-16.23688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Foni Bintang-Karenai"
     ],
@@ -65,9 +68,9 @@
         "\u0424\u043e\u043d\u0456 \u0411\u0456\u043d\u0442\u0430\u043d\u0433-\u041a\u0430\u0440\u0435\u043d\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-04-15",
+    "src:population_date":"2003-04-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-04-15",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108562619,
-    "wof:lastmodified":1563253222,
+    "wof:lastmodified":1566638966,
     "wof:name":"Foni Bintang-Karenai",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

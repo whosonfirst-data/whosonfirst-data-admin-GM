@@ -11,10 +11,14 @@
     "geom:longitude":-15.25,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":589,
+    "gn:population":589,
     "iso:country":"GM",
+    "lbl:bbox":"-15.27,13.48,-15.23,13.52",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "Madinah"
     ],
@@ -369,7 +373,7 @@
     "wof:concordances":{
         "gn:id":2412692,
         "gp:id":1321183,
-        "qs:id":573939,
+        "qs_pg:id":573939,
         "wk:page":"Medina"
     },
     "wof:country":"GM",
@@ -385,7 +389,7 @@
         }
     ],
     "wof:id":890422467,
-    "wof:lastmodified":1564216373,
+    "wof:lastmodified":1566639014,
     "wof:name":"Madina",
     "wof:parent_id":890422675,
     "wof:placetype":"locality",

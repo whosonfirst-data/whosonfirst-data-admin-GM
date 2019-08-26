@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-14.45333,13.26333,-14.41333,13.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632603
@@ -34,7 +38,7 @@
         "gn:id":2411872
     },
     "wof:country":"GM",
-    "wof:geomhash":"f143580206e749d917b32a9e49116d77",
+    "wof:geomhash":"3ea11a44fe96f24fbea0e96faf65acff",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209314837,
-    "wof:lastmodified":1536290901,
+    "wof:lastmodified":1566638932,
     "wof:name":"Sumakunda Bakary",
     "wof:parent_id":85632603,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.433329999999998,
+    -14.43333,
     13.28333,
-    -14.433329999999998,
+    -14.43333,
     13.28333
 ],
   "geometry": {"coordinates":[-14.43333,13.28333],"type":"Point"}

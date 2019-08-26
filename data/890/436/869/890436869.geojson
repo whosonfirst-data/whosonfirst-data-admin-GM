@@ -11,10 +11,14 @@
     "geom:longitude":-16.30556,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":2541,
+    "gn:population":2541,
     "iso:country":"GM",
+    "lbl:bbox":"-16.32556,13.18583,-16.28556,13.22583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Somita",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2411903,
         "gp:id":1321214,
-        "qs:id":1035483
+        "qs_pg:id":1035483
     },
     "wof:country":"GM",
     "wof:created":1469052130,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890436869,
-    "wof:lastmodified":1505343556,
+    "wof:lastmodified":1566639034,
     "wof:name":"Somita",
     "wof:parent_id":890422707,
     "wof:placetype":"locality",

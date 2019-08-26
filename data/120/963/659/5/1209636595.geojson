@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-16.415,13.51528,-16.375,13.55528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632603
@@ -34,7 +38,7 @@
         "gn:id":2413620
     },
     "wof:country":"GM",
-    "wof:geomhash":"deefa0cbb7f1ca9712fb503bfc8401b0",
+    "wof:geomhash":"24d183ec2c5c06bd2077c7768c5ffe05",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209636595,
-    "wof:lastmodified":1536281024,
+    "wof:lastmodified":1566638936,
     "wof:name":"Darusalam",
     "wof:parent_id":85632603,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -16.395,
-    13.535279999999998,
+    13.53528,
     -16.395,
-    13.535279999999998
+    13.53528
 ],
   "geometry": {"coordinates":[-16.395,13.53528],"type":"Point"}
 }

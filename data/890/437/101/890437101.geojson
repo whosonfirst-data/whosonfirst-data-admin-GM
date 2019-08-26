@@ -11,11 +11,15 @@
     "geom:longitude":-16.015,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":1775,
+    "gn:population":1775,
     "iso:country":"GM",
+    "lbl:bbox":"-16.035,13.30889,-15.995,13.34889",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kenniba"
     ],
     "qs:name":"Keneba",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413023,
         "gp:id":1483060,
-        "qs:id":1035504
+        "qs_pg:id":1035504
     },
     "wof:country":"GM",
     "wof:created":1469052138,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890437101,
-    "wof:lastmodified":1505343557,
+    "wof:lastmodified":1566639033,
     "wof:name":"Keneba",
     "wof:parent_id":890413365,
     "wof:placetype":"locality",

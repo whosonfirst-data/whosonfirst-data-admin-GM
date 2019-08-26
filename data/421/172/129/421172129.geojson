@@ -10,10 +10,14 @@
     "geom:latitude":13.58333,
     "geom:longitude":-14.65,
     "iso:country":"GM",
+    "lbl:bbox":"-14.67,13.56333,-14.63,13.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Demba Kale"
     ],
     "qs:gn_country":"GM",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2413600,
         "gp:id":1321345,
-        "qs:id":1297372
+        "qs_pg:id":1297372
     },
     "wof:country":"GM",
     "wof:created":1459008921,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421172129,
-    "wof:lastmodified":1505340609,
+    "wof:lastmodified":1566639002,
     "wof:name":"Demba Kali",
     "wof:parent_id":890422613,
     "wof:placetype":"locality",

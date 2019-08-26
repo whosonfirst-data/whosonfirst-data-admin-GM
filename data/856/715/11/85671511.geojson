@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.419332,
     "lbl:longitude":-14.093368,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Upper River",
     "meso:source":"meso",
     "mps:latitude":13.40663,
@@ -154,7 +155,7 @@
         "Upper River Division"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0bb0\u0bbf\u0bb5\u0bc7\u0bb0\u0bcd  \u0b9f\u0bbf\u0bb5\u0bbf\u0b9a\u0ba9\u0bcd"
+        "\u0b85\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0bb0\u0bbf\u0bb5\u0bc7\u0bb0\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf\u0b9a\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c2a\u0c4d\u0c2a\u0c30\u0c4d \u0c30\u0c3f\u0c35\u0c30\u0c4d \u0c21\u0c3f\u0c35\u0c3f\u0c1c\u0c28\u0c4d"
@@ -167,9 +168,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u044f \u0420\u0456\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Upper River Division"
     ],
     "name:urd_x_preferred":[
         "\u0627\u067e\u0631 \u0631\u06cc\u0648\u0631 \u0688\u0648\u06cc\u0698\u0646"
@@ -252,9 +250,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-04-15",
+    "src:population_date":"2003-04-15",
     "statoids:area_km":"2,070",
     "statoids:area_mi":"799",
     "statoids:as_of_date":"2003-04-15",
@@ -279,7 +277,7 @@
         "gp:id":2345446,
         "hasc:id":"GM.UR",
         "iso:id":"GM-U",
-        "qs:id":496856,
+        "qs_pg:id":496856,
         "unlc:id":"GM-U",
         "wd:id":"Q824373",
         "wk:page":"Upper River Division"
@@ -300,11 +298,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565712759,
+    "wof:lastmodified":1566638890,
     "wof:name":"Upper River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":183033,
     "wof:population_rank":9,

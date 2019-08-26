@@ -11,10 +11,14 @@
     "geom:longitude":-15.86667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":288,
+    "gn:population":288,
     "iso:country":"GM",
+    "lbl:bbox":"-15.88667,13.18,-15.84667,13.22",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Chabai",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":2413685,
         "gp:id":1322556,
-        "qs:id":91420,
+        "qs_pg:id":91420,
         "wk:page":"Chabai"
     },
     "wof:country":"GM",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890429069,
-    "wof:lastmodified":1527792796,
+    "wof:lastmodified":1566639046,
     "wof:name":"Chabai",
     "wof:parent_id":890422705,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":13.56667,
     "geom:longitude":-15.83333,
     "iso:country":"GM",
+    "lbl:bbox":"-15.85333,13.54667,-15.81333,13.58667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "Mbour Petite-C\u00f4te FC"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":2412355,
         "gp:id":1322216,
-        "qs:id":1089224
+        "qs_pg:id":1089224
     },
     "wof:country":"GM",
     "wof:created":1459009122,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421176871,
-    "wof:lastmodified":1505340630,
+    "wof:lastmodified":1566639005,
     "wof:name":"No Kunda",
     "wof:parent_id":890413201,
     "wof:placetype":"locality",

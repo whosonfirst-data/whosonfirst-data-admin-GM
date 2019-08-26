@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-15.93667,13.19667,-15.89667,13.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632603
@@ -34,7 +38,7 @@
         "gn:id":2412597
     },
     "wof:country":"GM",
-    "wof:geomhash":"1c75f097839b0ce89dc56ac71d23b92a",
+    "wof:geomhash":"2b1d2598b43fab6b7342887d90a114ab",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209110945,
-    "wof:lastmodified":1536297409,
+    "wof:lastmodified":1566638948,
     "wof:name":"Marige",
     "wof:parent_id":85632603,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.916670000000002,
+    -15.91667,
     13.21667,
-    -15.916670000000002,
+    -15.91667,
     13.21667
 ],
   "geometry": {"coordinates":[-15.91667,13.21667],"type":"Point"}

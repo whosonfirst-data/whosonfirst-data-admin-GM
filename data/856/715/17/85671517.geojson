@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.435076,
     "lbl:longitude":-16.648235,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Banjul",
     "meso:source":"meso",
     "mps:latitude":13.404798,
@@ -381,9 +382,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0436\u0443\u043b"
     ],
-    "name:unk_x_variant":[
-        "City of Banjul"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0646\u062c\u0648\u0644"
     ],
@@ -501,9 +499,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-04-15",
+    "src:population_date":"2003-04-15",
     "statoids:area_km":"88",
     "statoids:area_mi":"34",
     "statoids:as_of_date":"2003-04-15",
@@ -528,7 +526,7 @@
         "gp:id":2345443,
         "hasc:id":"GM.BJ",
         "iso:id":"GM-B",
-        "qs:id":901869,
+        "qs_pg:id":901869,
         "unlc:id":"GM-B",
         "wd:id":"Q3726"
     },
@@ -548,11 +546,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565712760,
+    "wof:lastmodified":1566638890,
     "wof:name":"Banjul",
     "wof:parent_id":85632603,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"independent city",
     "wof:population":357238,
     "wof:population_rank":10,

@@ -10,8 +10,12 @@
     "geom:latitude":13.53333,
     "geom:longitude":-14.76667,
     "iso:country":"GM",
+    "lbl:bbox":"-14.78667,13.51333,-14.74667,13.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Janjanbureh"
@@ -117,7 +121,7 @@
     "wof:concordances":{
         "gn:id":6941972,
         "gp:id":28752604,
-        "qs:id":424401,
+        "qs_pg:id":424401,
         "wd:id":"Q1002786"
     },
     "wof:country":"GM",
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421177537,
-    "wof:lastmodified":1563253273,
+    "wof:lastmodified":1566639003,
     "wof:name":"Janjanbureh",
     "wof:parent_id":890422613,
     "wof:placetype":"locality",

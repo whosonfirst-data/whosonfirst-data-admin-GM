@@ -11,10 +11,14 @@
     "geom:longitude":-14.9,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":91,
+    "gn:population":91,
     "iso:country":"GM",
+    "lbl:bbox":"-14.92,13.68,-14.88,13.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Sinchu Jenun Touray",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2411934,
         "gp:id":1483213,
-        "qs:id":573841
+        "qs_pg:id":573841
     },
     "wof:country":"GM",
     "wof:created":1469050993,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890413243,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566639019,
     "wof:name":"Sinchu Jenun Touray",
     "wof:parent_id":890422847,
     "wof:placetype":"locality",

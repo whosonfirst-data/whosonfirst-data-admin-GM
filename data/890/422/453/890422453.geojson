@@ -11,10 +11,14 @@
     "geom:longitude":-15.56667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":128,
+    "gn:population":128,
     "iso:country":"GM",
+    "lbl:bbox":"-15.58667,13.34667,-15.54667,13.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Sare Saidy",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2412034,
         "gp:id":28752611,
-        "qs:id":573856
+        "qs_pg:id":573856
     },
     "wof:country":"GM",
     "wof:created":1469051446,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890422453,
-    "wof:lastmodified":1505343470,
+    "wof:lastmodified":1566639010,
     "wof:name":"Sare Saidy",
     "wof:parent_id":890422673,
     "wof:placetype":"locality",

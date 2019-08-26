@@ -11,11 +11,15 @@
     "geom:longitude":-15.76667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":173,
+    "gn:population":173,
     "iso:country":"GM",
+    "lbl:bbox":"-15.78667,13.34667,-15.74667,13.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bumari"
     ],
     "qs:name":"Tabanani",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2411854,
         "gp:id":28752612,
-        "qs:id":91385
+        "qs_pg:id":91385
     },
     "wof:country":"GM",
     "wof:created":1469051786,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890429007,
-    "wof:lastmodified":1505343509,
+    "wof:lastmodified":1566639043,
     "wof:name":"Tabanani",
     "wof:parent_id":890413369,
     "wof:placetype":"locality",

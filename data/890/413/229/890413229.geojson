@@ -11,10 +11,14 @@
     "geom:longitude":-14.61667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":237,
+    "gn:population":237,
     "iso:country":"GM",
+    "lbl:bbox":"-14.63667,13.34667,-14.59667,13.38667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tandi"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2411809,
         "gp:id":28752605,
-        "qs:id":573833,
+        "qs_pg:id":573833,
         "wd:id":"Q7682447",
         "wk:page":"Tandi"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890413229,
-    "wof:lastmodified":1563253300,
+    "wof:lastmodified":1566639018,
     "wof:name":"Tandi",
     "wof:parent_id":890429055,
     "wof:placetype":"locality",

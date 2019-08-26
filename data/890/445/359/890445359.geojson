@@ -11,11 +11,15 @@
     "geom:longitude":-15.66667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":177,
+    "gn:population":177,
     "iso:country":"GM",
+    "lbl:bbox":"-15.68667,13.38,-15.64667,13.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Toranko Bantang"
     ],
     "qs:name":"Toranka Bantang",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2411763,
         "gp:id":1321650,
-        "qs:id":573818
+        "qs_pg:id":573818
     },
     "wof:country":"GM",
     "wof:created":1469052506,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890445359,
-    "wof:lastmodified":1505343604,
+    "wof:lastmodified":1566639048,
     "wof:name":"Toranka Bantang",
     "wof:parent_id":890413367,
     "wof:placetype":"locality",

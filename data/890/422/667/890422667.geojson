@@ -11,10 +11,14 @@
     "geom:longitude":-15.7,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":81,
+    "gn:population":81,
     "iso:country":"GM",
+    "lbl:bbox":"-15.72,13.38,-15.68,13.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Jatta Kunda",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2413255,
         "gp:id":28752612,
-        "qs:id":573994
+        "qs_pg:id":573994
     },
     "wof:country":"GM",
     "wof:created":1469051458,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890422667,
-    "wof:lastmodified":1505343471,
+    "wof:lastmodified":1566639010,
     "wof:name":"Jatta Kunda",
     "wof:parent_id":890413369,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":-15.08333,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":87,
+    "gn:population":87,
     "iso:country":"GM",
+    "lbl:bbox":"-15.10333,13.76333,-15.06333,13.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tento"
     ],
     "qs:name":"Tento Malick Bah",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2411778,
         "gp:id":1321200,
-        "qs:id":573823
+        "qs_pg:id":573823
     },
     "wof:country":"GM",
     "wof:created":1469050991,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413213,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566639028,
     "wof:name":"Tento Malick Bah",
     "wof:parent_id":890413197,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-16.06833,13.54167,-16.02833,13.58167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "N\u2019Toro Taim",
         "N\u2019Toro Tem",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276357551,
-    "wof:lastmodified":1537623870,
+    "wof:lastmodified":1566638921,
     "wof:name":"Toro Tayem",
     "wof:parent_id":890422473,
     "wof:placetype":"locality",

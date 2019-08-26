@@ -11,10 +11,14 @@
     "geom:longitude":-15.16667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":193,
+    "gn:population":193,
     "iso:country":"GM",
+    "lbl:bbox":"-15.18667,13.56333,-15.14667,13.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:vie_x_preferred":[
         "Pakan"
     ],
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":2412314,
         "gp:id":28752614,
-        "qs:id":573892,
+        "qs_pg:id":573892,
         "wk:page":"Pakan"
     },
     "wof:country":"GM",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890422621,
-    "wof:lastmodified":1564216364,
+    "wof:lastmodified":1566639007,
     "wof:name":"Pakan",
     "wof:parent_id":890422631,
     "wof:placetype":"locality",

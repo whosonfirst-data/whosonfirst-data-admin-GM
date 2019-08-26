@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-16.23417,13.19,-16.19417,13.23",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632603
@@ -34,7 +38,7 @@
         "gn:id":2413933
     },
     "wof:country":"GM",
-    "wof:geomhash":"4a955032b10ae7ef1cfd011808313298",
+    "wof:geomhash":"c89b3a46f126faddf12ab93afef1434f",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209213865,
-    "wof:lastmodified":1536294199,
+    "wof:lastmodified":1566638949,
     "wof:name":"Bajilo",
     "wof:parent_id":85632603,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.214170000000006,
+    -16.21417000000001,
     13.21,
-    -16.214170000000006,
+    -16.21417000000001,
     13.21
 ],
   "geometry": {"coordinates":[-16.21417000000001,13.21],"type":"Point"}

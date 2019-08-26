@@ -10,6 +10,9 @@
     "geom:latitude":13.4898,
     "geom:longitude":-16.08879,
     "iso:country":"GM",
+    "lbl:bbox":"-16.10879,13.4698,-16.06879,13.5098",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -50,7 +53,7 @@
     "name:swe_x_preferred":[
         "Kerewan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kerevane"
     ],
     "name:urd_x_preferred":[
@@ -190,10 +193,12 @@
     "wof:concordances":{
         "gn:id":2412996,
         "gp:id":1321846,
-        "qs:id":1352656,
         "qs_pg:id":91400,
         "wd:id":"Q1478583",
         "wk:page":"Kerewan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1352656
     },
     "wof:country":"GM",
     "wof:created":1459009158,
@@ -208,7 +213,7 @@
         }
     ],
     "wof:id":421177715,
-    "wof:lastmodified":1563253273,
+    "wof:lastmodified":1566639003,
     "wof:name":"Kerewan",
     "wof:parent_id":890422473,
     "wof:placetype":"locality",

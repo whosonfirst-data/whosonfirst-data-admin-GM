@@ -11,11 +11,15 @@
     "geom:longitude":-14.9,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":667,
+    "gn:population":667,
     "iso:country":"GM",
+    "lbl:bbox":"-14.92,13.61333,-14.88,13.65333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tuba"
     ],
     "qs:name":"Tuba Koto",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2411746,
         "gp:id":1321919,
-        "qs:id":573815
+        "qs_pg:id":573815
     },
     "wof:country":"GM",
     "wof:created":1469052506,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890445351,
-    "wof:lastmodified":1505343604,
+    "wof:lastmodified":1566639048,
     "wof:name":"Tuba Koto",
     "wof:parent_id":890422847,
     "wof:placetype":"locality",

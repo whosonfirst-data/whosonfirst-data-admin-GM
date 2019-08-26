@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-16.72472,13.31778,-16.68472,13.35778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632603
@@ -34,7 +38,7 @@
         "gn:id":2413172
     },
     "wof:country":"GM",
-    "wof:geomhash":"c912aab89c7c0211bf6d1b6098e1eb3e",
+    "wof:geomhash":"31d82e5dabbe42212adeeefdc1d28da6",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209110997,
-    "wof:lastmodified":1536297408,
+    "wof:lastmodified":1566638947,
     "wof:name":"Kachow NDing",
     "wof:parent_id":85632603,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.704720000000002,
+    -16.70472,
     13.33778,
-    -16.704720000000002,
+    -16.70472,
     13.33778
 ],
   "geometry": {"coordinates":[-16.70472,13.33778],"type":"Point"}

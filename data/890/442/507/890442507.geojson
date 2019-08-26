@@ -11,10 +11,14 @@
     "geom:longitude":-15.01667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":123,
+    "gn:population":123,
     "iso:country":"GM",
+    "lbl:bbox":"-15.03667,13.74667,-14.99667,13.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Kutxa"
     ],
@@ -48,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kutcha"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2412823,
         "gp:id":1322225,
-        "qs:id":573955,
+        "qs_pg:id":573955,
         "wk:page":"Kucha"
     },
     "wof:country":"GM",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890442507,
-    "wof:lastmodified":1564216414,
+    "wof:lastmodified":1566639047,
     "wof:name":"Kucha",
     "wof:parent_id":890422847,
     "wof:placetype":"locality",

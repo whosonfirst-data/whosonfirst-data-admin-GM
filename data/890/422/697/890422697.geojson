@@ -11,11 +11,15 @@
     "geom:longitude":-15.01667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":404,
+    "gn:population":404,
     "iso:country":"GM",
+    "lbl:bbox":"-15.03667,13.69667,-14.99667,13.73667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ker Samba Sowe"
     ],
     "qs:name":"Jailan",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413370,
         "gp:id":1483207,
-        "qs:id":574009
+        "qs_pg:id":574009
     },
     "wof:country":"GM",
     "wof:created":1469051460,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890422697,
-    "wof:lastmodified":1505343471,
+    "wof:lastmodified":1566639014,
     "wof:name":"Jailan",
     "wof:parent_id":890422845,
     "wof:placetype":"locality",

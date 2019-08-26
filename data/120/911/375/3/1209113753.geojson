@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-15.25333,13.64667,-15.21333,13.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632603
@@ -34,7 +38,7 @@
         "gn:id":2412900
     },
     "wof:country":"GM",
-    "wof:geomhash":"70dd76c8346bc31601e65ab25f4938ca",
+    "wof:geomhash":"cee6626a2309a065c2e5613ba8ad7052",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209113753,
-    "wof:lastmodified":1536297322,
+    "wof:lastmodified":1566638948,
     "wof:name":"Ker Waka",
     "wof:parent_id":85632603,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -15.23333,
-    13.666670000000002,
+    13.66667,
     -15.23333,
-    13.666670000000002
+    13.66667
 ],
   "geometry": {"coordinates":[-15.23333,13.66667],"type":"Point"}
 }

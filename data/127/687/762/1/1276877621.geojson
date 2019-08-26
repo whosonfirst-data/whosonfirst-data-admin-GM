@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-16.16694,13.18667,-16.12694,13.22667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Erangalain",
         "Arangalain"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276877621,
-    "wof:lastmodified":1537623903,
+    "wof:lastmodified":1566638919,
     "wof:name":"Arangalain",
     "wof:parent_id":1108562619,
     "wof:placetype":"locality",

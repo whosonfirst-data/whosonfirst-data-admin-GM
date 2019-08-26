@@ -11,10 +11,14 @@
     "geom:longitude":-16.01833,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":136,
+    "gn:population":136,
     "iso:country":"GM",
+    "lbl:bbox":"-16.03833,13.57194,-15.99833,13.61194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Daru"
     ],
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":2413629,
         "gp:id":1416977,
-        "qs:id":574037,
+        "qs_pg:id":574037,
         "wk:page":"Daru"
     },
     "wof:country":"GM",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890413383,
-    "wof:lastmodified":1564216383,
+    "wof:lastmodified":1566639022,
     "wof:name":"Daru",
     "wof:parent_id":890422473,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":-14.28333,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":161,
+    "gn:population":161,
     "iso:country":"GM",
+    "lbl:bbox":"-14.30333,13.38,-14.26333,13.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kandimai"
     ],
     "qs:name":"Jendeh",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413247,
         "gp:id":28752603,
-        "qs:id":573993
+        "qs_pg:id":573993
     },
     "wof:country":"GM",
     "wof:created":1469051458,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890422665,
-    "wof:lastmodified":1505343471,
+    "wof:lastmodified":1566639015,
     "wof:name":"Jendeh",
     "wof:parent_id":890429021,
     "wof:placetype":"locality",

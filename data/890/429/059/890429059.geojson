@@ -11,10 +11,14 @@
     "geom:longitude":-14.4,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":203,
+    "gn:population":203,
     "iso:country":"GM",
+    "lbl:bbox":"-14.42,13.33,-14.38,13.37",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Fatako"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2413493,
         "gp:id":1321358,
-        "qs:id":91416,
+        "qs_pg:id":91416,
         "wk:page":"Fatako"
     },
     "wof:country":"GM",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890429059,
-    "wof:lastmodified":1564216413,
+    "wof:lastmodified":1566639045,
     "wof:name":"Fatako",
     "wof:parent_id":890429057,
     "wof:placetype":"locality",

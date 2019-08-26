@@ -11,10 +11,14 @@
     "geom:longitude":-15.08333,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":297,
+    "gn:population":297,
     "iso:country":"GM",
+    "lbl:bbox":"-15.10333,13.63,-15.06333,13.67",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kerewan"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Kerewan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hai-Rewan"
     ],
     "name:urd_x_preferred":[
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":2412991,
         "gp:id":1483207,
-        "qs:id":573971,
+        "qs_pg:id":573971,
         "wd:id":"Q1478583",
         "wk:page":"Kerewan"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890438159,
-    "wof:lastmodified":1563253325,
+    "wof:lastmodified":1566639035,
     "wof:name":"Kerewan",
     "wof:parent_id":890422631,
     "wof:placetype":"locality",

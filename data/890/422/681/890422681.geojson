@@ -11,11 +11,15 @@
     "geom:longitude":-16.13833,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":795,
+    "gn:population":795,
     "iso:country":"GM",
+    "lbl:bbox":"-16.15833,13.36028,-16.11833,13.40028",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Janna Kunda"
     ],
     "qs:name":"Janneh Kunda",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413282,
         "gp:id":1321846,
-        "qs:id":574002
+        "qs_pg:id":574002
     },
     "wof:country":"GM",
     "wof:created":1469051459,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890422681,
-    "wof:lastmodified":1505343471,
+    "wof:lastmodified":1566639006,
     "wof:name":"Janneh Kunda",
     "wof:parent_id":890413365,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":-15.9,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":182,
+    "gn:population":182,
     "iso:country":"GM",
+    "lbl:bbox":"-15.92,13.23,-15.88,13.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bundali"
     ],
     "qs:name":"Bondali Tenda",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413771,
         "gp:id":28752623,
-        "qs:id":574064
+        "qs_pg:id":574064
     },
     "wof:country":"GM",
     "wof:created":1469050999,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413413,
-    "wof:lastmodified":1505343414,
+    "wof:lastmodified":1566639019,
     "wof:name":"Bondali Tenda",
     "wof:parent_id":890422709,
     "wof:placetype":"locality",

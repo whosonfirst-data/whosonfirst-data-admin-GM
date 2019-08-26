@@ -11,11 +11,15 @@
     "geom:longitude":-14.38333,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":152,
+    "gn:population":152,
     "iso:country":"GM",
+    "lbl:bbox":"-14.40333,13.43,-14.36333,13.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Barry Narbeh"
     ],
     "qs:name":"Berry Narbeh",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413794,
         "gp:id":1321553,
-        "qs:id":574067
+        "qs_pg:id":574067
     },
     "wof:country":"GM",
     "wof:created":1469050999,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413419,
-    "wof:lastmodified":1505343414,
+    "wof:lastmodified":1566639026,
     "wof:name":"Berry Narbeh",
     "wof:parent_id":890429021,
     "wof:placetype":"locality",

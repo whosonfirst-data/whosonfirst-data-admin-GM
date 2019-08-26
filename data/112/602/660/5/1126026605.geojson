@@ -9,15 +9,18 @@
     "geom:bbox":"-15.28333,13.38333,-15.28333,13.38333",
     "geom:latitude":13.38333,
     "geom:longitude":-15.28333,
-    "gn:gn_country":"GM",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":629,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
     "gn:population":629,
     "iso:country":"GM",
+    "lbl:bbox":"-15.30333,13.36333,-15.26333,13.40333",
     "lbl:latitude":13.38333,
     "lbl:longitude":-15.28333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Dongoro Ba"
@@ -34,7 +37,7 @@
     "name:swe_x_preferred":[
         "Dongoro Ba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dongoro"
     ],
     "qs_pg:aaroncc":"GM",
@@ -49,7 +52,7 @@
     "qs_pg:qs_id":574025,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126026605,
-    "wof:lastmodified":1563253353,
+    "wof:lastmodified":1566639049,
     "wof:name":"Dongoro Ba",
     "wof:parent_id":890422675,
     "wof:placetype":"locality",

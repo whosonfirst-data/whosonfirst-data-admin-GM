@@ -11,10 +11,14 @@
     "geom:longitude":-14.46667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":55,
+    "gn:population":55,
     "iso:country":"GM",
+    "lbl:bbox":"-14.48667,13.33,-14.44667,13.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Sinchu Sara",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2411925,
         "gp:id":1321358,
-        "qs:id":573840
+        "qs_pg:id":573840
     },
     "wof:country":"GM",
     "wof:created":1469050993,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890413241,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566639026,
     "wof:name":"Sinchu Sara",
     "wof:parent_id":890429057,
     "wof:placetype":"locality",

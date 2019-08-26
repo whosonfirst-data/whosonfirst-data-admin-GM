@@ -11,10 +11,14 @@
     "geom:longitude":-15.36667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":159,
+    "gn:population":159,
     "iso:country":"GM",
+    "lbl:bbox":"-15.38667,13.38,-15.34667,13.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Naneko",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2412483,
         "gp:id":1321277,
-        "qs:id":573920
+        "qs_pg:id":573920
     },
     "wof:country":"GM",
     "wof:created":1469050994,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890413285,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566639027,
     "wof:name":"Naneko",
     "wof:parent_id":890422679,
     "wof:placetype":"locality",

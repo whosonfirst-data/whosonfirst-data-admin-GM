@@ -11,10 +11,14 @@
     "geom:longitude":-14.33333,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":189,
+    "gn:population":189,
     "iso:country":"GM",
+    "lbl:bbox":"-14.35333,13.43,-14.31333,13.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Demba Wendu",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2413592,
         "gp:id":28752603,
-        "qs:id":574031
+        "qs_pg:id":574031
     },
     "wof:country":"GM",
     "wof:created":1469052181,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890438127,
-    "wof:lastmodified":1505343563,
+    "wof:lastmodified":1566639035,
     "wof:name":"Demba Wendu",
     "wof:parent_id":890429021,
     "wof:placetype":"locality",

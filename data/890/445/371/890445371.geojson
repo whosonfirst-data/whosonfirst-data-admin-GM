@@ -11,11 +11,15 @@
     "geom:longitude":-14.96667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":160,
+    "gn:population":160,
     "iso:country":"GM",
+    "lbl:bbox":"-14.98667,13.76333,-14.94667,13.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "N\u2019Joben"
     ],
     "qs:name":"Njoben Tukulor",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2412367,
         "gp:id":1322225,
-        "qs:id":573898
+        "qs_pg:id":573898
     },
     "wof:country":"GM",
     "wof:created":1469052507,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890445371,
-    "wof:lastmodified":1505343604,
+    "wof:lastmodified":1566639048,
     "wof:name":"Njoben Tukulor",
     "wof:parent_id":890422847,
     "wof:placetype":"locality",

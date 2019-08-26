@@ -11,11 +11,15 @@
     "geom:longitude":-15.2,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":822,
+    "gn:population":822,
     "iso:country":"GM",
+    "lbl:bbox":"-15.22,13.68,-15.18,13.72",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bati N\u2019Da"
     ],
     "qs:name":"Bati Ndar",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413810,
         "gp:id":1483280,
-        "qs:id":574069
+        "qs_pg:id":574069
     },
     "wof:country":"GM",
     "wof:created":1469052508,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890445389,
-    "wof:lastmodified":1505343605,
+    "wof:lastmodified":1566639048,
     "wof:name":"Bati Ndar",
     "wof:parent_id":890413197,
     "wof:placetype":"locality",

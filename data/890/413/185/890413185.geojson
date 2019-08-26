@@ -11,11 +11,15 @@
     "geom:longitude":-15.15,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":283,
+    "gn:population":283,
     "iso:country":"GM",
+    "lbl:bbox":"-15.17,13.71333,-15.13,13.75333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Willingara"
     ],
     "qs:name":"Wellingara Bubacarr Bah",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2411691,
         "gp:id":1321200,
-        "qs:id":573805
+        "qs_pg:id":573805
     },
     "wof:country":"GM",
     "wof:created":1469050991,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413185,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566639031,
     "wof:name":"Wellingara Bubacarr Bah",
     "wof:parent_id":890422845,
     "wof:placetype":"locality",

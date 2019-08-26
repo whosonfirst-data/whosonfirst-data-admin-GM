@@ -10,10 +10,14 @@
     "geom:latitude":13.33111,
     "geom:longitude":-16.6175,
     "iso:country":"GM",
+    "lbl:bbox":"-16.6375,13.31111,-16.5975,13.35111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gallo-ya"
     ],
     "qs:gn_country":"GM",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2413453,
         "gp:id":28752613,
-        "qs:id":1288325
+        "qs_pg:id":1288325
     },
     "wof:country":"GM",
     "wof:created":1459008914,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421171969,
-    "wof:lastmodified":1501263039,
+    "wof:lastmodified":1566639005,
     "wof:name":"Galoya",
     "wof:parent_id":890413349,
     "wof:placetype":"locality",
