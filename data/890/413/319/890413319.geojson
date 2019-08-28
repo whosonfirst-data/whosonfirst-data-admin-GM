@@ -11,10 +11,14 @@
     "geom:longitude":-14.8,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":182,
+    "gn:population":182,
     "iso:country":"GM",
+    "lbl:bbox":"-14.82,13.46333,-14.78,13.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Lama"
     ],
@@ -180,7 +184,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sare Sambuldu"
     ],
     "name:urd_x_preferred":[
@@ -211,7 +215,7 @@
     "wof:concordances":{
         "gn:id":2412750,
         "gp:id":28752609,
-        "qs:id":573945,
+        "qs_pg:id":573945,
         "wd:id":"Q191421",
         "wk:page":"Lama"
     },
@@ -228,7 +232,7 @@
         }
     ],
     "wof:id":890413319,
-    "wof:lastmodified":1563253319,
+    "wof:lastmodified":1566639031,
     "wof:name":"Lama",
     "wof:parent_id":890429055,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-16.78167,13.07083,-16.74167,13.11083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277073699,
-    "wof:lastmodified":1536781178,
+    "wof:lastmodified":1566638915,
     "wof:name":"Folonko",
     "wof:parent_id":890413347,
     "wof:placetype":"locality",

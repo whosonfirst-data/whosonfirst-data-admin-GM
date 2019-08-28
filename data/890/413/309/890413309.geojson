@@ -11,10 +11,14 @@
     "geom:longitude":-15.7,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":170,
+    "gn:population":170,
     "iso:country":"GM",
+    "lbl:bbox":"-15.72,13.41333,-15.68,13.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Mandina",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2412629,
         "gp:id":28752612,
-        "qs:id":573931
+        "qs_pg:id":573931
     },
     "wof:country":"GM",
     "wof:created":1469050995,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890413309,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566639016,
     "wof:name":"Mandina",
     "wof:parent_id":890413369,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":13.20194,
     "geom:longitude":-16.73389,
     "iso:country":"GM",
+    "lbl:bbox":"-16.75389,13.18194,-16.71389,13.22194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Gunjur"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":2413419,
         "gp:id":1483123,
-        "qs:id":139998,
+        "qs_pg:id":139998,
         "wd:id":"Q687816"
     },
     "wof:country":"GM",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421167689,
-    "wof:lastmodified":1563253263,
+    "wof:lastmodified":1566638999,
     "wof:name":"Gunjur",
     "wof:parent_id":890413347,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-14.96667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":1793,
+    "gn:population":1793,
     "iso:country":"GM",
+    "lbl:bbox":"-14.98667,13.53,-14.94667,13.57",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Jakhar"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2413365,
         "gp:id":28752606,
-        "qs:id":1035520,
+        "qs_pg:id":1035520,
         "wd:id":"Q6125147",
         "wk:page":"Jakhar"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890437111,
-    "wof:lastmodified":1563253321,
+    "wof:lastmodified":1566639032,
     "wof:name":"Jakhaly",
     "wof:parent_id":890429055,
     "wof:placetype":"locality",

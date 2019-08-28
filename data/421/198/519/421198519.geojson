@@ -10,8 +10,12 @@
     "geom:latitude":13.43333,
     "geom:longitude":-15.53333,
     "iso:country":"GM",
+    "lbl:bbox":"-15.55333,13.41333,-15.51333,13.45333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Soma"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":2411905,
         "gp:id":1322564,
-        "qs:id":183364,
+        "qs_pg:id":183364,
         "wd:id":"Q1318028",
         "wk:page":"Soma, Gambia"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421198519,
-    "wof:lastmodified":1563253271,
+    "wof:lastmodified":1566639002,
     "wof:name":"Soma",
     "wof:parent_id":890422673,
     "wof:placetype":"locality",

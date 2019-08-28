@@ -10,8 +10,12 @@
     "geom:latitude":13.5,
     "geom:longitude":-16.3,
     "iso:country":"GM",
+    "lbl:bbox":"-16.32,13.48,-16.28,13.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"GM",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2413659,
         "gp:id":1321307,
-        "qs:id":1297369
+        "qs_pg:id":1297369
     },
     "wof:country":"GM",
     "wof:created":1459008921,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421172121,
-    "wof:lastmodified":1505340609,
+    "wof:lastmodified":1566639002,
     "wof:name":"Chisay",
     "wof:parent_id":890413199,
     "wof:placetype":"locality",

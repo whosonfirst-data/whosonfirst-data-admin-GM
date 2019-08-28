@@ -11,11 +11,15 @@
     "geom:longitude":-16.23111,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":493,
+    "gn:population":493,
     "iso:country":"GM",
+    "lbl:bbox":"-16.25111,13.49972,-16.21111,13.53972",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Memme"
     ],
     "qs:name":"Memmeh",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2412534,
         "gp:id":1321918,
-        "qs:id":573924
+        "qs_pg:id":573924
     },
     "wof:country":"GM",
     "wof:created":1469050995,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413293,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566639021,
     "wof:name":"Memmeh",
     "wof:parent_id":890422649,
     "wof:placetype":"locality",

@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":13.505929,
     "lbl:longitude":-15.362493,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":13.505929,
     "mps:longitude":-15.362493,
     "mz:hierarchy_label":1,
@@ -728,10 +730,6 @@
     "name:ukr_x_variant":[
         "\u0490\u0430\u043c\u0431\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Gambija",
-        "Gamb\u00eda"
-    ],
     "name:und_x_variant":[
         "Republika Gambija"
     ],
@@ -883,7 +881,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"220",
     "statoids:ds":"WAG",
@@ -923,7 +921,7 @@
         "mzb:id":"the-gambia",
         "ne:adm0_a3":"GMB",
         "nyt:id":"66220959598573035521",
-        "qs:id":890609,
+        "qs_pg:id":890609,
         "uncrt:id":"WAG",
         "wd:id":"Q1005",
         "wk:page":"The Gambia",
@@ -945,7 +943,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565712760,
+    "wof:lastmodified":1566638891,
     "wof:name":"Gambia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

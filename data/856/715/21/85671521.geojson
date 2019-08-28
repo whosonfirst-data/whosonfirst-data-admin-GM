@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.349829,
     "lbl:longitude":-15.881852,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Lower River",
     "meso:source":"meso",
     "mps:latitude":13.34769,
@@ -154,7 +155,7 @@
         "Lower River Division"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd \u0bb0\u0bbf\u0bb5\u0bc7\u0bb0\u0bcd  \u0b9f\u0bbf\u0bb5\u0bbf\u0b9a\u0ba9\u0bcd"
+        "\u0bb2\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd \u0bb0\u0bbf\u0bb5\u0bc7\u0bb0\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf\u0b9a\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c4b\u0c35\u0c30\u0c4d \u0c30\u0c3f\u0c35\u0c30\u0c4d \u0c21\u0c3f\u0c35\u0c3f\u0c1c\u0c28\u0c4d"
@@ -168,7 +169,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u041d\u0438\u0436\u043d\u044f \u0420\u0456\u0447\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Central Division"
     ],
     "name:urd_x_preferred":[
@@ -252,9 +253,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-04-15",
+    "src:population_date":"2003-04-15",
     "statoids:area_km":"1,618",
     "statoids:area_mi":"625",
     "statoids:as_of_date":"2003-04-15",
@@ -279,7 +280,7 @@
         "gp:id":2345444,
         "hasc:id":"GM.LR",
         "iso:id":"GM-L",
-        "qs:id":423766,
+        "qs_pg:id":423766,
         "unlc:id":"GM-L",
         "wd:id":"Q824421",
         "wk:page":"Lower River Division"
@@ -300,11 +301,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565712760,
+    "wof:lastmodified":1566638890,
     "wof:name":"Lower River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":72546,
     "wof:population_rank":8,

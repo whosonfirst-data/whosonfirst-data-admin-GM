@@ -11,10 +11,14 @@
     "geom:longitude":-16.13222,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":245,
+    "gn:population":245,
     "iso:country":"GM",
+    "lbl:bbox":"-16.15222,13.57361,-16.11222,13.61361",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Daru Lohen",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2413625,
         "gp:id":1416977,
-        "qs:id":574036
+        "qs_pg:id":574036
     },
     "wof:country":"GM",
     "wof:created":1469050998,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890413381,
-    "wof:lastmodified":1505343414,
+    "wof:lastmodified":1566639031,
     "wof:name":"Daru Lohen",
     "wof:parent_id":421187969,
     "wof:placetype":"locality",

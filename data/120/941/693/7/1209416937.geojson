@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-14.70333,13.38,-14.66333,13.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632603
@@ -34,7 +38,7 @@
         "gn:id":2412069
     },
     "wof:country":"GM",
-    "wof:geomhash":"0e58bac9a5e5870bb77ddf89772d0946",
+    "wof:geomhash":"e335af34369fc14516593fd1a395e0fc",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209416937,
-    "wof:lastmodified":1536287656,
+    "wof:lastmodified":1566638939,
     "wof:name":"Sare Madi",
     "wof:parent_id":85632603,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.683329999999998,
+    -14.68333,
     13.4,
-    -14.683329999999998,
+    -14.68333,
     13.4
 ],
   "geometry": {"coordinates":[-14.68333,13.4],"type":"Point"}

@@ -11,11 +11,15 @@
     "geom:longitude":-15.61667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":252,
+    "gn:population":252,
     "iso:country":"GM",
+    "lbl:bbox":"-15.63667,13.46333,-15.59667,13.50333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Balingo"
     ],
     "qs:name":"Balingho",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413907,
         "gp:id":1322239,
-        "qs:id":574085
+        "qs_pg:id":574085
     },
     "wof:country":"GM",
     "wof:created":1469051000,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413431,
-    "wof:lastmodified":1505343414,
+    "wof:lastmodified":1566639021,
     "wof:name":"Balingho",
     "wof:parent_id":890413201,
     "wof:placetype":"locality",

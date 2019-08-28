@@ -11,7 +11,7 @@
     "geom:longitude":-15.954532,
     "gn:country":"GM",
     "gn:fcode":"ADM2",
-    "gn:pop":6301,
+    "gn:population":6301,
     "iso:country":"GM",
     "label:eng_x_preferred_longname":[
         "Foni Bondali District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.219672,
     "lbl:longitude":-15.954563,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Western",
     "meso:gadm_admin":"Foni Bondali",
     "meso:gadm_hasc2":"GM.WE.FB",
@@ -33,6 +35,7 @@
     "mps:longitude":-15.954563,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Foni Bondali"
     ],
@@ -71,9 +74,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-04-15",
+    "src:population_date":"2003-04-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-04-15",
     "statoids:capital":"",
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gn:id":2413480,
         "hasc:id":"GM.WE.FB",
-        "qs:id":574015,
+        "qs_pg:id":574015,
         "wd:id":"Q1435751",
         "wk:page":"Foni Bondali"
     },
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890422709,
-    "wof:lastmodified":1563253278,
+    "wof:lastmodified":1566639006,
     "wof:name":"Foni Bondali",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

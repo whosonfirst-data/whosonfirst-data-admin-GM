@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":13.516653,
     "lbl:longitude":-16.02402,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"North Bank",
     "meso:source":"meso",
     "mps:latitude":13.514583,
@@ -151,7 +152,7 @@
         "North Bank Division"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0baa\u0bc7\u0b99\u0bcd\u0b95\u0bcd  \u0b9f\u0bbf\u0bb5\u0bbf\u0b9a\u0ba9\u0bcd"
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc7\u0b99\u0bcd\u0b95\u0bcd \u0b9f\u0bbf\u0bb5\u0bbf\u0b9a\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c2c\u0c4d\u0c2f\u0c3e\u0c02\u0c15\u0c4d \u0c21\u0c3f\u0c35\u0c3f\u0c1c\u0c28\u0c4d"
@@ -164,9 +165,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0439 \u0411\u0435\u0440\u0435\u0433"
-    ],
-    "name:unk_x_variant":[
-        "North Bank Division"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0631\u062a\u06be \u0628\u06cc\u0646\u06a9 \u0688\u0648\u06cc\u0698\u0646"
@@ -249,9 +247,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-04-15",
+    "src:population_date":"2003-04-15",
     "statoids:area_km":"2,256",
     "statoids:area_mi":"871",
     "statoids:as_of_date":"2003-04-15",
@@ -276,7 +274,7 @@
         "gp:id":2345448,
         "hasc:id":"GM.NB",
         "iso:id":"GM-N",
-        "qs:id":894884,
+        "qs_pg:id":894884,
         "unlc:id":"GM-N",
         "wd:id":"Q846161",
         "wk:page":"North Bank Division"
@@ -297,11 +295,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565712759,
+    "wof:lastmodified":1566638890,
     "wof:name":"North Bank",
     "wof:parent_id":85632603,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":172806,
     "wof:population_rank":9,

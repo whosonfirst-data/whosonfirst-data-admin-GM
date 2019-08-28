@@ -11,11 +11,15 @@
     "geom:longitude":-14.9,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":229,
+    "gn:population":229,
     "iso:country":"GM",
+    "lbl:bbox":"-14.92,13.76333,-14.88,13.80333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kas Yallal"
     ],
     "qs:name":"Kass Yallal",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413051,
         "gp:id":1483097,
-        "qs:id":91406
+        "qs_pg:id":91406
     },
     "wof:country":"GM",
     "wof:created":1469051789,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890429039,
-    "wof:lastmodified":1505343509,
+    "wof:lastmodified":1566639044,
     "wof:name":"Kass Yallal",
     "wof:parent_id":890422847,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":-16.357089,
     "gn:country":"GM",
     "gn:fcode":"ADM2",
-    "gn:pop":11920,
+    "gn:population":11920,
     "iso:country":"GM",
     "label:eng_x_preferred_longname":[
         "Foni Brefet District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.209253,
     "lbl:longitude":-16.364954,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Western",
     "meso:gadm_admin":"Foni Brefet",
     "meso:gadm_hasc2":"GM.WE.FF",
@@ -33,6 +35,7 @@
     "mps:longitude":-16.364954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Foni Brefet"
     ],
@@ -71,9 +74,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-04-15",
+    "src:population_date":"2003-04-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-04-15",
     "statoids:capital":"",
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gn:id":2413479,
         "hasc:id":"GM.WE.FF",
-        "qs:id":574014,
+        "qs_pg:id":574014,
         "wd:id":"Q1435749",
         "wk:page":"Foni Brefet"
     },
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890422707,
-    "wof:lastmodified":1563253279,
+    "wof:lastmodified":1566639006,
     "wof:name":"Foni Brefet",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

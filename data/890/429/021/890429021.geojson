@@ -11,7 +11,7 @@
     "geom:longitude":-14.373028,
     "gn:country":"GM",
     "gn:fcode":"ADM2",
-    "gn:pop":19025,
+    "gn:population":19025,
     "iso:country":"GM",
     "label:eng_x_preferred_longname":[
         "Sandu District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.408338,
     "lbl:longitude":-14.348092,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Upper River",
     "meso:gadm_admin":"Sandu",
     "meso:gadm_hasc2":"GM.UR.SN",
@@ -33,6 +35,7 @@
     "mps:longitude":-14.348092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Sandu"
     ],
@@ -66,9 +69,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-04-15",
+    "src:population_date":"2003-04-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-04-15",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gn:id":2412176,
         "hasc:id":"GM.UR.SN",
-        "qs:id":91393,
+        "qs_pg:id":91393,
         "wd:id":"Q1136959",
         "wk:page":"Sandu"
     },
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":890429021,
-    "wof:lastmodified":1561841660,
+    "wof:lastmodified":1566639045,
     "wof:name":"Sandu",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

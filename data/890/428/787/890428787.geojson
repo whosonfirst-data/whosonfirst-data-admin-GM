@@ -11,10 +11,14 @@
     "geom:longitude":-15.1,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":334,
+    "gn:population":334,
     "iso:country":"GM",
+    "lbl:bbox":"-15.12,13.73,-15.08,13.77",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Buduk",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2413738,
         "gp:id":1321200,
-        "qs:id":574059
+        "qs_pg:id":574059
     },
     "wof:country":"GM",
     "wof:created":1469051771,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890428787,
-    "wof:lastmodified":1505343507,
+    "wof:lastmodified":1566639040,
     "wof:name":"Buduk",
     "wof:parent_id":890422845,
     "wof:placetype":"locality",

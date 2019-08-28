@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-16.45,13.39833,-16.41,13.43833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mademba",
         "Ker Mademba"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225935767,
-    "wof:lastmodified":1537623888,
+    "wof:lastmodified":1566639089,
     "wof:name":"Ker Mademba",
     "wof:parent_id":890413199,
     "wof:placetype":"locality",

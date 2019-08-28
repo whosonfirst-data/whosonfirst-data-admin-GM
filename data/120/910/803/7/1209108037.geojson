@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-14.68667,13.53,-14.64667,13.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632603
@@ -34,7 +38,7 @@
         "gn:id":2413353
     },
     "wof:country":"GM",
-    "wof:geomhash":"70dcb8f623bda7e39e32d6dedd040c2f",
+    "wof:geomhash":"fee8f888c08f9cf15a730932b480e3a9",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209108037,
-    "wof:lastmodified":1536297501,
+    "wof:lastmodified":1566638950,
     "wof:name":"Jala Koto",
     "wof:parent_id":85632603,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.666670000000002,
+    -14.66667,
     13.55,
-    -14.666670000000002,
+    -14.66667,
     13.55
 ],
   "geometry": {"coordinates":[-14.66667,13.55],"type":"Point"}

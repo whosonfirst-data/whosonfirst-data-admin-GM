@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-16.78056,13.24667,-16.74056,13.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sanyang"
     ],
@@ -36,8 +40,7 @@
         "Sanyang"
     ],
     "name:und_x_variant":[
-        "Saniang",
-        "Sanyang"
+        "Saniang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243295603,
-    "wof:lastmodified":1564216447,
+    "wof:lastmodified":1566639071,
     "wof:name":"Sanyang",
     "wof:parent_id":890413347,
     "wof:placetype":"locality",

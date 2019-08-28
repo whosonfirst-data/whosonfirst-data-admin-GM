@@ -11,10 +11,14 @@
     "geom:longitude":-15.51667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":1372,
+    "gn:population":1372,
     "iso:country":"GM",
+    "lbl:bbox":"-15.53667,13.41333,-15.49667,13.45333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Karantaba",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2413073,
         "gp:id":1322028,
-        "qs:id":1035507
+        "qs_pg:id":1035507
     },
     "wof:country":"GM",
     "wof:created":1469052138,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890437105,
-    "wof:lastmodified":1505343557,
+    "wof:lastmodified":1566639032,
     "wof:name":"Karantaba",
     "wof:parent_id":890422673,
     "wof:placetype":"locality",

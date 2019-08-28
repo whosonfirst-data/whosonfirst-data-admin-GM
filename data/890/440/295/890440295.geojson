@@ -11,11 +11,15 @@
     "geom:longitude":-14.93333,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":1109,
+    "gn:population":1109,
     "iso:country":"GM",
+    "lbl:bbox":"-14.95333,13.76333,-14.91333,13.80333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kass"
     ],
     "qs:name":"Kass Wollof",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413052,
         "gp:id":1483097,
-        "qs:id":278617
+        "qs_pg:id":278617
     },
     "wof:country":"GM",
     "wof:created":1469052270,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890440295,
-    "wof:lastmodified":1505343576,
+    "wof:lastmodified":1566639005,
     "wof:name":"Kass Wollof",
     "wof:parent_id":890422847,
     "wof:placetype":"locality",

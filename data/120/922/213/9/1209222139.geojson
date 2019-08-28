@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-14.58667,13.43,-14.54667,13.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632603
@@ -34,7 +38,7 @@
         "gn:id":2412035
     },
     "wof:country":"GM",
-    "wof:geomhash":"227da49b86a51541430009e8b4382ceb",
+    "wof:geomhash":"0e612bbd8050a441d8993dae69dcceaf",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209222139,
-    "wof:lastmodified":1536293925,
+    "wof:lastmodified":1566638942,
     "wof:name":"Sare Sabo",
     "wof:parent_id":85632603,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.566670000000002,
+    -14.56667,
     13.45,
-    -14.566670000000002,
+    -14.56667,
     13.45
 ],
   "geometry": {"coordinates":[-14.56667,13.45],"type":"Point"}

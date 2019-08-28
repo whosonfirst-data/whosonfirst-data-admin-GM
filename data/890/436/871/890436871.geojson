@@ -11,10 +11,14 @@
     "geom:longitude":-15.56667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":1344,
+    "gn:population":1344,
     "iso:country":"GM",
+    "lbl:bbox":"-15.58667,13.41333,-15.54667,13.45333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Si Kunda",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2411970,
         "gp:id":1322564,
-        "qs:id":1035484
+        "qs_pg:id":1035484
     },
     "wof:country":"GM",
     "wof:created":1469052130,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890436871,
-    "wof:lastmodified":1505343556,
+    "wof:lastmodified":1566639034,
     "wof:name":"Si Kunda",
     "wof:parent_id":890422673,
     "wof:placetype":"locality",

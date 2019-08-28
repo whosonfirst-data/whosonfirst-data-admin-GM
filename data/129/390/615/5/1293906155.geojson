@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-16.36528,13.18778,-16.32528,13.22778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Demban",
         "N\u2019Demban",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293906155,
-    "wof:lastmodified":1537623882,
+    "wof:lastmodified":1566638895,
     "wof:name":"Ndemban Ba",
     "wof:parent_id":890422707,
     "wof:placetype":"locality",

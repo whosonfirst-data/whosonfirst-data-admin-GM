@@ -10,8 +10,12 @@
     "geom:latitude":13.40417,
     "geom:longitude":-16.65583,
     "iso:country":"GM",
+    "lbl:bbox":"-16.67583,13.38417,-16.63583,13.42417",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0627\u0628\u0648\u06a9\u0648"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2413990,
         "gp:id":1321061,
-        "qs:id":1035545,
+        "qs_pg:id":1035545,
         "wd:id":"Q335811",
         "wk:page":"Abuko"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421168163,
-    "wof:lastmodified":1563253261,
+    "wof:lastmodified":1566638998,
     "wof:name":"Abuko",
     "wof:parent_id":1108562623,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-14.03333,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":207,
+    "gn:population":207,
     "iso:country":"GM",
+    "lbl:bbox":"-14.05333,13.41333,-14.01333,13.45333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Boro Modi Bane"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2413765,
         "gp:id":1321893,
-        "qs:id":574062,
+        "qs_pg:id":574062,
         "wd:id":"Q894035",
         "wk:page":"Boro Modi Bane"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890428793,
-    "wof:lastmodified":1563253336,
+    "wof:lastmodified":1566639039,
     "wof:name":"Boro Modi Bane",
     "wof:parent_id":890413179,
     "wof:placetype":"locality",

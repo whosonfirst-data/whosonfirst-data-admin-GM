@@ -11,7 +11,7 @@
     "geom:longitude":-15.924566,
     "gn:country":"GM",
     "gn:fcode":"ADM2",
-    "gn:pop":14943,
+    "gn:population":14943,
     "iso:country":"GM",
     "label:eng_x_preferred_longname":[
         "Central Baddibu District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.522334,
     "lbl:longitude":-15.926336,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"North Bank",
     "meso:gadm_admin":"Central Baddibu",
     "meso:gadm_hasc2":"GM.NB.CB",
@@ -33,6 +35,7 @@
     "mps:longitude":-15.926336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Central Baddibu"
     ],
@@ -78,9 +81,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-04-15",
+    "src:population_date":"2003-04-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-04-15",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":2413686,
         "hasc:id":"GM.NB.CB",
-        "qs:id":91421,
+        "qs_pg:id":91421,
         "wd:id":"Q1053702",
         "wk:page":"Central Baddibu"
     },
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":890429071,
-    "wof:lastmodified":1561841660,
+    "wof:lastmodified":1566639042,
     "wof:name":"Central Baddibu",
     "wof:parent_id":85671529,
     "wof:placetype":"county",

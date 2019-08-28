@@ -11,10 +11,14 @@
     "geom:longitude":-14.95,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":440,
+    "gn:population":440,
     "iso:country":"GM",
+    "lbl:bbox":"-14.97,13.51333,-14.93,13.55333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Sukur"
     ],
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":2411882,
         "gp:id":28752606,
-        "qs:id":91389,
+        "qs_pg:id":91389,
         "wk:page":"Sukur"
     },
     "wof:country":"GM",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890429017,
-    "wof:lastmodified":1564216412,
+    "wof:lastmodified":1566639045,
     "wof:name":"Sukur",
     "wof:parent_id":890429055,
     "wof:placetype":"locality",

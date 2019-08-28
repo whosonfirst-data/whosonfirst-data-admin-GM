@@ -10,8 +10,12 @@
     "geom:latitude":13.48389,
     "geom:longitude":-16.53472,
     "iso:country":"GM",
+    "lbl:bbox":"-16.55472,13.46389,-16.51472,13.50389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0415\u0441\u0430\u0443"
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":2413533,
         "gp:id":1321385,
-        "qs:id":519919,
+        "qs_pg:id":519919,
         "wd:id":"Q1368528",
         "wk:page":"Essau"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421181945,
-    "wof:lastmodified":1563253270,
+    "wof:lastmodified":1566639002,
     "wof:name":"Essau",
     "wof:parent_id":890422471,
     "wof:placetype":"locality",

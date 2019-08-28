@@ -11,10 +11,14 @@
     "geom:longitude":-16.3,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":40,
+    "gn:population":40,
     "iso:country":"GM",
+    "lbl:bbox":"-16.32,13.23,-16.28,13.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Paima",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2412322,
         "gp:id":1322497,
-        "qs:id":573894
+        "qs_pg:id":573894
     },
     "wof:country":"GM",
     "wof:created":1469051456,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890422627,
-    "wof:lastmodified":1505343471,
+    "wof:lastmodified":1566639009,
     "wof:name":"Paima",
     "wof:parent_id":1108562619,
     "wof:placetype":"locality",

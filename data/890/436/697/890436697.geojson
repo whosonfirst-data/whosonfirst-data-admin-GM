@@ -11,10 +11,14 @@
     "geom:longitude":-14.91667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":1364,
+    "gn:population":1364,
     "iso:country":"GM",
+    "lbl:bbox":"-14.93667,13.59667,-14.89667,13.63667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sukuta"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Sukuta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sukutta"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":2411877,
         "gp:id":1321919,
-        "qs:id":1035481,
+        "qs_pg:id":1035481,
         "wk:page":"Sukuta"
     },
     "wof:country":"GM",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890436697,
-    "wof:lastmodified":1564216396,
+    "wof:lastmodified":1566639034,
     "wof:name":"Sukuta",
     "wof:parent_id":890422847,
     "wof:placetype":"locality",

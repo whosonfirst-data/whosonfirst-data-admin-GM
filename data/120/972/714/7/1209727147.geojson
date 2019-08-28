@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-14.62,13.49667,-14.58,13.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jogdu",
         "Samba Tako"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209727147,
-    "wof:lastmodified":1537623877,
+    "wof:lastmodified":1566638951,
     "wof:name":"Samba Tako",
     "wof:parent_id":890429055,
     "wof:placetype":"locality",

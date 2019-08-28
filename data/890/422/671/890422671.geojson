@@ -11,11 +11,15 @@
     "geom:longitude":-15.31667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":742,
+    "gn:population":742,
     "iso:country":"GM",
+    "lbl:bbox":"-15.33667,13.38,-15.29667,13.42",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Sukotto"
     ],
     "qs:name":"Jassong",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413260,
         "gp:id":1321277,
-        "qs:id":573996
+        "qs_pg:id":573996
     },
     "wof:country":"GM",
     "wof:created":1469051459,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890422671,
-    "wof:lastmodified":1505343471,
+    "wof:lastmodified":1566639012,
     "wof:name":"Jassong",
     "wof:parent_id":890422675,
     "wof:placetype":"locality",

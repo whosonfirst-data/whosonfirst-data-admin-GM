@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-16.69361,13.38361,-16.65361,13.42361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wellingara",
         "Willingara",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226441855,
-    "wof:lastmodified":1537623870,
+    "wof:lastmodified":1566639091,
     "wof:name":"Welingara",
     "wof:parent_id":890413349,
     "wof:placetype":"locality",

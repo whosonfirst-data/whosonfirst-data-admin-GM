@@ -11,10 +11,14 @@
     "geom:longitude":-14.46667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":30,
+    "gn:population":30,
     "iso:country":"GM",
+    "lbl:bbox":"-14.48667,13.34667,-14.44667,13.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Sare Timbo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2412014,
         "gp:id":1321358,
-        "qs:id":573852
+        "qs_pg:id":573852
     },
     "wof:country":"GM",
     "wof:created":1469051446,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890422445,
-    "wof:lastmodified":1505343470,
+    "wof:lastmodified":1566639013,
     "wof:name":"Sare Timbo",
     "wof:parent_id":890429057,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":-15.81667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":420,
+    "gn:population":420,
     "iso:country":"GM",
+    "lbl:bbox":"-15.83667,13.41333,-15.79667,13.45333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tendeba"
     ],
     "qs:name":"Tendaba",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2411785,
         "gp:id":1321937,
-        "qs:id":573825
+        "qs_pg:id":573825
     },
     "wof:country":"GM",
     "wof:created":1469050992,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413217,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566639019,
     "wof:name":"Tendaba",
     "wof:parent_id":890413369,
     "wof:placetype":"locality",

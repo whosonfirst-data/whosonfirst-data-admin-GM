@@ -11,11 +11,15 @@
     "geom:longitude":-14.2,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":513,
+    "gn:population":513,
     "iso:country":"GM",
+    "lbl:bbox":"-14.22,13.28,-14.18,13.32",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Giroba"
     ],
     "qs:name":"Giroba Kunda",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413427,
         "gp:id":1321192,
-        "qs:id":91410
+        "qs_pg:id":91410
     },
     "wof:country":"GM",
     "wof:created":1469051790,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890429047,
-    "wof:lastmodified":1505343509,
+    "wof:lastmodified":1566639042,
     "wof:name":"Giroba Kunda",
     "wof:parent_id":890429057,
     "wof:placetype":"locality",

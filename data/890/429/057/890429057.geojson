@@ -11,7 +11,7 @@
     "geom:longitude":-14.238295,
     "gn:country":"GM",
     "gn:fcode":"ADM2",
-    "gn:pop":100835,
+    "gn:population":100835,
     "iso:country":"GM",
     "label:eng_x_preferred_longname":[
         "Fulladu E. District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.308023,
     "lbl:longitude":-14.15851,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Upper River",
     "meso:gadm_admin":"Fulladu East",
     "meso:gadm_hasc2":"GM.UR.FE",
@@ -33,6 +35,7 @@
     "mps:longitude":-14.15851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Fulladu East"
     ],
@@ -80,9 +83,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-04-15",
+    "src:population_date":"2003-04-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-04-15",
     "statoids:capital":"",
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":2413462,
         "hasc:id":"GM.UR.FE",
-        "qs:id":91415,
+        "qs_pg:id":91415,
         "wd:id":"Q1473721",
         "wk:page":"Fulladu East"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890429057,
-    "wof:lastmodified":1563253346,
+    "wof:lastmodified":1566639045,
     "wof:name":"Fulladu East",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

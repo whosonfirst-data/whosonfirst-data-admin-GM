@@ -9,17 +9,20 @@
     "geom:bbox":"-15.86667,13.23333,-15.86667,13.23333",
     "geom:latitude":13.23333,
     "geom:longitude":-15.86667,
-    "gn:gn_country":"GM",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":31,
+    "gn:country":"GM",
+    "gn:fcode":"PPL",
     "gn:population":31,
     "iso:country":"GM",
+    "lbl:bbox":"-15.88667,13.21333,-15.84667,13.25333",
     "lbl:latitude":13.23333,
     "lbl:longitude":-15.86667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saneh Kunda"
     ],
     "qs_pg:aaroncc":"GM",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":91391,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125860339,
-    "wof:lastmodified":1509396569,
+    "wof:lastmodified":1566639050,
     "wof:name":"Sanneh Kunda",
     "wof:parent_id":890422705,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":13.23528,
     "geom:longitude":-16.08639,
     "iso:country":"GM",
+    "lbl:bbox":"-16.10639,13.21528,-16.06639,13.25528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Bwiam"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":2413691,
         "gp:id":1321287,
-        "qs:id":279378,
+        "qs_pg:id":279378,
         "wd:id":"Q1018433",
         "wk:page":"Bwiam"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":421195171,
-    "wof:lastmodified":1561841656,
+    "wof:lastmodified":1566638999,
     "wof:name":"Bwiam",
     "wof:parent_id":890422703,
     "wof:placetype":"locality",

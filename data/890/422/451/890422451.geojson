@@ -11,10 +11,14 @@
     "geom:longitude":-15.7,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":208,
+    "gn:population":208,
     "iso:country":"GM",
+    "lbl:bbox":"-15.72,13.34667,-15.68,13.38667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Sare Sajo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2412033,
         "gp:id":28752612,
-        "qs:id":573855
+        "qs_pg:id":573855
     },
     "wof:country":"GM",
     "wof:created":1469051446,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890422451,
-    "wof:lastmodified":1505343470,
+    "wof:lastmodified":1566639014,
     "wof:name":"Sare Sajo",
     "wof:parent_id":890413369,
     "wof:placetype":"locality",

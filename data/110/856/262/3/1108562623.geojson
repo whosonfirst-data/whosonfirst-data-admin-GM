@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.434443,
     "lbl:longitude":-16.651952,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Banjul",
     "meso:gadm_admin":"Kanifing",
     "meso:gadm_hasc2":"GM.BJ.KF",
@@ -30,6 +32,7 @@
     "mps:longitude":-16.651952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0438\u0444\u0438\u043d\u0433"
     ],
@@ -83,9 +86,9 @@
         "\u10d9\u10d0\u10dc\u10d8\u10e4\u10d8\u10dc\u10d2\u10d8"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-04-15",
+    "src:population_date":"2003-04-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-04-15",
     "statoids:capital":"",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1108562623,
-    "wof:lastmodified":1563253225,
+    "wof:lastmodified":1566638966,
     "wof:name":"Kanifing",
     "wof:parent_id":85671517,
     "wof:placetype":"county",

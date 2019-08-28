@@ -11,11 +11,15 @@
     "geom:longitude":-15.51667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":1831,
+    "gn:population":1831,
     "iso:country":"GM",
+    "lbl:bbox":"-15.53667,13.44667,-15.49667,13.48667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Sankuia"
     ],
     "qs:name":"Sankwia",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2412158,
         "gp:id":1322028,
-        "qs:id":1035490
+        "qs_pg:id":1035490
     },
     "wof:country":"GM",
     "wof:created":1469052127,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890436823,
-    "wof:lastmodified":1505343556,
+    "wof:lastmodified":1566639034,
     "wof:name":"Sankwia",
     "wof:parent_id":890422673,
     "wof:placetype":"locality",

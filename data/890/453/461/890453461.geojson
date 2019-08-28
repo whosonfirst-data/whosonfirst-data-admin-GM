@@ -11,10 +11,14 @@
     "geom:longitude":-15.23333,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":145,
+    "gn:population":145,
     "iso:country":"GM",
+    "lbl:bbox":"-15.25333,13.66333,-15.21333,13.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Palaka",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":2412308,
         "gp:id":1321594,
-        "qs:id":573891,
+        "qs_pg:id":573891,
         "wk:page":"Palaka"
     },
     "wof:country":"GM",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890453461,
-    "wof:lastmodified":1527736643,
+    "wof:lastmodified":1566639038,
     "wof:name":"Palaka",
     "wof:parent_id":890413197,
     "wof:placetype":"locality",

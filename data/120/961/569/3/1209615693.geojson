@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-14.13667,13.31333,-14.09667,13.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632603
@@ -34,7 +38,7 @@
         "gn:id":2412796
     },
     "wof:country":"GM",
-    "wof:geomhash":"3f0261bc9bb91f63a61ae10987d90372",
+    "wof:geomhash":"b14583d4c981f11749c1890bd32a1fd7",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209615693,
-    "wof:lastmodified":1536281697,
+    "wof:lastmodified":1566638942,
     "wof:name":"Kundam Fode",
     "wof:parent_id":85632603,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -14.11667,
-    13.333329999999998,
+    13.33333,
     -14.11667,
-    13.333329999999998
+    13.33333
 ],
   "geometry": {"coordinates":[-14.11667,13.33333],"type":"Point"}
 }

@@ -10,8 +10,12 @@
     "geom:latitude":13.41667,
     "geom:longitude":-15.28333,
     "iso:country":"GM",
+    "lbl:bbox":"-15.30333,13.39667,-15.26333,13.43667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0642\u0644\u0639\u0629 \u0628\u0648\u0631\u0646\u063a"
@@ -22,7 +26,7 @@
     "name:fas_x_variant":[
         "\u0628\u0648\u0631\u0646\u06af"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buraing"
     ],
     "qs:gn_country":"GM",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":2413703,
         "gp:id":1321277,
-        "qs:id":1089228
+        "qs_pg:id":1089228
     },
     "wof:country":"GM",
     "wof:created":1459009536,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421188151,
-    "wof:lastmodified":1564216358,
+    "wof:lastmodified":1566639001,
     "wof:name":"Bureng",
     "wof:parent_id":890422675,
     "wof:placetype":"locality",

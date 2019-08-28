@@ -11,11 +11,15 @@
     "geom:longitude":-15.56667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":363,
+    "gn:population":363,
     "iso:country":"GM",
+    "lbl:bbox":"-15.58667,13.56333,-15.54667,13.60333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Yallol Ba"
     ],
     "qs:name":"Yallal Ba",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2411665,
         "gp:id":1415591,
-        "qs:id":91382
+        "qs_pg:id":91382
     },
     "wof:country":"GM",
     "wof:created":1469052126,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890436787,
-    "wof:lastmodified":1505343555,
+    "wof:lastmodified":1566639035,
     "wof:name":"Yallal Ba",
     "wof:parent_id":890413201,
     "wof:placetype":"locality",

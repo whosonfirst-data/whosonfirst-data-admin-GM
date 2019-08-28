@@ -11,11 +11,15 @@
     "geom:longitude":-15.0,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":210,
+    "gn:population":210,
     "iso:country":"GM",
+    "lbl:bbox":"-15.02,13.64667,-14.98,13.68667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kulibanta"
     ],
     "qs:name":"Kununku",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2412773,
         "gp:id":1483207,
-        "qs:id":573949
+        "qs_pg:id":573949
     },
     "wof:country":"GM",
     "wof:created":1469050996,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413327,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566639030,
     "wof:name":"Kununku",
     "wof:parent_id":890422631,
     "wof:placetype":"locality",

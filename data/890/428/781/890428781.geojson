@@ -11,10 +11,14 @@
     "geom:longitude":-14.71667,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":19,
+    "gn:population":19,
     "iso:country":"GM",
+    "lbl:bbox":"-14.73667,13.48,-14.69667,13.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Bukari Kunda",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2413730,
         "gp:id":1322735,
-        "qs:id":574056
+        "qs_pg:id":574056
     },
     "wof:country":"GM",
     "wof:created":1469051771,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890428781,
-    "wof:lastmodified":1505343507,
+    "wof:lastmodified":1566639040,
     "wof:name":"Bukari Kunda",
     "wof:parent_id":890429055,
     "wof:placetype":"locality",

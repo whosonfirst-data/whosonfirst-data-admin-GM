@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
+    "lbl:bbox":"-16.52556,13.52417,-16.48556,13.56417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u2019Bengkama",
         "MBangkama"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343353355,
-    "wof:lastmodified":1537623883,
+    "wof:lastmodified":1566638881,
     "wof:name":"MBangkama",
     "wof:parent_id":890422471,
     "wof:placetype":"locality",

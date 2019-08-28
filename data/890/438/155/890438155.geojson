@@ -11,10 +11,14 @@
     "geom:longitude":-14.7,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":92,
+    "gn:population":92,
     "iso:country":"GM",
+    "lbl:bbox":"-14.72,13.43,-14.68,13.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:amh_x_preferred":[
         "\u12f5\u12a9\u120b"
     ],
@@ -33,7 +37,7 @@
     "name:kor_x_preferred":[
         "\uc784\ubc14\ubc1c\ub77c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kewal"
     ],
     "name:vie_x_preferred":[
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":2412890,
         "gp:id":1321158,
-        "qs:id":573970,
+        "qs_pg:id":573970,
         "wd:id":"Q6453728",
         "wk:page":"K\u00e9wel"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890438155,
-    "wof:lastmodified":1563253326,
+    "wof:lastmodified":1566639035,
     "wof:name":"Kewel",
     "wof:parent_id":890429055,
     "wof:placetype":"locality",

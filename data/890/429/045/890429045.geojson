@@ -11,10 +11,14 @@
     "geom:longitude":-16.0225,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":249,
+    "gn:population":249,
     "iso:country":"GM",
+    "lbl:bbox":"-16.0425,13.54306,-16.0025,13.58306",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Hamdalai",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2413406,
         "gp:id":28752617,
-        "qs:id":91409
+        "qs_pg:id":91409
     },
     "wof:country":"GM",
     "wof:created":1469051790,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890429045,
-    "wof:lastmodified":1505343509,
+    "wof:lastmodified":1566639044,
     "wof:name":"Hamdalai",
     "wof:parent_id":890422473,
     "wof:placetype":"locality",

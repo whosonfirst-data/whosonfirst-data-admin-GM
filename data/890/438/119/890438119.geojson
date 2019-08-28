@@ -11,11 +11,15 @@
     "geom:longitude":-15.43333,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":701,
+    "gn:population":701,
     "iso:country":"GM",
+    "lbl:bbox":"-15.45333,13.34667,-15.41333,13.38667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Digante"
     ],
     "qs:name":"Diganteh",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2413573,
         "gp:id":1322564,
-        "qs:id":574028
+        "qs_pg:id":574028
     },
     "wof:country":"GM",
     "wof:created":1469052181,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890438119,
-    "wof:lastmodified":1505343563,
+    "wof:lastmodified":1566639035,
     "wof:name":"Diganteh",
     "wof:parent_id":1108691465,
     "wof:placetype":"locality",

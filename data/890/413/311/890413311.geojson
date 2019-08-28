@@ -11,11 +11,15 @@
     "geom:longitude":-14.75,
     "gn:country":"GM",
     "gn:fcode":"PPL",
-    "gn:pop":797,
+    "gn:population":797,
     "iso:country":"GM",
+    "lbl:bbox":"-14.77,13.41333,-14.73,13.45333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Madina Tujeng"
     ],
     "qs:name":"Madina Tunjang",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2412664,
         "gp:id":28752610,
-        "qs:id":573932
+        "qs_pg:id":573932
     },
     "wof:country":"GM",
     "wof:created":1469050995,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413311,
-    "wof:lastmodified":1505343413,
+    "wof:lastmodified":1566639030,
     "wof:name":"Madina Tunjang",
     "wof:parent_id":890429055,
     "wof:placetype":"locality",

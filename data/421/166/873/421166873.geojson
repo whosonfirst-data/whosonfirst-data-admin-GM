@@ -10,8 +10,12 @@
     "geom:latitude":13.46667,
     "geom:longitude":-14.45,
     "iso:country":"GM",
+    "lbl:bbox":"-14.47,13.44667,-14.43,13.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"GM",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2413292,
         "gp:id":1321553,
-        "qs:id":1297381
+        "qs_pg:id":1297381
     },
     "wof:country":"GM",
     "wof:created":1459008705,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421166873,
-    "wof:lastmodified":1505340582,
+    "wof:lastmodified":1566638998,
     "wof:name":"Jamwelly",
     "wof:parent_id":890429021,
     "wof:placetype":"locality",
