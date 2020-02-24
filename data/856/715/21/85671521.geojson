@@ -286,6 +286,9 @@
         "wk:page":"Lower River Division"
     },
     "wof:country":"GM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"146b51eea2294f36a31c70df246b280b",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566638890,
+    "wof:lastmodified":1582358169,
     "wof:name":"Lower River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

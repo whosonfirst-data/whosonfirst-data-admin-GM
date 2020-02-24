@@ -103,6 +103,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051460,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58642c04fd1adfdc7b62122c3dbed1bf",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890422705,
-    "wof:lastmodified":1566639011,
+    "wof:lastmodified":1582358172,
     "wof:name":"Foni Jarrol",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

@@ -564,6 +564,9 @@
     },
     "wof:country":"GM",
     "wof:created":1459008747,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d8979350cd82ce250775a40fd61cbfb",
     "wof:hierarchy":[
         {
@@ -572,7 +575,7 @@
         }
     ],
     "wof:id":421167921,
-    "wof:lastmodified":1566639000,
+    "wof:lastmodified":1582358171,
     "wof:name":"Banjul",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

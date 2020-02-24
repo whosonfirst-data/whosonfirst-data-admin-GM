@@ -279,6 +279,9 @@
         "wk:page":"West Coast Division (Gambia)"
     },
     "wof:country":"GM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f270fe33f08131140ea276247c54d354",
     "wof:hierarchy":[
         {
@@ -294,7 +297,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566638891,
+    "wof:lastmodified":1582358170,
     "wof:name":"West Coast",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

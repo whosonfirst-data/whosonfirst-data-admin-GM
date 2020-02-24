@@ -106,6 +106,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051459,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f5d01a8ce1a982e2fef4fde33afba2f7",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890422673,
-    "wof:lastmodified":1566639009,
+    "wof:lastmodified":1582358172,
     "wof:name":"Jarra West",
     "wof:parent_id":85671521,
     "wof:placetype":"county",

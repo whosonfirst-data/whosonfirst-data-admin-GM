@@ -103,6 +103,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469050997,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"51a6ad473815275a595170dc2ce89158",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890413367,
-    "wof:lastmodified":1566639025,
+    "wof:lastmodified":1582358173,
     "wof:name":"Kiang East",
     "wof:parent_id":85671521,
     "wof:placetype":"county",

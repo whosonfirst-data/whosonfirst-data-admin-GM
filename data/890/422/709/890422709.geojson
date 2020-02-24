@@ -103,6 +103,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051460,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"89fd13568d3fe55bcbc97df1d7e46465",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890422709,
-    "wof:lastmodified":1566639006,
+    "wof:lastmodified":1582358172,
     "wof:name":"Foni Bondali",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

@@ -283,6 +283,9 @@
         "wk:page":"Upper River Division"
     },
     "wof:country":"GM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec0c86b9529bec80acdccb1c04d1db99",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566638890,
+    "wof:lastmodified":1582358169,
     "wof:name":"Upper River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

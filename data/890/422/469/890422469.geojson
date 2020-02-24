@@ -100,6 +100,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051447,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"65b9f1d48854bfe70288cd9e144f3151",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890422469,
-    "wof:lastmodified":1566639014,
+    "wof:lastmodified":1582358172,
     "wof:name":"Lower Saloum",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

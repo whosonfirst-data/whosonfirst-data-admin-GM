@@ -106,6 +106,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469050998,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"931840fac9b53b4c12479afb8ee6700f",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890413369,
-    "wof:lastmodified":1566639025,
+    "wof:lastmodified":1582358173,
     "wof:name":"Kiang Central",
     "wof:parent_id":85671521,
     "wof:placetype":"county",

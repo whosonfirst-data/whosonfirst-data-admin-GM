@@ -103,6 +103,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051460,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b229e0fdf0ca3eaa9d8fcb8570306a3d",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890422707,
-    "wof:lastmodified":1566639006,
+    "wof:lastmodified":1582358172,
     "wof:name":"Foni Brefet",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

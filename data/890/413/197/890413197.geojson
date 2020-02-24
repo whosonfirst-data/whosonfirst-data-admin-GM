@@ -100,6 +100,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469050991,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"47fe8a4694ed41bd483a83b4324e1c3d",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890413197,
-    "wof:lastmodified":1566639025,
+    "wof:lastmodified":1582358173,
     "wof:name":"Upper Saloum",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

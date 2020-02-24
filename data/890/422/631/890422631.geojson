@@ -103,6 +103,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051456,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a62b37a4bedcbc0c38bf9320d9a5dd12",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890422631,
-    "wof:lastmodified":1566639015,
+    "wof:lastmodified":1582358172,
     "wof:name":"Niamina East",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

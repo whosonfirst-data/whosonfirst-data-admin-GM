@@ -107,6 +107,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469050990,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7200273df80062f05b7eaa950e1b100f",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":890413179,
-    "wof:lastmodified":1566639031,
+    "wof:lastmodified":1582358173,
     "wof:name":"Wuli",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

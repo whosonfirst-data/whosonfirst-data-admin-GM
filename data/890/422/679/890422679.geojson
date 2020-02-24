@@ -103,6 +103,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051459,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"094102fe9ad98d85183107be2a80ad93",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890422679,
-    "wof:lastmodified":1566639013,
+    "wof:lastmodified":1582358172,
     "wof:name":"Jarra Central",
     "wof:parent_id":85671521,
     "wof:placetype":"county",
