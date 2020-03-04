@@ -531,6 +531,9 @@
         "wd:id":"Q3726"
     },
     "wof:country":"GM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"531bac4606c9679f6bbb2a50caab610d",
     "wof:hierarchy":[
         {
@@ -546,7 +549,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566638890,
+    "wof:lastmodified":1582358169,
     "wof:name":"Banjul",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

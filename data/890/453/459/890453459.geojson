@@ -44,6 +44,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469052855,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"abe1b2cebd0ad1861389c89d2a46a940",
     "wof:hierarchy":[
         {
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890453459,
-    "wof:lastmodified":1566639038,
+    "wof:lastmodified":1582358173,
     "wof:name":"Panchang Madi Fana",
     "wof:parent_id":890413197,
     "wof:placetype":"locality",

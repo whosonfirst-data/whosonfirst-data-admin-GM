@@ -107,6 +107,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051468,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"81da20515e7bd3a9bbf86c7a05c2270d",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":890422847,
-    "wof:lastmodified":1566639012,
+    "wof:lastmodified":1582358172,
     "wof:name":"Niani",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

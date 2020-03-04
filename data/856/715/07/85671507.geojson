@@ -284,6 +284,9 @@
         "wk:page":"Central River Division"
     },
     "wof:country":"GM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0f6dc6484b2fdf4890526b042b2fff37",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566638891,
+    "wof:lastmodified":1582358169,
     "wof:name":"Central River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

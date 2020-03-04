@@ -103,6 +103,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051456,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57da74456b44eda10466ad83d333ea22",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890422629,
-    "wof:lastmodified":1566639009,
+    "wof:lastmodified":1582358172,
     "wof:name":"Niamina West",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

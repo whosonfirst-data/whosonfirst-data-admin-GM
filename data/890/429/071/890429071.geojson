@@ -110,6 +110,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051791,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"df2d898b87fb0d74ef7d54894cd71450",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":890429071,
-    "wof:lastmodified":1566639042,
+    "wof:lastmodified":1582358173,
     "wof:name":"Central Baddibu",
     "wof:parent_id":85671529,
     "wof:placetype":"county",

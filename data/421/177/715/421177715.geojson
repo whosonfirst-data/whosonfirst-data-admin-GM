@@ -202,6 +202,9 @@
     },
     "wof:country":"GM",
     "wof:created":1459009158,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"adb5f7fd36aec4ccfcbc70fd6d9682c8",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421177715,
-    "wof:lastmodified":1566639003,
+    "wof:lastmodified":1582358171,
     "wof:name":"Kerewan",
     "wof:parent_id":890422473,
     "wof:placetype":"locality",

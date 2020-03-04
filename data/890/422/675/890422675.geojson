@@ -103,6 +103,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051459,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"87da3e798e6dc13f5fd7578f332c355b",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890422675,
-    "wof:lastmodified":1566639006,
+    "wof:lastmodified":1582358172,
     "wof:name":"Jarra East",
     "wof:parent_id":85671521,
     "wof:placetype":"county",

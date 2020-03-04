@@ -101,6 +101,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051789,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d01ef12e5922cf72f1e7c77a40b52210",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":890429041,
-    "wof:lastmodified":1566639042,
+    "wof:lastmodified":1582358173,
     "wof:name":"Kantora",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

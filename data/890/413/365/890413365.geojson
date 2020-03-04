@@ -103,6 +103,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469050997,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6a1db1518e40efda1d5d12e9f427c038",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890413365,
-    "wof:lastmodified":1566639017,
+    "wof:lastmodified":1582358173,
     "wof:name":"Kiang West",
     "wof:parent_id":85671521,
     "wof:placetype":"county",

@@ -929,6 +929,11 @@
     },
     "wof:country":"GM",
     "wof:country_alpha3":"GMB",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"43ce0f638e112b0d0860d6989c190a6c",
     "wof:hierarchy":[
         {
@@ -943,7 +948,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566638891,
+    "wof:lastmodified":1582358170,
     "wof:name":"Gambia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

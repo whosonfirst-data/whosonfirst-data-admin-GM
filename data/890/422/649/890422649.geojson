@@ -100,6 +100,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051457,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3048b3d5cc76f2bf2c23e95943aceb6f",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890422649,
-    "wof:lastmodified":1566639011,
+    "wof:lastmodified":1582358172,
     "wof:name":"Jokadu",
     "wof:parent_id":85671529,
     "wof:placetype":"county",

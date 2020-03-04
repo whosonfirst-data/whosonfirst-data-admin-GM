@@ -119,6 +119,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469050996,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"46dfe4873aee634ca467b43d9d082050",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890413349,
-    "wof:lastmodified":1566639023,
+    "wof:lastmodified":1582358173,
     "wof:name":"Kombo North",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

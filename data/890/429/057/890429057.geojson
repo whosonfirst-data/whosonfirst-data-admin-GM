@@ -112,6 +112,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051790,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b349c5c81cb926c7ab6a3e97257dd6c1",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":890429057,
-    "wof:lastmodified":1566639045,
+    "wof:lastmodified":1582358173,
     "wof:name":"Fulladu East",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

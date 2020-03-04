@@ -102,6 +102,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051468,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"106d418dd99bcde69c759cc5db8411ef",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":890422845,
-    "wof:lastmodified":1566639007,
+    "wof:lastmodified":1582358172,
     "wof:name":"Nianija",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

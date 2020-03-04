@@ -98,6 +98,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051788,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62a400c339a5b1c088b6bef7d684d97c",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":890429021,
-    "wof:lastmodified":1566639045,
+    "wof:lastmodified":1582358173,
     "wof:name":"Sandu",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

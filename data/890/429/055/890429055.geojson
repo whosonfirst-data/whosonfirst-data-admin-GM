@@ -109,6 +109,9 @@
     },
     "wof:country":"GM",
     "wof:created":1469051790,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a0f15ea72488fc690af361054a4f2279",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890429055,
-    "wof:lastmodified":1566639043,
+    "wof:lastmodified":1582358173,
     "wof:name":"Fulladu West",
     "wof:parent_id":85671507,
     "wof:placetype":"county",
