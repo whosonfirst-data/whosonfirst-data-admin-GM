@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.007878,
     "geom:area_square_m":94740062.034383,
-    "geom:bbox":"-16.7259618487,13.3920898438,-16.5691989825,13.4886713683",
+    "geom:bbox":"-16.72596184866321,13.39208984375,-16.56919898246086,13.48867136831212",
     "geom:latitude":13.443305,
     "geom:longitude":-16.650771,
     "iso:country":"GM",
@@ -88,13 +88,10 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bd\u03b6\u03bf\u03cd\u03bb"
     ],
-    "name:eng_x_colloquial":[
+    "name:eng_x_historical":[
         "Bathurst"
     ],
     "name:eng_x_preferred":[
-        "Bathurst"
-    ],
-    "name:eng_x_variant":[
         "Banjul"
     ],
     "name:epo_x_preferred":[
@@ -575,7 +572,7 @@
         }
     ],
     "wof:id":421167921,
-    "wof:lastmodified":1582358171,
+    "wof:lastmodified":1583364951,
     "wof:name":"Banjul",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
