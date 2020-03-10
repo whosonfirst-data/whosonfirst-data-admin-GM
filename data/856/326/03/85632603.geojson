@@ -906,9 +906,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"The_Gambia",
-        "digitalenvoy:country_code":[
-            270
-        ],
+        "digitalenvoy:country_code":270,
         "fb:id":"en.the_gambia",
         "fifa:id":"GAM",
         "fips:code":"GA",
@@ -951,7 +949,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529136,
+    "wof:lastmodified":1583797341,
     "wof:name":"Gambia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
