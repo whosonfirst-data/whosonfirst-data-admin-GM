@@ -60,6 +60,9 @@
         "Mansa Konko"
     ],
     "name:por_x_preferred":[
+        "Mansa Konko"
+    ],
+    "name:por_x_variant":[
         "Mansakonko"
     ],
     "name:ron_x_preferred":[
@@ -71,8 +74,14 @@
     "name:tur_x_preferred":[
         "Mansa Konko"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0441\u0430-\u041a\u043e\u043d\u043a\u043e"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u0633\u0627 \u06a9\u0648\u0646\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Mansa Konko"
     ],
     "name:zho_x_preferred":[
         "\u66fc\u85a9\u5b54\u79d1"
@@ -220,7 +229,7 @@
         }
     ],
     "wof:id":421185597,
-    "wof:lastmodified":1566639005,
+    "wof:lastmodified":1636502633,
     "wof:name":"Mansa Konko",
     "wof:parent_id":890422673,
     "wof:placetype":"locality",
