@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Kerewan"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0648\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Kerewan"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:ron_x_preferred":[
         "Kerewan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u0435\u0432\u0430\u043d"
     ],
     "name:spa_x_preferred":[
         "Kerewan"
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":890438159,
-    "wof:lastmodified":1636502634,
+    "wof:lastmodified":1690921852,
     "wof:name":"Kerewan",
     "wof:parent_id":890422631,
     "wof:placetype":"locality",

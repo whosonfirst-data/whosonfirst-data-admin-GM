@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Demba Kunda"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0645\u0628\u0627 \u06a9\u0648\u0646\u062f\u0627"
+    ],
     "name:nld_x_preferred":[
         "Demba Kunda"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890413373,
-    "wof:lastmodified":1566639030,
+    "wof:lastmodified":1690921849,
     "wof:name":"Demba Kunda",
     "wof:parent_id":890422629,
     "wof:placetype":"locality",

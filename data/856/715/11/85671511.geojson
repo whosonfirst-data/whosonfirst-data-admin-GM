@@ -49,6 +49,9 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e\u0440\u0435\u0447\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
+    "name:cat_x_preferred":[
+        "Upper River"
+    ],
     "name:ceb_x_preferred":[
         "Upper River Division"
     ],
@@ -70,6 +73,9 @@
     "name:epo_x_preferred":[
         "Regiono Supra Rivero"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0627\u0644\u0627\u06cc \u0631\u0648\u062f\u062e\u0627\u0646\u0647"
+    ],
     "name:fin_x_preferred":[
         "Upper River Division"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:fra_x_variant":[
         "Upper River"
+    ],
+    "name:frr_x_preferred":[
+        "Basse"
     ],
     "name:glg_x_preferred":[
         "Upper River"
@@ -112,6 +121,9 @@
     "name:kor_x_preferred":[
         "\uc5b4\ud37c\ub9ac\ubc84 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc5b4\ud37c\ub9ac\ubc84\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Aug\u0161teces da\u013ca"
     ],
@@ -132,6 +144,9 @@
     ],
     "name:nob_x_preferred":[
         "Upper River"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d3\u07ca \u07db\u07ca\u07f2\u07d8\u07d0\u07df\u07ca"
     ],
     "name:pol_x_preferred":[
         "Upper River Division"
@@ -307,7 +322,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636502629,
+    "wof:lastmodified":1690921817,
     "wof:name":"Upper River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

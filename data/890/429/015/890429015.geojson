@@ -22,11 +22,17 @@
     "name:ceb_x_preferred":[
         "Sukuta"
     ],
+    "name:dan_x_preferred":[
+        "Sukuta"
+    ],
     "name:deu_x_preferred":[
         "Sukuta"
     ],
     "name:eng_x_preferred":[
         "Sukuta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u062a\u0627"
     ],
     "name:fra_x_preferred":[
         "Sukuta"
@@ -48,6 +54,9 @@
     ],
     "name:ron_x_preferred":[
         "Sukuta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043a\u0443\u0442\u0430"
     ],
     "name:swe_x_preferred":[
         "Sukuta"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":890429015,
-    "wof:lastmodified":1566639042,
+    "wof:lastmodified":1690921856,
     "wof:name":"Sukuta",
     "wof:parent_id":890422675,
     "wof:placetype":"locality",

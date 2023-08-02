@@ -26,10 +26,16 @@
     "name:eng_x_preferred":[
         "Barra"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Barra"
     ],
     "name:fra_x_preferred":[
+        "Barra"
+    ],
+    "name:ita_x_preferred":[
         "Barra"
     ],
     "name:jpn_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421174671,
-    "wof:lastmodified":1566639000,
+    "wof:lastmodified":1690921827,
     "wof:name":"Barra",
     "wof:parent_id":890422471,
     "wof:placetype":"locality",

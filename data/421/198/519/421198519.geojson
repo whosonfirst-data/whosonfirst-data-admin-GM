@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Soma"
+    ],
     "name:ceb_x_preferred":[
         "Soma"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:eng_x_preferred":[
         "Soma"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0645\u0627"
     ],
     "name:fra_x_preferred":[
         "Soma"
@@ -49,6 +55,9 @@
     ],
     "name:ron_x_preferred":[
         "Soma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043c\u0430"
     ],
     "name:swe_x_preferred":[
         "Soma"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":421198519,
-    "wof:lastmodified":1566639002,
+    "wof:lastmodified":1690921830,
     "wof:name":"Soma",
     "wof:parent_id":890422673,
     "wof:placetype":"locality",
