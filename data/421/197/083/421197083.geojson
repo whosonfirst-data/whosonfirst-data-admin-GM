@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Bantango Koto"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u062a\u0627\u0646\u06af\u0648 \u06a9\u0648\u062a\u0648"
+    ],
     "name:nld_x_preferred":[
         "Bantango Koto"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421197083,
-    "wof:lastmodified":1566639003,
+    "wof:lastmodified":1690921830,
     "wof:name":"Bantango Koto",
     "wof:parent_id":890422613,
     "wof:placetype":"locality",

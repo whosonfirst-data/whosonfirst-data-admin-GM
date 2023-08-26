@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Dumbuto"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0645\u0628\u0648\u062a\u0648"
+    ],
     "name:nld_x_preferred":[
         "Dumbuto"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1126026597,
-    "wof:lastmodified":1566639049,
+    "wof:lastmodified":1690921860,
     "wof:name":"Dumbutu",
     "wof:parent_id":890413365,
     "wof:placetype":"locality",

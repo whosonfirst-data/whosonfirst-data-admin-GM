@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Bakadaji"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06a9\u062f\u0627\u062c\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Bakadaji"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125893109,
-    "wof:lastmodified":1566639051,
+    "wof:lastmodified":1690921861,
     "wof:name":"Bakadagy",
     "wof:parent_id":890429057,
     "wof:placetype":"locality",

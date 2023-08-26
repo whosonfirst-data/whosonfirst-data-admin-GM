@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Jenoi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30a7\u30ce\u30a4"
+    ],
     "name:nld_x_preferred":[
         "Jenoi"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890437109,
-    "wof:lastmodified":1566639032,
+    "wof:lastmodified":1690921851,
     "wof:name":"Jenoi",
     "wof:parent_id":890422673,
     "wof:placetype":"locality",

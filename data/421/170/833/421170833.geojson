@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Yundum"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0646\u062f\u0648\u0645"
+    ],
     "name:fra_x_preferred":[
         "Yundum"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421170833,
-    "wof:lastmodified":1566639003,
+    "wof:lastmodified":1690921831,
     "wof:name":"Yundum",
     "wof:parent_id":890413349,
     "wof:placetype":"locality",

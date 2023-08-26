@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Farafenni"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0627\u0641\u0646\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Farafenni"
+    ],
     "name:fra_x_preferred":[
         "Farafenni"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:ron_x_preferred":[
         "Farafenni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u0444\u0435\u043d\u043d\u0438"
     ],
     "name:swe_x_preferred":[
         "Farafenni"
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":421192767,
-    "wof:lastmodified":1566638998,
+    "wof:lastmodified":1690921824,
     "wof:name":"Farafenni",
     "wof:parent_id":890413201,
     "wof:placetype":"locality",

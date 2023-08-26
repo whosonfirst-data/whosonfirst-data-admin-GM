@@ -28,6 +28,9 @@
     "name:ast_x_preferred":[
         "Tuba"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0628\u0627"
+    ],
     "name:aze_x_preferred":[
         "Tuba"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:cym_x_preferred":[
         "Tiwba"
+    ],
+    "name:cym_x_variant":[
+        "tiwba"
     ],
     "name:dan_x_preferred":[
         "Tuba"
@@ -82,6 +88,9 @@
     "name:fin_x_preferred":[
         "Tuuba"
     ],
+    "name:fin_x_variant":[
+        "tuuba"
+    ],
     "name:fra_x_preferred":[
         "tuba"
     ],
@@ -93,6 +102,9 @@
     ],
     "name:gle_x_preferred":[
         "Ti\u00faba"
+    ],
+    "name:gle_x_variant":[
+        "ti\u00faba"
     ],
     "name:glg_x_preferred":[
         "Tuba"
@@ -112,8 +124,14 @@
     "name:hun_x_preferred":[
         "Tuba"
     ],
+    "name:hun_x_variant":[
+        "tuba"
+    ],
     "name:hye_x_preferred":[
         "\u057f\u0578\u0582\u0562\u0561"
+    ],
+    "name:ina_x_preferred":[
+        "Tuba"
     ],
     "name:ind_x_preferred":[
         "Tuba"
@@ -129,6 +147,9 @@
     ],
     "name:kbp_x_preferred":[
         "Tiibaa"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u0443\u0431\u0430"
     ],
     "name:kor_x_preferred":[
         "\ud29c\ubc14"
@@ -169,6 +190,9 @@
     "name:nob_x_preferred":[
         "tuba"
     ],
+    "name:oci_x_preferred":[
+        "Tuba"
+    ],
     "name:pol_x_preferred":[
         "tuba"
     ],
@@ -196,6 +220,15 @@
     "name:slv_x_preferred":[
         "Tuba"
     ],
+    "name:sme_x_preferred":[
+        "tuuba"
+    ],
+    "name:smn_x_preferred":[
+        "tuub\u00e2"
+    ],
+    "name:sms_x_preferred":[
+        "tuuba"
+    ],
     "name:spa_x_preferred":[
         "tuba"
     ],
@@ -219,6 +252,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0431\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Tuba"
     ],
     "name:vie_x_preferred":[
         "Tuba"
@@ -262,7 +298,7 @@
         }
     ],
     "wof:id":890445353,
-    "wof:lastmodified":1566639047,
+    "wof:lastmodified":1690921859,
     "wof:name":"Tuba",
     "wof:parent_id":890429055,
     "wof:placetype":"locality",

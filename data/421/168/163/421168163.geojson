@@ -38,7 +38,16 @@
     "name:fra_x_preferred":[
         "Abuko"
     ],
+    "name:ful_x_preferred":[
+        "Abuko"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d5\u05e7\u05d5"
+    ],
     "name:nld_x_preferred":[
+        "Abuko"
+    ],
+    "name:pol_x_preferred":[
         "Abuko"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421168163,
-    "wof:lastmodified":1566638998,
+    "wof:lastmodified":1690921824,
     "wof:name":"Abuko",
     "wof:parent_id":1108562623,
     "wof:placetype":"locality",
