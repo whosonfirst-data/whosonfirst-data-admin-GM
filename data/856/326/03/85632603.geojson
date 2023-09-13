@@ -1047,7 +1047,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"220",
     "statoids:ds":"WAG",
     "statoids:fifa":"GAM",
@@ -1115,7 +1115,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694492102,
+    "wof:lastmodified":1694639555,
     "wof:name":"Gambia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
