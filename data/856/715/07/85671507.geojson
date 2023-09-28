@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252251,
-    "geom:area_square_m":3031684145.904158,
+    "geom:area_square_m":3031685787.202534,
     "geom:bbox":"-15.466104,13.324065,-14.449391,13.82829",
     "geom:latitude":13.598941,
     "geom:longitude":-14.924507,
@@ -295,17 +295,19 @@
         "gn:id":2412707,
         "gp:id":2345445,
         "hasc:id":"GM.MC",
+        "iso:code":"GM-M",
         "iso:id":"GM-M",
         "qs_pg:id":423767,
         "unlc:id":"GM-M",
         "wd:id":"Q824431",
         "wk:page":"Central River Division"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"762d048bcbe45f2e5c524bc4d5db05f3",
+    "wof:geomhash":"5005c46fd7ce5735ff4e68fba21b2ea7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -320,7 +322,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921819,
+    "wof:lastmodified":1695885131,
     "wof:name":"Central River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

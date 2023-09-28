@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148344,
-    "geom:area_square_m":1785511883.104515,
+    "geom:area_square_m":1785508088.021783,
     "geom:bbox":"-16.825034,13.064271,-15.803606,13.458416",
     "geom:latitude":13.244429,
     "geom:longitude":-16.408755,
@@ -293,17 +293,19 @@
         "gn:id":2411683,
         "gp:id":2345447,
         "hasc:id":"GM.WE",
+        "iso:code":"GM-W",
         "iso:id":"GM-W",
         "qs_pg:id":219555,
         "unlc:id":"GM-W",
         "wd:id":"Q846158",
         "wk:page":"West Coast Division (Gambia)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"30d772fc9a4d11bd7360be0df4a576ac",
+    "wof:geomhash":"64c7ce2b4308c8cba918fa97deb58f2e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921820,
+    "wof:lastmodified":1695884939,
     "wof:name":"West Coast",
     "wof:parent_id":85632603,
     "wof:placetype":"region",
