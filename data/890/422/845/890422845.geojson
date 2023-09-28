@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010698,
-    "geom:area_square_m":128502225.875471,
+    "geom:area_square_m":128502226.077278,
     "geom:bbox":"-15.212934,13.653471,-14.991434,13.775171",
     "geom:latitude":13.727347,
     "geom:longitude":-15.096319,
@@ -103,12 +103,13 @@
         "wd:id":"Q1572202",
         "wk:page":"Senegambian stone circles"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051468,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b02318c7edde1dd82ac8f1d9cff3325e",
+    "wof:geomhash":"311da02c6fefc71369a9ede9aab2df4f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":890422845,
-    "wof:lastmodified":1690921836,
+    "wof:lastmodified":1695885992,
     "wof:name":"Nianija",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

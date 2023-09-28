@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06716,
-    "geom:area_square_m":808110676.204434,
+    "geom:area_square_m":808110676.204448,
     "geom:bbox":"-14.5487453402,13.2176272682,-13.9458336603,13.4547713683",
     "geom:latitude":13.319437,
     "geom:longitude":-14.238295,
@@ -110,12 +110,13 @@
         "wd:id":"Q1473721",
         "wk:page":"Fulladu East"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051790,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b349c5c81cb926c7ab6a3e97257dd6c1",
+    "wof:geomhash":"9f987bd6afa7dd282a9dbb99528a09aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":890429057,
-    "wof:lastmodified":1582358173,
+    "wof:lastmodified":1695885993,
     "wof:name":"Fulladu East",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

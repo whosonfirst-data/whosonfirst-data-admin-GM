@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057884,
-    "geom:area_square_m":696422659.4541,
+    "geom:area_square_m":696422659.454122,
     "geom:bbox":"-16.2301336603,13.2473713683,-15.8048064183,13.4432713683",
     "geom:latitude":13.343027,
     "geom:longitude":-16.004993,
@@ -101,12 +101,13 @@
         "wd:id":"Q1572726",
         "wk:page":"Kiang West National Park"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469050997,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6a1db1518e40efda1d5d12e9f427c038",
+    "wof:geomhash":"f5119738e4d124708aca718bb8cd4afd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":890413365,
-    "wof:lastmodified":1582358173,
+    "wof:lastmodified":1695885993,
     "wof:name":"Kiang West",
     "wof:parent_id":85671521,
     "wof:placetype":"county",

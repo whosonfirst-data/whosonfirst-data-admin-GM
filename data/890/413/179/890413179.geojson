@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051825,
-    "geom:area_square_m":623194959.767353,
+    "geom:area_square_m":623196481.421504,
     "geom:bbox":"-14.282434,13.314771,-13.860481,13.58094",
     "geom:latitude":13.471953,
     "geom:longitude":-14.072469,
@@ -110,12 +110,13 @@
         "wd:id":"Q600022",
         "wk:page":"Wuli"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469050990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b74b070afb7a1d9e9a4e908bc6c24d61",
+    "wof:geomhash":"a912489d0f343c9911d70ca86833539f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":890413179,
-    "wof:lastmodified":1690921849,
+    "wof:lastmodified":1695885992,
     "wof:name":"Wuli",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01258,
-    "geom:area_square_m":151436499.696512,
+    "geom:area_square_m":151435648.341516,
     "geom:bbox":"-16.020325,13.16451,-15.888428,13.292471",
     "geom:latitude":13.218498,
     "geom:longitude":-15.954532,
@@ -104,12 +104,13 @@
         "wd:id":"Q1435751",
         "wk:page":"Foni Bondali"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051460,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e6f334715757fa85a6b06cf68938ef57",
+    "wof:geomhash":"43e611cf13ab519ae9c0dbc73e4ba729",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":890422709,
-    "wof:lastmodified":1690921835,
+    "wof:lastmodified":1695885992,
     "wof:name":"Foni Bondali",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

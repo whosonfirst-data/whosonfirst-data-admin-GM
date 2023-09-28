@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044294,
-    "geom:area_square_m":532429910.887406,
+    "geom:area_square_m":532431624.066968,
     "geom:bbox":"-14.841003,13.430771,-14.449391,13.659279",
     "geom:latitude":13.560395,
     "geom:longitude":-14.61932,
@@ -104,12 +104,13 @@
         "wd:id":"Q728332",
         "wk:page":"Sami District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051455,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0da2b831ed8003526875b194ce808094",
+    "wof:geomhash":"350bbcb0d26dbc66ab52867c507419da",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":890422613,
-    "wof:lastmodified":1690921839,
+    "wof:lastmodified":1695885991,
     "wof:name":"Sami",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025447,
-    "geom:area_square_m":306084835.575079,
+    "geom:area_square_m":306085198.522581,
     "geom:bbox":"-14.033534,13.315656,-13.792053,13.510848",
     "geom:latitude":13.402694,
     "geom:longitude":-13.894657,
@@ -104,12 +104,13 @@
         "wd:id":"Q611397",
         "wk:page":"Kantora District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051789,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9aa6b6db076c8871adeb1748d34fac2e",
+    "wof:geomhash":"8eaf6e669827ae1d260f04be454e379e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":890429041,
-    "wof:lastmodified":1690921857,
+    "wof:lastmodified":1695885993,
     "wof:name":"Kantora",
     "wof:parent_id":85671511,
     "wof:placetype":"county",

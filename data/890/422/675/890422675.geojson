@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016044,
-    "geom:area_square_m":192942342.981881,
+    "geom:area_square_m":192942016.12616,
     "geom:bbox":"-15.346991,13.3592,-15.166485,13.556885",
     "geom:latitude":13.453593,
     "geom:longitude":-15.26834,
@@ -104,12 +104,13 @@
         "wd:id":"Q617233",
         "wk:page":"Jarra East"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051459,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"653674cb6b2b955385939e33e70216d9",
+    "wof:geomhash":"71b4f4f350f4c1a1961585fac55c495f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":890422675,
-    "wof:lastmodified":1690921835,
+    "wof:lastmodified":1695885992,
     "wof:name":"Jarra East",
     "wof:parent_id":85671521,
     "wof:placetype":"county",

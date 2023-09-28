@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03844,
-    "geom:area_square_m":461833336.18208,
+    "geom:area_square_m":461834837.291539,
     "geom:bbox":"-15.039434,13.5415,-14.725281,13.802899",
     "geom:latitude":13.680995,
     "geom:longitude":-14.879117,
@@ -110,12 +110,13 @@
         "wd:id":"Q1572266",
         "wk:page":"Niani"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051468,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"122de8eb220f52450411222c863c819f",
+    "wof:geomhash":"20c334ac620296105f99b8d79593e21d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":890422847,
-    "wof:lastmodified":1690921840,
+    "wof:lastmodified":1695885992,
     "wof:name":"Niani",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

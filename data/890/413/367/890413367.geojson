@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008438,
-    "geom:area_square_m":101493076.008646,
+    "geom:area_square_m":101491906.4811,
     "geom:bbox":"-15.690308,13.350879,-15.598834,13.478871",
     "geom:latitude":13.409808,
     "geom:longitude":-15.647985,
@@ -107,12 +107,13 @@
         "wd:id":"Q1572748",
         "wk:page":"Kiang East"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469050997,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"59433edf7694dbb9c68378e4e42b9d15",
+    "wof:geomhash":"fbb3699c8286dd15d35f3dc750f94571",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":890413367,
-    "wof:lastmodified":1690921847,
+    "wof:lastmodified":1695885993,
     "wof:name":"Kiang East",
     "wof:parent_id":85671521,
     "wof:placetype":"county",

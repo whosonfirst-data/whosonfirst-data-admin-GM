@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011602,
-    "geom:area_square_m":139655519.11167,
+    "geom:area_square_m":139654477.838833,
     "geom:bbox":"-16.121887,13.164531,-15.967667,13.297071",
     "geom:latitude":13.225498,
     "geom:longitude":-16.056798,
@@ -104,12 +104,13 @@
         "wd:id":"Q1435754",
         "wk:page":"Foni Kansala"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051460,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"010efd08fdc1ecf00a72618e23f347f0",
+    "wof:geomhash":"615512af1719f569777f2046871ba10f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":890422703,
-    "wof:lastmodified":1690921839,
+    "wof:lastmodified":1695885992,
     "wof:name":"Foni Kansala",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

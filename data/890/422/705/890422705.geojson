@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008204,
-    "geom:area_square_m":98763533.401844,
+    "geom:area_square_m":98763621.227722,
     "geom:bbox":"-15.89502,13.167101,-15.803606,13.27948",
     "geom:latitude":13.21437,
     "geom:longitude":-15.848889,
@@ -104,12 +104,13 @@
         "wd:id":"Q124275",
         "wk:page":"Foni Jarrol"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051460,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"96a1e8a15579e3deb0e542527a92936a",
+    "wof:geomhash":"85abcf6a8bfde5a857bd85d8c908c259",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":890422705,
-    "wof:lastmodified":1690921838,
+    "wof:lastmodified":1695885992,
     "wof:name":"Foni Jarrol",
     "wof:parent_id":85671525,
     "wof:placetype":"county",
