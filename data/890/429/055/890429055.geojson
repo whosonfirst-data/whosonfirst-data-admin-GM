@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066736,
-    "geom:area_square_m":802518895.909525,
+    "geom:area_square_m":802518895.909452,
     "geom:bbox":"-15.0618790904,13.324065312,-14.5009336603,13.6128713683",
     "geom:latitude":13.466952,
     "geom:longitude":-14.754784,
@@ -107,12 +107,13 @@
         "wd:id":"Q1473729",
         "wk:page":"Fulladu West"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051790,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a0f15ea72488fc690af361054a4f2279",
+    "wof:geomhash":"485da95c7d45cf144b651aaa893eff44",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":890429055,
-    "wof:lastmodified":1582358173,
+    "wof:lastmodified":1695885993,
     "wof:name":"Fulladu West",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

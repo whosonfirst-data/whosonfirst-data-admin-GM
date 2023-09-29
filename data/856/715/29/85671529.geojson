@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.187887,
-    "geom:area_square_m":2259004181.889655,
+    "geom:area_square_m":2259007367.428725,
     "geom:bbox":"-16.560034,13.326371,-15.302034,13.643671",
     "geom:latitude":13.506483,
     "geom:longitude":-16.024108,
@@ -288,17 +288,19 @@
         "gn:id":2412353,
         "gp:id":2345448,
         "hasc:id":"GM.NB",
+        "iso:code":"GM-N",
         "iso:id":"GM-N",
         "qs_pg:id":894884,
         "unlc:id":"GM-N",
         "wd:id":"Q846161",
         "wk:page":"North Bank Division"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6f5bf749eda937907511820dd38463a4",
+    "wof:geomhash":"3fa2488d8c0f467f98e51c1d8abad8a8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -313,7 +315,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921818,
+    "wof:lastmodified":1695885134,
     "wof:name":"North Bank",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

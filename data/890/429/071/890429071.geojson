@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021991,
-    "geom:area_square_m":264390260.592089,
+    "geom:area_square_m":264390260.592096,
     "geom:bbox":"-16.0058336603,13.4417713683,-15.8200336603,13.5928938909",
     "geom:latitude":13.519092,
     "geom:longitude":-15.924566,
@@ -108,12 +108,13 @@
         "wd:id":"Q1053702",
         "wk:page":"Central Baddibu"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051791,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"df2d898b87fb0d74ef7d54894cd71450",
+    "wof:geomhash":"2cdd28e8d996707e5a056ee1a3fca72e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":890429071,
-    "wof:lastmodified":1582358173,
+    "wof:lastmodified":1695885994,
     "wof:name":"Central Baddibu",
     "wof:parent_id":85671529,
     "wof:placetype":"county",

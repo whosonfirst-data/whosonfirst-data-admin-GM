@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000895,
-    "geom:area_square_m":10766267.59673,
+    "geom:area_square_m":10766267.596728,
     "geom:bbox":"-16.6282336603,13.4335713683,-16.5746336603,13.4719713683",
     "geom:latitude":13.45072,
     "geom:longitude":-16.596561,
@@ -413,9 +413,10 @@
     "wof:concordances":{
         "hasc:id":"GM.BJ.BJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1474051428,
-    "wof:geomhash":"31853e30c22f963385d1779aac25743d",
+    "wof:geomhash":"74d331f1044929ec8fae00a95dd17aa9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -425,7 +426,7 @@
         }
     ],
     "wof:id":1108562621,
-    "wof:lastmodified":1566638966,
+    "wof:lastmodified":1695886315,
     "wof:name":"Banjul",
     "wof:parent_id":85671517,
     "wof:placetype":"county",

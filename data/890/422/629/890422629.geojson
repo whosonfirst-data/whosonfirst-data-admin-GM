@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011342,
-    "geom:area_square_m":136332763.179651,
+    "geom:area_square_m":136332763.391215,
     "geom:bbox":"-15.337634,13.504071,-15.197034,13.637771",
     "geom:latitude":13.571538,
     "geom:longitude":-15.259666,
@@ -104,12 +104,13 @@
         "wd:id":"Q1572232",
         "wk:page":"Niamina West"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051456,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cf463051c4d8f9de5edeebef81103ef6",
+    "wof:geomhash":"a0a2c5a0be95c315e47292727f52ab66",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":890422629,
-    "wof:lastmodified":1690921837,
+    "wof:lastmodified":1695885992,
     "wof:name":"Niamina West",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

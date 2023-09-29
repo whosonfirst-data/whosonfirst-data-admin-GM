@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016689,
-    "geom:area_square_m":200869781.520869,
+    "geom:area_square_m":200869781.52086,
     "geom:bbox":"-16.7439336603,13.1664205868,-16.5785336603,13.3337713683",
     "geom:latitude":13.24435,
     "geom:longitude":-16.643127,
@@ -113,12 +113,13 @@
         "wd:id":"Q1572741",
         "wk:page":"Kombo (disambiguation)"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469050997,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b39ade178d034290a024d646968804e0",
+    "wof:geomhash":"2ad2148aac254270b608a77bd1994eb7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":890413355,
-    "wof:lastmodified":1582358173,
+    "wof:lastmodified":1695885993,
     "wof:name":"Kombo Central",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

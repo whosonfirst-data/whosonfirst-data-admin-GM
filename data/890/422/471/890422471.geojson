@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033959,
-    "geom:area_square_m":408272459.164205,
+    "geom:area_square_m":408272459.79527,
     "geom:bbox":"-16.560034,13.413771,-16.289534,13.589971",
     "geom:latitude":13.519294,
     "geom:longitude":-16.428959,
@@ -104,12 +104,13 @@
         "wd:id":"Q915733",
         "wk:page":"Essau"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051447,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"806b7b56bb4811d53bb8e6a53aab4076",
+    "wof:geomhash":"f7eb1354ff394cf02fa203d8afa4a63a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":890422471,
-    "wof:lastmodified":1690921836,
+    "wof:lastmodified":1695885991,
     "wof:name":"Lower Niumi",
     "wof:parent_id":85671529,
     "wof:placetype":"county",

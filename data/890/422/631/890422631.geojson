@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029413,
-    "geom:area_square_m":353444270.387803,
+    "geom:area_square_m":353443679.47714,
     "geom:bbox":"-15.199034,13.547693,-14.892234,13.722371",
     "geom:latitude":13.640427,
     "geom:longitude":-15.062894,
@@ -104,12 +104,13 @@
         "wd:id":"Q1626738",
         "wk:page":"Brikama Ba"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051456,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a523ce062eba025ab5e0fc2a79d68309",
+    "wof:geomhash":"be4e382e1d485cbe4410d7e08668dad9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":890422631,
-    "wof:lastmodified":1690921843,
+    "wof:lastmodified":1695885992,
     "wof:name":"Niamina East",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

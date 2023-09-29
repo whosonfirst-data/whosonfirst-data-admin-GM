@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010344,
-    "geom:area_square_m":124308829.008942,
+    "geom:area_square_m":124308829.202491,
     "geom:bbox":"-15.366634,13.515271,-15.264334,13.690171",
     "geom:latitude":13.614835,
     "geom:longitude":-15.325616,
@@ -87,9 +87,10 @@
         "hasc:id":"GM.MC.ND",
         "wd:id":"Q1572217"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1474051436,
-    "wof:geomhash":"b20bfb67597753d71c61acbf2f6793c2",
+    "wof:geomhash":"ab0791d83456cce3b21459c1be2ca6ec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108562627,
-    "wof:lastmodified":1690921822,
+    "wof:lastmodified":1695886315,
     "wof:name":"Niamina Dankunku",
     "wof:parent_id":85671507,
     "wof:placetype":"county",

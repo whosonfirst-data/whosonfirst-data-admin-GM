@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015045,
-    "geom:area_square_m":180941793.517741,
+    "geom:area_square_m":180941666.119154,
     "geom:bbox":"-15.605123,13.35005,-15.480896,13.514171",
     "geom:latitude":13.433708,
     "geom:longitude":-15.546418,
@@ -107,12 +107,13 @@
         "wd:id":"Q1572209",
         "wk:page":"Jarra West"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051459,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"265658b099e62f2e5d0cc97cc8d9701f",
+    "wof:geomhash":"7b12933479d85c27ff82bf6710e282b3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":890422673,
-    "wof:lastmodified":1690921837,
+    "wof:lastmodified":1695885992,
     "wof:name":"Jarra West",
     "wof:parent_id":85671521,
     "wof:placetype":"county",

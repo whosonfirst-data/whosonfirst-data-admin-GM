@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024308,
-    "geom:area_square_m":292593424.081492,
+    "geom:area_square_m":292592896.527433,
     "geom:bbox":"-16.368534,13.16443,-16.112434,13.322971",
     "geom:latitude":13.235747,
     "geom:longitude":-16.224069,
@@ -94,9 +94,10 @@
         "hasc:id":"GM.WE.FO",
         "wd:id":"Q1421161"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1474051424,
-    "wof:geomhash":"13da1497bcaf06ad7aa18f92de9a916b",
+    "wof:geomhash":"80c02c561bf8a853b1bce74c7581f1c1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108562619,
-    "wof:lastmodified":1690921821,
+    "wof:lastmodified":1695886315,
     "wof:name":"Foni Bintang-Karenai",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

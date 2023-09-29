@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006677,
-    "geom:area_square_m":80301242.281789,
+    "geom:area_square_m":80300704.597921,
     "geom:bbox":"-16.725962,13.39209,-16.606334,13.488671",
     "geom:latitude":13.441602,
     "geom:longitude":-16.661014,
@@ -112,9 +112,10 @@
         "hasc:id":"GM.BJ.KF",
         "wd:id":"Q1762211"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1474051429,
-    "wof:geomhash":"b0983eaa17e346a1356da904eaf8bf6b",
+    "wof:geomhash":"ba9928573a2e07bdead34b8566e4089d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108562623,
-    "wof:lastmodified":1690921822,
+    "wof:lastmodified":1695886315,
     "wof:name":"Kanifing",
     "wof:parent_id":85671517,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011801,
-    "geom:area_square_m":142066046.097431,
+    "geom:area_square_m":142065084.215943,
     "geom:bbox":"-16.432234,13.165479,-16.274934,13.276971",
     "geom:latitude":13.210472,
     "geom:longitude":-16.357089,
@@ -107,12 +107,13 @@
         "wd:id":"Q1435749",
         "wk:page":"Foni Brefet"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GM",
     "wof:created":1469051460,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd770679094d78eb4faa802772f5b6cb",
+    "wof:geomhash":"d659a61dda7432dc53b52df62b6e3b20",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":890422707,
-    "wof:lastmodified":1690921835,
+    "wof:lastmodified":1695885992,
     "wof:name":"Foni Brefet",
     "wof:parent_id":85671525,
     "wof:placetype":"county",

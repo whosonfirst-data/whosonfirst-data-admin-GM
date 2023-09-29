@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123076,
-    "geom:area_square_m":1480515244.438986,
+    "geom:area_square_m":1480513222.337109,
     "geom:bbox":"-16.230134,13.247371,-15.166485,13.556885",
     "geom:latitude":13.386718,
     "geom:longitude":-15.740805,
@@ -294,17 +294,19 @@
         "gn:id":2412716,
         "gp:id":2345444,
         "hasc:id":"GM.LR",
+        "iso:code":"GM-L",
         "iso:id":"GM-L",
         "qs_pg:id":423766,
         "unlc:id":"GM-L",
         "wd:id":"Q824421",
         "wk:page":"Lower River Division"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95104889bbe49d18db0229c8634fa84e",
+    "wof:geomhash":"75310fef73ca74cee51115279f097746",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -319,7 +321,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921819,
+    "wof:lastmodified":1695885133,
     "wof:name":"Lower River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174218,
-    "geom:area_square_m":2095633692.656204,
+    "geom:area_square_m":2095634387.831039,
     "geom:bbox":"-14.548745,13.217627,-13.792053,13.58094",
     "geom:latitude":13.394681,
     "geom:longitude":-14.161808,
@@ -297,17 +297,19 @@
         "gn:id":2411711,
         "gp:id":2345446,
         "hasc:id":"GM.UR",
+        "iso:code":"GM-U",
         "iso:id":"GM-U",
         "qs_pg:id":496856,
         "unlc:id":"GM-U",
         "wd:id":"Q824373",
         "wk:page":"Upper River Division"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ff615886b77178603044af5a07172fc2",
+    "wof:geomhash":"5b5382ff7f09e016f9737904b454c375",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -322,7 +324,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921817,
+    "wof:lastmodified":1695884939,
     "wof:name":"Upper River",
     "wof:parent_id":85632603,
     "wof:placetype":"region",
