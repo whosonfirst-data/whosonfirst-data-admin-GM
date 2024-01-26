@@ -9,6 +9,19 @@
     "geom:bbox":"-16.08879,13.4898,-16.08879,13.4898",
     "geom:latitude":13.4898,
     "geom:longitude":-16.08879,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kerewan",
+    "gn:country_code":"GM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2412992,
+    "gn:latitude":13.4898,
+    "gn:longitude":-16.08879,
+    "gn:modification_date":"2011-02-02",
+    "gn:name":"Kerewan",
+    "gn:population":2751,
+    "gn:timezone":"Africa/Banjul",
     "iso:country":"GM",
     "lbl:bbox":"-16.10879,13.4698,-16.06879,13.5098",
     "lbl:max_zoom":15.0,
@@ -243,7 +256,15 @@
         "wk:page":"Kerewan"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1352656
+        "gn:id":[
+            2412992
+        ],
+        "qs_pg:id":[
+            1352656
+        ],
+        "wk:page":[
+            "Kerewan"
+        ]
     },
     "wof:country":"GM",
     "wof:created":1459009158,
@@ -261,7 +282,7 @@
         }
     ],
     "wof:id":421177715,
-    "wof:lastmodified":1690921831,
+    "wof:lastmodified":1706239753,
     "wof:name":"Kerewan",
     "wof:parent_id":890422473,
     "wof:placetype":"locality",
@@ -269,7 +290,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-gm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293710267
+    ],
     "wof:tags":[]
 },
   "bbox": [
